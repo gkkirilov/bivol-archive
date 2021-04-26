@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Юнкер &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/%d1%8e%d0%bd%d0%ba%d0%b5%d1%80/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Tue, 28 Jan 2020 13:02:33 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Юнкер &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>При управлението на Порожанов  300 тарикати са взели 76 милиона за &#8220;къщи за тъщи&#8221;</title>
+		<link>https://bivol.bg/kushti-za-tushti-2.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 09 May 2017 07:04:00 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[ДФЗ]]></category>
+		<category><![CDATA[Къщи за тъщи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Борисов]]></category>
+		<category><![CDATA[Ден на Европа]]></category>
+		<category><![CDATA[Еврофондове]]></category>
+		<category><![CDATA[Злоупотреби]]></category>
+		<category><![CDATA[Кражби]]></category>
+		<category><![CDATA[Порожанов]]></category>
+		<category><![CDATA[Юнкер]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=33799</guid>
+
+					<description><![CDATA[<div>вторник 9 май 2017</div><BR><div><img width="1024" height="576" src="https://bivol.bg/wp-content/uploads/2017/01/20161017_170740-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2017/01/20161017_170740.jpg 1024w, https://bivol.bg/wp-content/uploads/2017/01/20161017_170740-300x169.jpg 300w, https://bivol.bg/wp-content/uploads/2017/01/20161017_170740-768x432.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="32941" data-permalink="https://bivol.bg/?attachment_id=32941" data-orig-file="https://bivol.bg/wp-content/uploads/2017/01/20161017_170740.jpg" data-orig-size="1024,576" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-G935F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1476724060&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.2&quot;,&quot;iso&quot;:&quot;40&quot;,&quot;shutter_speed&quot;:&quot;0.0053763440860215&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20161017_170740" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2017/01/20161017_170740-300x169.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2017/01/20161017_170740-1024x576.jpg" /></div>Крещящ пример за престъпно отклоняване на евросредства за лични нужди са т.нар. къщи за гости, финансирани с над 202 млн. лв. по Програмата за финансиране на селските райони. Поне 45%&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2017/01/20161017_170740-1024x576.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">33799</post-id>	</item>
+	</channel>
+</rss>

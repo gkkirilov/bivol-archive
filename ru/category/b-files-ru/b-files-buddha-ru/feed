@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Бойко Борисов &#8211; Буда &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/ru/category/b-files-ru/b-files-buddha-ru/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg/ru</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Tue, 03 Apr 2018 08:45:36 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Бойко Борисов &#8211; Буда &#8211; Bivol.bg</title>
+	<link>https://bivol.bg/ru</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Мафия «Булгартабак»: часть 1</title>
+		<link>https://bivol.bg/ru/bulgartabak-mafia-1.html</link>
+		
+		<dc:creator><![CDATA[Биволъ]]></dc:creator>
+		<pubDate>Sat, 01 Aug 2015 06:59:25 +0000</pubDate>
+				<category><![CDATA[Бойко Борисов - Буда]]></category>
+		<category><![CDATA[Булгартабак]]></category>
+		<category><![CDATA[На первой]]></category>
+		<category><![CDATA[Пеевски]]></category>
+		<category><![CDATA[Погоня]]></category>
+		<category><![CDATA[Борисов]]></category>
+		<category><![CDATA[ВТБ]]></category>
+		<guid isPermaLink="false">https://bivol.bg?p=38908</guid>
+
+					<description><![CDATA[<div>Суббота 1 августа 2015</div><BR><div><img width="1024" height="449" src="https://bivol.bg/wp-content/uploads/2015/08/schurti-taskapan-1024x449.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2015/08/schurti-taskapan-1024x449.jpg 1024w, https://bivol.bg/wp-content/uploads/2015/08/schurti-taskapan-300x132.jpg 300w, https://bivol.bg/wp-content/uploads/2015/08/schurti-taskapan.jpg 1126w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="38912" data-permalink="https://bivol.bg/ru/bulgartabak-mafia-1.html/schurti-taskapan" data-orig-file="https://bivol.bg/wp-content/uploads/2015/08/schurti-taskapan.jpg" data-orig-size="1126,494" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="schurti-taskapan" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2015/08/schurti-taskapan-300x132.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2015/08/schurti-taskapan-1024x449.jpg" /></div>О приватизации болгарского табачного холдинга уже написано много. После нескольких неудачных попыток в последние два десятилетия, проваленных из-за политического вмешательства партии ДПС, мажоритарная доля в компании (79,83%) была продана в&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2015/08/schurti-taskapan-1024x449.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">38908</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Тамбовска мафия &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/%d1%82%d0%b0%d0%bc%d0%b1%d0%be%d0%b2%d1%81%d0%ba%d0%b0-%d0%bc%d0%b0%d1%84%d0%b8%d1%8f/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Mon, 10 Feb 2020 09:04:52 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Тамбовска мафия &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Юрген Рот: Путин е продукт на КГБ и работи с престъпни групировки когато му е нужно</title>
+		<link>https://bivol.bg/jurgen-roth-putin-interview.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2017 05:16:01 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Въ агъла (интервю)]]></category>
+		<category><![CDATA[Руско влияние]]></category>
+		<category><![CDATA[SPAG]]></category>
+		<category><![CDATA[Анастасия Кириленко]]></category>
+		<category><![CDATA[Германия]]></category>
+		<category><![CDATA[Интервю]]></category>
+		<category><![CDATA[Корупция]]></category>
+		<category><![CDATA[Мафия]]></category>
+		<category><![CDATA[ОПГ]]></category>
+		<category><![CDATA[Престъпност]]></category>
+		<category><![CDATA[Путин]]></category>
+		<category><![CDATA[Русия]]></category>
+		<category><![CDATA[Тамбовска мафия]]></category>
+		<category><![CDATA[Юрген Рот]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=35280</guid>
+
+					<description><![CDATA[<div>петък 13 октомври 2017</div><BR><div><img width="466" height="404" src="https://bivol.bg/wp-content/uploads/2010/11/roth.png" class="attachment-large size-large wp-post-image" alt="roth" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="14372" data-permalink="https://bivol.bg/roth-interview-pozicii.html/roth" data-orig-file="https://bivol.bg/wp-content/uploads/2010/11/roth.png" data-orig-size="466,404" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="roth" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2010/11/roth-300x260.png" data-large-file="https://bivol.bg/wp-content/uploads/2010/11/roth.png" /></div>На 72 годишна възраст в Германия след продължително боледуване почина известният  разследващ журналист Юрген Рот. От 70-те до кончината си той не спря да публикува книги за корупцията, търговията с&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2010/11/roth.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">35280</post-id>	</item>
+	</channel>
+</rss>

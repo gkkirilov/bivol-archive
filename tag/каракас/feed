@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Каракас &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/%d0%ba%d0%b0%d1%80%d0%b0%d0%ba%d0%b0%d1%81/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Sun, 04 Apr 2021 07:57:13 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Каракас &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Разследване на „Биволъ“ и Armando Info   Машинният вот в България е непрозрачен като в чавистка Венецуела</title>
+		<link>https://bivol.bg/%d0%bc%d0%b0%d1%88%d0%b8%d0%bd%d0%bd%d0%b8%d1%8f%d1%82-%d0%b2%d0%be%d1%82-%d0%b2-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%8f-%d0%b5-%d0%bd%d0%b5%d0%bf%d1%80%d0%be%d0%b7%d1%80%d0%b0%d1%87%d0%b5.html</link>
+		
+		<dc:creator><![CDATA[Николай Марченко]]></dc:creator>
+		<pubDate>Sat, 03 Apr 2021 19:05:36 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Armando Info]]></category>
+		<category><![CDATA[Венецуела]]></category>
+		<category><![CDATA[Каракас]]></category>
+		<category><![CDATA[Машинно гласуване]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=73250</guid>
+
+					<description><![CDATA[<div>събота 3 април 2021</div><BR><div><img width="1009" height="446" src="https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_.jpeg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_.jpeg 1009w, https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_-300x133.jpeg 300w, https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_-768x339.jpeg 768w, https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_-585x259.jpeg 585w" sizes="(max-width: 1009px) 100vw, 1009px" data-attachment-id="73309" data-permalink="https://bivol.bg/%d0%bc%d0%b0%d1%88%d0%b8%d0%bd%d0%bd%d0%b8%d1%8f%d1%82-%d0%b2%d0%be%d1%82-%d0%b2-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%8f-%d0%b5-%d0%bd%d0%b5%d0%bf%d1%80%d0%be%d0%b7%d1%80%d0%b0%d1%87%d0%b5.html/venezuela_dir-bg" data-orig-file="https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_.jpeg" data-orig-size="1009,446" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Venezuela_Dir.bg" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_-300x133.jpeg" data-large-file="https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_.jpeg" /></div>През януари 2021 г. „Демократична България“ поиска независим одит на машините за гласуване, а „Биволъ“ описа тайните на венецуелския им вносител и българския му партньор Ciela Norma. В отговор на&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_.jpeg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">73250</post-id>	</item>
+	</channel>
+</rss>

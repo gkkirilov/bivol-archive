@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>ЦИК &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/%d1%86%d0%b8%d0%ba/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Fri, 02 Apr 2021 10:07:29 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>ЦИК &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Говорител на ЦИК:   „Не могат да преброят 50 гласа, искат машини?“</title>
+		<link>https://bivol.bg/%d0%bd%d0%b5-%d0%bc%d0%be%d0%b3%d0%b0%d1%82-%d0%b4%d0%b0-%d0%bf%d1%80%d0%b5%d0%b1%d1%80%d0%be%d1%8f%d1%82-50-%d0%b3%d0%bb%d0%b0%d1%81%d0%b0-%d0%b8%d1%81%d0%ba%d0%b0%d1%82-%d0%bc%d0%b0%d1%88.html</link>
+		
+		<dc:creator><![CDATA[Николай Марченко]]></dc:creator>
+		<pubDate>Wed, 31 Mar 2021 17:51:45 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Димитър Димитров]]></category>
+		<category><![CDATA[избори 2021]]></category>
+		<category><![CDATA[машинен вот]]></category>
+		<category><![CDATA[Машинно гласуване]]></category>
+		<category><![CDATA[ЦИК]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=73167</guid>
+
+					<description><![CDATA[<div>сряда 31 март 2021</div><BR><div><img width="925" height="520" src="https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov.jpeg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov.jpeg 925w, https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov-300x169.jpeg 300w, https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov-768x432.jpeg 768w, https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov-585x329.jpeg 585w" sizes="(max-width: 925px) 100vw, 925px" data-attachment-id="73168" data-permalink="https://bivol.bg/%d0%bd%d0%b5-%d0%bc%d0%be%d0%b3%d0%b0%d1%82-%d0%b4%d0%b0-%d0%bf%d1%80%d0%b5%d0%b1%d1%80%d0%be%d1%8f%d1%82-50-%d0%b3%d0%bb%d0%b0%d1%81%d0%b0-%d0%b8%d1%81%d0%ba%d0%b0%d1%82-%d0%bc%d0%b0%d1%88.html/dimitardimitrov" data-orig-file="https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov.jpeg" data-orig-size="925,520" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="DimitarDimitrov" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov-300x169.jpeg" data-large-file="https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov.jpeg" /></div>Говорителят на Централната избирателна комисия (ЦИК) Димитър Димитров смята машините за гласуване, въведени тази година в избирателните секции с над 300 души, за абсолютно &#8220;безсмислени&#8221;.  „Така ли и не разбрахте,&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov.jpeg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">73167</post-id>	</item>
+		<item>
+		<title>ГЕРБ отрича конфликта на интереси  Директор в ББР номинира Александър Андреев за шеф на ЦИК</title>
+		<link>https://bivol.bg/cik-bbr-andreev-gunchev.html</link>
+		
+		<dc:creator><![CDATA[Николай Марченко]]></dc:creator>
+		<pubDate>Fri, 02 Oct 2020 05:27:48 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Алексансър Андреев]]></category>
+		<category><![CDATA[ББР]]></category>
+		<category><![CDATA[конфликт на интереси]]></category>
+		<category><![CDATA[Корупция]]></category>
+		<category><![CDATA[Студентски съвети]]></category>
+		<category><![CDATA[Тодор Гунчев]]></category>
+		<category><![CDATA[Търговия с влияние]]></category>
+		<category><![CDATA[ЦИК]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=64811</guid>
+
+					<description><![CDATA[<div>петък 2 октомври 2020</div><BR><div><img width="1024" height="683" src="https://bivol.bg/wp-content/uploads/2020/10/Andreev-CIK--1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/10/Andreev-CIK--1024x683.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/10/Andreev-CIK--300x200.jpg 300w, https://bivol.bg/wp-content/uploads/2020/10/Andreev-CIK--768x512.jpg 768w, https://bivol.bg/wp-content/uploads/2020/10/Andreev-CIK--1536x1024.jpg 1536w, https://bivol.bg/wp-content/uploads/2020/10/Andreev-CIK--1170x780.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/10/Andreev-CIK--585x390.jpg 585w, https://bivol.bg/wp-content/uploads/2020/10/Andreev-CIK--263x175.jpg 263w, https://bivol.bg/wp-content/uploads/2020/10/Andreev-CIK-.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="64812" data-permalink="https://bivol.bg/cik-bbr-andreev-gunchev.html/andreev-cik" data-orig-file="https://bivol.bg/wp-content/uploads/2020/10/Andreev-CIK-.jpg" data-orig-size="1920,1280" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 70D&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1569506962&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;120&quot;,&quot;iso&quot;:&quot;2500&quot;,&quot;shutter_speed&quot;:&quot;0.00625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Andreev CIK" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/10/Andreev-CIK--300x200.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/10/Andreev-CIK--1024x683.jpg" /></div>Федерация на независимите студентски дружества (ФНСД) е единствената организация, номинирала Александър Андреев за председател на Централната избирателна комисия (ЦИК). Нейният лидер Тодор Гунчев е назначен в топмениджмънта на държавната Българска&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/10/Andreev-CIK--1024x683.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">64811</post-id>	</item>
+		<item>
+		<title>Как данните от ЦИК и НСИ разкриват 480 000 гласоподаватели «мъртви души»</title>
+		<link>https://bivol.bg/480-000.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 19 Nov 2019 18:51:33 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[2019]]></category>
+		<category><![CDATA[Избори]]></category>
+		<category><![CDATA[НСИ]]></category>
+		<category><![CDATA[Статистика]]></category>
+		<category><![CDATA[ЦИК]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=49044</guid>
+
+					<description><![CDATA[<div>вторник 19 ноември 2019</div><BR><div><img width="1002" height="742" src="https://bivol.bg/wp-content/uploads/2013/06/Capture_2013-06-14_a_10.43.53.jpg" class="attachment-large size-large wp-post-image" alt="Capture_2013-06-14_a_10.43.53" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2013/06/Capture_2013-06-14_a_10.43.53.jpg 1002w, https://bivol.bg/wp-content/uploads/2013/06/Capture_2013-06-14_a_10.43.53-300x222.jpg 300w, https://bivol.bg/wp-content/uploads/2013/06/Capture_2013-06-14_a_10.43.53-720x533.jpg 720w" sizes="(max-width: 1002px) 100vw, 1002px" data-attachment-id="16263" data-permalink="https://bivol.bg/peevski-dans.html/capture_2013-06-14_a_10-43-53" data-orig-file="https://bivol.bg/wp-content/uploads/2013/06/Capture_2013-06-14_a_10.43.53.jpg" data-orig-size="1002,742" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Capture_2013-06-14_a_10.43.53" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2013/06/Capture_2013-06-14_a_10.43.53-300x222.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2013/06/Capture_2013-06-14_a_10.43.53.jpg" /></div>На 24 октомври 2019 г. говорителят на ЦИК Александър Андреев съобщи, че на местните избори на 27 октомври т.г., правото си на глас следва да упражнят общо 6 227 901&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2013/06/Capture_2013-06-14_a_10.43.53.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">49044</post-id>	</item>
+		<item>
+		<title>Нов миш-маш с данните за избирателите оповестени от ЦИК</title>
+		<link>https://bivol.bg/voters-mish-mash.html</link>
+		
+		<dc:creator><![CDATA[Атанас Чобанов]]></dc:creator>
+		<pubDate>Wed, 06 Nov 2019 10:55:44 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[2019]]></category>
+		<category><![CDATA[Избиратели]]></category>
+		<category><![CDATA[Избори]]></category>
+		<category><![CDATA[Местни избори]]></category>
+		<category><![CDATA[Отворени данни]]></category>
+		<category><![CDATA[ЦИК]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=48954</guid>
+
+					<description><![CDATA[<div>сряда 6 ноември 2019</div><BR><div><img width="1024" height="686" src="https://bivol.bg/wp-content/uploads/2019/11/cik-1100000-Sofia-1024x686.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2019/11/cik-1100000-Sofia-1024x686.png 1024w, https://bivol.bg/wp-content/uploads/2019/11/cik-1100000-Sofia-300x201.png 300w, https://bivol.bg/wp-content/uploads/2019/11/cik-1100000-Sofia-768x514.png 768w, https://bivol.bg/wp-content/uploads/2019/11/cik-1100000-Sofia-1170x783.png 1170w, https://bivol.bg/wp-content/uploads/2019/11/cik-1100000-Sofia-1920x1286.png 1920w, https://bivol.bg/wp-content/uploads/2019/11/cik-1100000-Sofia-585x392.png 585w, https://bivol.bg/wp-content/uploads/2019/11/cik-1100000-Sofia-263x175.png 263w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="48956" data-permalink="https://bivol.bg/voters-mish-mash.html/cik-1100000-sofia" data-orig-file="https://bivol.bg/wp-content/uploads/2019/11/cik-1100000-Sofia.png" data-orig-size="2530,1694" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="cik-1100000-Sofia" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2019/11/cik-1100000-Sofia-300x201.png" data-large-file="https://bivol.bg/wp-content/uploads/2019/11/cik-1100000-Sofia-1024x686.png" /></div>Централната избирателна комисия обясни с &#8220;техническа грешка&#8221; липсата на цели 100 000 избиратели в списъците в София, изчезнали между първи и втори тур на местните избори. Това стана след като&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2019/11/cik-1100000-Sofia-1024x686.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">48954</post-id>	</item>
+		<item>
+		<title>За четири дни ЦИК изяла 13577 лева. И машинното гласуване</title>
+		<link>https://bivol.bg/cik-preferences-food.html</link>
+		
+		<dc:creator><![CDATA[Атанас Чобанов]]></dc:creator>
+		<pubDate>Sat, 15 Jun 2019 12:46:40 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[2019]]></category>
+		<category><![CDATA[Баханов]]></category>
+		<category><![CDATA[Ганчева]]></category>
+		<category><![CDATA[Избори]]></category>
+		<category><![CDATA[Машинно гласуване]]></category>
+		<category><![CDATA[Преференции]]></category>
+		<category><![CDATA[Привилегии]]></category>
+		<category><![CDATA[ЦИК]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=47572</guid>
+
+					<description><![CDATA[<div>събота 15 юни 2019</div><BR><div><img width="902" height="582" src="https://bivol.bg/wp-content/uploads/2019/06/gancheva-bahanov.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2019/06/gancheva-bahanov.png 902w, https://bivol.bg/wp-content/uploads/2019/06/gancheva-bahanov-300x194.png 300w, https://bivol.bg/wp-content/uploads/2019/06/gancheva-bahanov-768x496.png 768w, https://bivol.bg/wp-content/uploads/2019/06/gancheva-bahanov-585x377.png 585w" sizes="(max-width: 902px) 100vw, 902px" data-attachment-id="47577" data-permalink="https://bivol.bg/cik-preferences-food.html/gancheva-bahanov" data-orig-file="https://bivol.bg/wp-content/uploads/2019/06/gancheva-bahanov.png" data-orig-size="902,582" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="gancheva-bahanov" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2019/06/gancheva-bahanov-300x194.png" data-large-file="https://bivol.bg/wp-content/uploads/2019/06/gancheva-bahanov.png" /></div>От 25 до 28 май двадесетината членове на ЦИК са погълнали храни и топли напитки за 13 577,57 лв, което прави по 169 лева на човек за ден. Това става&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2019/06/gancheva-bahanov.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">47572</post-id>	</item>
+		<item>
+		<title>Миш-маш в публикуваните от ЦИК данни за евроизборите повдига сериозни въпроси за броенето на гласовете</title>
+		<link>https://bivol.bg/cik-open-data-ep2019.html</link>
+		
+		<dc:creator><![CDATA[Атанас Чобанов]]></dc:creator>
+		<pubDate>Mon, 03 Jun 2019 16:33:02 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Бюлетини]]></category>
+		<category><![CDATA[Избори за европейски парламент 2019 г.]]></category>
+		<category><![CDATA[Машинно гласуване]]></category>
+		<category><![CDATA[Несъответствия]]></category>
+		<category><![CDATA[ЦИК]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=47473</guid>
+
+					<description><![CDATA[<div>понеделник 3 юни 2019</div><BR><div><img width="1024" height="549" src="https://bivol.bg/wp-content/uploads/2019/06/protocols-1024x549.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2019/06/protocols-1024x549.png 1024w, https://bivol.bg/wp-content/uploads/2019/06/protocols-300x161.png 300w, https://bivol.bg/wp-content/uploads/2019/06/protocols-768x412.png 768w, https://bivol.bg/wp-content/uploads/2019/06/protocols-1170x627.png 1170w, https://bivol.bg/wp-content/uploads/2019/06/protocols-585x314.png 585w, https://bivol.bg/wp-content/uploads/2019/06/protocols.png 1856w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="47474" data-permalink="https://bivol.bg/cik-open-data-ep2019.html/protocols" data-orig-file="https://bivol.bg/wp-content/uploads/2019/06/protocols.png" data-orig-size="1856,995" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="protocols" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2019/06/protocols-300x161.png" data-large-file="https://bivol.bg/wp-content/uploads/2019/06/protocols-1024x549.png" /></div>Централната избирателна комисия публикува в сайта си данните от изборите за Европейски парламент в отворен, машинно четим формат, в съответствие с Директива 2003/98/ЕО на Европейския парламент. Данните са публикувани с&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2019/06/protocols-1024x549.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">47473</post-id>	</item>
+		<item>
+		<title>Полетни данни: Депутатът Пеевски прекарва работното си време в Дубай</title>
+		<link>https://bivol.bg/peevski-dubai.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 07 May 2019 06:09:19 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Пеевски]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[2019]]></category>
+		<category><![CDATA[БОЕЦ]]></category>
+		<category><![CDATA[ДПС]]></category>
+		<category><![CDATA[Дубай]]></category>
+		<category><![CDATA[Евродепутат]]></category>
+		<category><![CDATA[Полети]]></category>
+		<category><![CDATA[ЦИК]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=46993</guid>
+
+					<description><![CDATA[<div>вторник 7 май 2019</div><BR><div><img width="380" height="285" src="https://bivol.bg/wp-content/uploads/2013/06/peevski.jpg" class="attachment-large size-large wp-post-image" alt="peevski" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2013/06/peevski.jpg 380w, https://bivol.bg/wp-content/uploads/2013/06/peevski-300x225.jpg 300w" sizes="(max-width: 380px) 100vw, 380px" data-attachment-id="16308" data-permalink="https://bivol.bg/peevski-facebook.html/peevski" data-orig-file="https://bivol.bg/wp-content/uploads/2013/06/peevski.jpg" data-orig-size="380,285" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="peevski" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2013/06/peevski-300x225.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2013/06/peevski.jpg" /></div>Най-богатият български депутат Делян Пеевски прекарва по-голямата част от работното си време в Дубай, сочат полетни данни за последните три години, до които Биволъ получи достъп. Броят на пътуванията и&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2013/06/peevski.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">46993</post-id>	</item>
+		<item>
+		<title>Трудният машинен избор: Чавес, Сорос и &#8220;Делян&#8221; или китайски лаптопи?</title>
+		<link>https://bivol.bg/delian-soros-chavez-voting-machines.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Mon, 13 Feb 2017 08:06:45 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Smartmatic]]></category>
+		<category><![CDATA[Делян]]></category>
+		<category><![CDATA[Иван Тодоров]]></category>
+		<category><![CDATA[Лаптопи]]></category>
+		<category><![CDATA[Машинно гласуване]]></category>
+		<category><![CDATA[Сиела Норма]]></category>
+		<category><![CDATA[ЦИК]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=33126</guid>
+
+					<description><![CDATA[<div>понеделник 13 февруари 2017</div><BR><div><img width="480" height="658" src="https://bivol.bg/wp-content/uploads/2017/02/SAES-3376_Ecuador_alcaldes_santo_domingox480.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2017/02/SAES-3376_Ecuador_alcaldes_santo_domingox480.png 480w, https://bivol.bg/wp-content/uploads/2017/02/SAES-3376_Ecuador_alcaldes_santo_domingox480-219x300.png 219w" sizes="(max-width: 480px) 100vw, 480px" data-attachment-id="33127" data-permalink="https://bivol.bg/delian-soros-chavez-voting-machines.html/saes-3376_ecuador_alcaldes_santo_domingox480" data-orig-file="https://bivol.bg/wp-content/uploads/2017/02/SAES-3376_Ecuador_alcaldes_santo_domingox480.png" data-orig-size="480,658" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="SAES-3376_Ecuador_alcaldes_santo_domingox480" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2017/02/SAES-3376_Ecuador_alcaldes_santo_domingox480-219x300.png" data-large-file="https://bivol.bg/wp-content/uploads/2017/02/SAES-3376_Ecuador_alcaldes_santo_domingox480.png" /></div>Влезли Делян, Сорос и Чавес в един бар и се разбрали как да изкарат&#160;едни милиони от българските избори. В този анекдот има голяма доза реални факти. Миналия петък (10.02.2017)&#160;на сайта&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2017/02/SAES-3376_Ecuador_alcaldes_santo_domingox480.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">33126</post-id>	</item>
+		<item>
+		<title>Как да пресметнем разпределението на мандатите от Избори 2014</title>
+		<link>https://bivol.bg/%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d0%bf%d1%80%d0%b5%d1%81%d0%bc%d0%b5%d1%82%d0%bd%d0%b5%d0%bc-%d1%80%d0%b0%d0%b7%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5%d1%82%d0%be-%d0%bd%d0%b0.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 05 Oct 2014 13:44:48 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Избори 2014]]></category>
+		<category><![CDATA[Калинчи код]]></category>
+		<category><![CDATA[ЦИК]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=20748</guid>
+
+					<description><![CDATA[<div>неделя 5 октомври 2014</div><BR><div><img width="1024" height="1024" src="https://bivol.bg/wp-content/uploads/2014/10/izbori-1024x1024.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2014/10/izbori-1024x1024.jpg 1024w, https://bivol.bg/wp-content/uploads/2014/10/izbori-150x150.jpg 150w, https://bivol.bg/wp-content/uploads/2014/10/izbori-300x300.jpg 300w, https://bivol.bg/wp-content/uploads/2014/10/izbori-450x450.jpg 450w, https://bivol.bg/wp-content/uploads/2014/10/izbori-90x90.jpg 90w, https://bivol.bg/wp-content/uploads/2014/10/izbori-45x45.jpg 45w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="20749" data-permalink="https://bivol.bg/%d0%ba%d0%b0%d0%ba-%d0%b4%d0%b0-%d0%bf%d1%80%d0%b5%d1%81%d0%bc%d0%b5%d1%82%d0%bd%d0%b5%d0%bc-%d1%80%d0%b0%d0%b7%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5%d1%82%d0%be-%d0%bd%d0%b0.html/izbori" data-orig-file="https://bivol.bg/wp-content/uploads/2014/10/izbori.jpg" data-orig-size="660,330" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="izbori" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2014/10/izbori-300x300.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2014/10/izbori-1024x1024.jpg" /></div>Биволъ публикува програма, която обработва изборните резултати съгласно методиката на ЦИК точно като софтуера използван от фирмата &#8220;Информационно обслужване&#8221;. Фирмата беше избрана от ЦИК за компютърна обработка на резултатите от Избори&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2014/10/izbori-1024x1024.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">20748</post-id>	</item>
+		<item>
+		<title>Изборите в Ленкница &#8211; незаконни!</title>
+		<link>https://bivol.bg/lenknica.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 01 Jun 2014 11:50:44 +0000</pubDate>
+				<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[ДПС]]></category>
+		<category><![CDATA[Избори]]></category>
+		<category><![CDATA[СИК]]></category>
+		<category><![CDATA[ЦИК]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/lenknica.html</guid>
+
+					<description><![CDATA[Снимка: Dariknews.bg Новият бастион на Движението за Права и свободи не е нито в Делиормана или в Родопите, а се намира в сърцето на &#8220;Европата&#8221;, в братска Полша. Там, в&#8230;]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18915</post-id>	</item>
+		<item>
+		<title>Властта пет години тормози французин, гласувал у нас заради грешка на СИК</title>
+		<link>https://bivol.bg/sik-mvr-tormoz.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 16 May 2014 11:48:37 +0000</pubDate>
+				<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Избори]]></category>
+		<category><![CDATA[МВР]]></category>
+		<category><![CDATA[Полицейски тормоз]]></category>
+		<category><![CDATA[ЦИК]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/sik-mvr-tormoz.html</guid>
+
+					<description><![CDATA[Френският гражданин Пол Ш., който е женен за българка и живее постоянно у нас, редовно гласува на местни и европейски избори. През юли 2009 той придружил съпругата си до избирателната&#8230;]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18894</post-id>	</item>
+		<item>
+		<title>Как ще приключи скандалът с фалшифицираните лични данни в партийните подписки</title>
+		<link>https://bivol.bg/podpiski-lichni-danni.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 15 Apr 2014 18:40:12 +0000</pubDate>
+				<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Комисия за защита на личните данни]]></category>
+		<category><![CDATA[Лични данни]]></category>
+		<category><![CDATA[Прокуратура]]></category>
+		<category><![CDATA[ТИМ]]></category>
+		<category><![CDATA[ЦИК]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/podpiski-lichni-danni.html</guid>
+
+					<description><![CDATA[Скандалът с личните данни в партийните подписки извади наяве злоупотреби, които не са нов феномен. Преди 3 години Прокуратурата започна досъдебно производство за особено мащабна кражба на лични данни и&#8230;]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18866</post-id>	</item>
+		<item>
+		<title>Абсурд: Методиката на ЦИК дава мандати и при нула спечелени гласа</title>
+		<link>https://bivol.bg/kalinchi-kod-zero.html</link>
+					<comments>https://bivol.bg/kalinchi-kod-zero.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 21 May 2013 15:28:15 +0000</pubDate>
+				<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Избори]]></category>
+		<category><![CDATA[ЦИК]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/kalinchi-kod-zero.html</guid>
+
+					<description><![CDATA[<div>вторник 21 май 2013</div><BR><div><img width="500" height="333" src="https://bivol.bg/wp-content/uploads/2013/03/cik.jpg" class="attachment-large size-large wp-post-image" alt="cik" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="16053" data-permalink="https://bivol.bg/kalinchi-kod-zero.html/cik" data-orig-file="https://bivol.bg/wp-content/uploads/2013/03/cik.jpg" data-orig-size="500,333" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="cik" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2013/03/cik-300x199.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2013/03/cik.jpg" /></div>Ако в МИР 5 &#8211; Видин ДПС бяха получили 1 глас, щяха да получат мандат &#8211; обяви вчера Лютви Местан. Във Видин ДПС получи реално 474 гласа, което е нов&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/kalinchi-kod-zero.html/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2013/03/cik.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">16203</post-id>	</item>
+		<item>
+		<title>Изборният &#8220;Калинчи код&#8221;</title>
+		<link>https://bivol.bg/kalinci-code.html</link>
+					<comments>https://bivol.bg/kalinci-code.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 28 Apr 2013 14:50:56 +0000</pubDate>
+				<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Избори]]></category>
+		<category><![CDATA[ЦИК]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/kalinci-code.html</guid>
+
+					<description><![CDATA[<div>неделя 28 април 2013</div><BR><div><img width="614" height="223" src="https://bivol.bg/wp-content/uploads/2013/04/Capture-2013-04-28-at-17.12.36.jpg" class="attachment-large size-large wp-post-image" alt="Capture-2013-04-28-at-17.12.36" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2013/04/Capture-2013-04-28-at-17.12.36.jpg 614w, https://bivol.bg/wp-content/uploads/2013/04/Capture-2013-04-28-at-17.12.36-300x108.jpg 300w" sizes="(max-width: 614px) 100vw, 614px" data-attachment-id="16182" data-permalink="https://bivol.bg/kalinci-code.html/capture-2013-04-28-at-17-12-36-2" data-orig-file="https://bivol.bg/wp-content/uploads/2013/04/Capture-2013-04-28-at-17.12.36.jpg" data-orig-size="614,223" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Capture-2013-04-28-at-17.12.36" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2013/04/Capture-2013-04-28-at-17.12.36-300x108.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2013/04/Capture-2013-04-28-at-17.12.36.jpg" /></div>&#8220;Най-безспорно установеният факт от българския социален опит през последните петдесетина години е, че зад секретността има само корупция и некомпетентност&#8221; Васил Цанов 1997 г.* Преди няколко дни анонимни хакери предадоха&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/kalinci-code.html/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2013/04/Capture-2013-04-28-at-17.12.36.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">16183</post-id>	</item>
+		<item>
+		<title>ЦИК направи депутатските мандати непредсказуеми</title>
+		<link>https://bivol.bg/cik-gaf-mandati.html</link>
+					<comments>https://bivol.bg/cik-gaf-mandati.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 19 Mar 2013 09:36:28 +0000</pubDate>
+				<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Избори]]></category>
+		<category><![CDATA[ЦИК]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/cik-gaf-mandati.html</guid>
+
+					<description><![CDATA[<div>вторник 19 март 2013</div><BR><div><img width="500" height="333" src="https://bivol.bg/wp-content/uploads/2013/03/cik.jpg" class="attachment-large size-large wp-post-image" alt="cik" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="16053" data-permalink="https://bivol.bg/kalinchi-kod-zero.html/cik" data-orig-file="https://bivol.bg/wp-content/uploads/2013/03/cik.jpg" data-orig-size="500,333" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="cik" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2013/03/cik-300x199.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2013/03/cik.jpg" /></div>Снимка БНТ Български математици от чужбина алармираха за гаф в решение на ЦИК публикувано в петък през нощта в 23:16 ч. Tова е най-важният документ, който по Изборния кодекс е&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/cik-gaf-mandati.html/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2013/03/cik.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">16054</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Ryzur &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/ryzur/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Tue, 29 Dec 2020 10:10:04 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Ryzur &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Менте-маските купени от България стигнаха и до Германия с фалшиви сертификати</title>
+		<link>https://bivol.bg/ryzur-masks-spiegel.html</link>
+		
+		<dc:creator><![CDATA[Атанас Чобанов]]></dc:creator>
+		<pubDate>Tue, 29 Dec 2020 10:10:04 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Ryzur]]></category>
+		<category><![CDATA[Маски-менте]]></category>
+		<category><![CDATA[Респиратори]]></category>
+		<category><![CDATA[Шпигел]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=69132</guid>
+
+					<description><![CDATA[<div>вторник 29 декември 2020</div><BR><div><img width="948" height="536" src="https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel.jpg 948w, https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel-300x170.jpg 300w, https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel-768x434.jpg 768w, https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel-585x331.jpg 585w" sizes="(max-width: 948px) 100vw, 948px" data-attachment-id="69137" data-permalink="https://bivol.bg/ryzur-masks-spiegel.html/corona-masken-schwindel-lehrer" data-orig-file="https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel.jpg" data-orig-size="948,536" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;POT-LX1&quot;,&quot;caption&quot;:&quot;Corona: Masken-Schwindel\/ Lehrer in Baden-W\u00fcrttemberg\/ Dekra&quot;,&quot;created_timestamp&quot;:&quot;1608464847&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.46&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.03&quot;,&quot;title&quot;:&quot;Corona\/ Masken-Schwindel\/ Lehrer&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Corona/ Masken-Schwindel/ Lehrer" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel-300x170.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel.jpg" /></div>Некачествени китайски респиратори от производителя Ryzur са раздадени на учителите в провинция Баден-Вюртемберг, пише Шпигел. Според проучване на авторитетното немско издание тези маски са с фалшиви сертификати от лабораторията DEKRA&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">69132</post-id>	</item>
+		<item>
+		<title>Как България купи с европари китайски маски-менте</title>
+		<link>https://bivol.bg/covid-china-masks-ryzur.html</link>
+		
+		<dc:creator><![CDATA[Атанас Чобанов]]></dc:creator>
+		<pubDate>Wed, 06 May 2020 19:08:39 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[FDA]]></category>
+		<category><![CDATA[Ryzur]]></category>
+		<category><![CDATA[Китай]]></category>
+		<category><![CDATA[Маски]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=55099</guid>
+
+					<description><![CDATA[<div>сряда 6 май 2020</div><BR><div><img width="1024" height="643" src="https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-1024x643.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-1024x643.png 1024w, https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-300x188.png 300w, https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-768x482.png 768w, https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-1170x734.png 1170w, https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-585x367.png 585w, https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask.png 1278w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="55138" data-permalink="https://bivol.bg/covid-china-masks-ryzur.html/ryzur-mask" data-orig-file="https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask.png" data-orig-size="1278,802" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ryzur-mask" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-300x188.png" data-large-file="https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-1024x643.png" /></div>Закупените от Китай с европейски пари предпазни маски се оказаха от най-долнопробно качество, показа разследване на Биволъ. Референтна американска лаборатория е тествала десетки модели китайски маски и дава на този&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-1024x643.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">55099</post-id>	</item>
+	</channel>
+</rss>

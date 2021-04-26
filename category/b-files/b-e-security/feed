@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Електронна сигурност &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/category/b-files/b-e-security/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Sat, 12 Dec 2020 16:23:38 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Електронна сигурност &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>И България е точка в обръчите на Circles  Citizen Lab: Кръгов маратон с държавни клиенти на фирма за кибершпионаж</title>
+		<link>https://bivol.bg/circles-citizen-lab.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sat, 12 Dec 2020 12:29:20 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Подслушване]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Circles]]></category>
+		<category><![CDATA[SS7; Електронно следене]]></category>
+		<category><![CDATA[Двуфакторна идентификация]]></category>
+		<category><![CDATA[Кибершпионаж]]></category>
+		<category><![CDATA[Проследяване]]></category>
+		<category><![CDATA[Трафични данни]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=68576</guid>
+
+					<description><![CDATA[<div>събота 12 декември 2020</div><BR><div><img width="904" height="532" src="https://bivol.bg/wp-content/uploads/2020/12/circles3.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/12/circles3.png 904w, https://bivol.bg/wp-content/uploads/2020/12/circles3-300x177.png 300w, https://bivol.bg/wp-content/uploads/2020/12/circles3-768x452.png 768w, https://bivol.bg/wp-content/uploads/2020/12/circles3-585x344.png 585w" sizes="(max-width: 904px) 100vw, 904px" data-attachment-id="68600" data-permalink="https://bivol.bg/circles-citizen-lab.html/circles3" data-orig-file="https://bivol.bg/wp-content/uploads/2020/12/circles3.png" data-orig-size="904,532" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="circles3" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/12/circles3-300x177.png" data-large-file="https://bivol.bg/wp-content/uploads/2020/12/circles3.png" /></div>Преди 5 години Биволъ осветли фирмата за кибершпионаж Circles, която е базирана в България чрез &#8220;Съркълс България&#8221;. Тя се е регистрирала у нас като виртуален телеком оператор, за да получи&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/12/circles3.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">68576</post-id>	</item>
+		<item>
+		<title>Тихата безкръвна революция:  Интернет отвръща на цифровото проследяване с децентрализиран VPN</title>
+		<link>https://bivol.bg/tachyon-vpn.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 10 May 2020 19:04:00 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Tachyon]]></category>
+		<category><![CDATA[VPN]]></category>
+		<category><![CDATA[Анонимност]]></category>
+		<category><![CDATA[Блокчейн]]></category>
+		<category><![CDATA[Криптиране]]></category>
+		<category><![CDATA[Цензура в интернет]]></category>
+		<category><![CDATA[Цифрово проследяване]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=55281</guid>
+
+					<description><![CDATA[<div>неделя 10 май 2020</div><BR><div><img width="1024" height="576" src="https://bivol.bg/wp-content/uploads/2020/05/tachyon-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/05/tachyon-1024x576.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/05/tachyon-300x169.jpg 300w, https://bivol.bg/wp-content/uploads/2020/05/tachyon-768x432.jpg 768w, https://bivol.bg/wp-content/uploads/2020/05/tachyon-1170x658.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/05/tachyon-585x329.jpg 585w, https://bivol.bg/wp-content/uploads/2020/05/tachyon.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="55309" data-permalink="https://bivol.bg/tachyon-vpn.html/tachyon" data-orig-file="https://bivol.bg/wp-content/uploads/2020/05/tachyon.jpg" data-orig-size="1280,720" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="tachyon" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/05/tachyon-300x169.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/05/tachyon-1024x576.jpg" /></div>В магазините на Google и AppStore се появи ново приложение &#8211; Tachyon VPN. Малко по-рано бе пусната алфа-версия на този безплатен VPN за MacOS, а скоро ще излезе версията за&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/05/tachyon-1024x576.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">55281</post-id>	</item>
+		<item>
+		<title>Жертва на бъг:  Създадената от българи криптовалута Rhea замразила парите на инвеститорите</title>
+		<link>https://bivol.bg/rhea.html</link>
+		
+		<dc:creator><![CDATA[Атанас Чобанов]]></dc:creator>
+		<pubDate>Thu, 19 Apr 2018 11:38:44 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Cryptocurrency]]></category>
+		<category><![CDATA[Detelin Sertov]]></category>
+		<category><![CDATA[Georgi Kirilov]]></category>
+		<category><![CDATA[ICO]]></category>
+		<category><![CDATA[Rhea]]></category>
+		<category><![CDATA[Георги Кирилов]]></category>
+		<category><![CDATA[Детелин Сертов]]></category>
+		<category><![CDATA[Криптовалути]]></category>
+		<guid isPermaLink="false">https://bivol.bg?p=39343</guid>
+
+					<description><![CDATA[<div>четвъртък 19 април 2018</div><BR><div><img width="914" height="481" src="https://bivol.bg/wp-content/uploads/2018/04/rhea.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2018/04/rhea.jpg 914w, https://bivol.bg/wp-content/uploads/2018/04/rhea-300x158.jpg 300w, https://bivol.bg/wp-content/uploads/2018/04/rhea-768x404.jpg 768w" sizes="(max-width: 914px) 100vw, 914px" data-attachment-id="39380" data-permalink="https://bivol.bg/rhea.html/rhea" data-orig-file="https://bivol.bg/wp-content/uploads/2018/04/rhea.jpg" data-orig-size="914,481" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="rhea" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2018/04/rhea-300x158.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2018/04/rhea.jpg" /></div>Екип от петима българи е лансирал през октомври 2017 г. нова криптовалута наречена Rhea, след което изчезнал. ICO операцията на българите е събрала близо 65 Ethers (криптовалутата в мрежата Етериум).&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2018/04/rhea.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">39343</post-id>	</item>
+		<item>
+		<title>Държавата нехае за пробив в информационната система на МС</title>
+		<link>https://bivol.bg/msleak.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 19 Jan 2016 09:28:26 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[ДАНС]]></category>
+		<category><![CDATA[Информационна сигурност]]></category>
+		<category><![CDATA[Лични данни]]></category>
+		<category><![CDATA[Министерски съвет]]></category>
+		<category><![CDATA[Теч]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=29244</guid>
+
+					<description><![CDATA[<div>вторник 19 януари 2016</div><BR><div><img width="1024" height="723" src="https://bivol.bg/wp-content/uploads/2016/01/msleak3-1024x723.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2016/01/msleak3-1024x723.png 1024w, https://bivol.bg/wp-content/uploads/2016/01/msleak3-300x212.png 300w, https://bivol.bg/wp-content/uploads/2016/01/msleak3-768x542.png 768w, https://bivol.bg/wp-content/uploads/2016/01/msleak3.png 1912w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="29255" data-permalink="https://bivol.bg/msleak.html/msleak3" data-orig-file="https://bivol.bg/wp-content/uploads/2016/01/msleak3.png" data-orig-size="1912,1350" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="msleak3" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2016/01/msleak3-300x212.png" data-large-file="https://bivol.bg/wp-content/uploads/2016/01/msleak3-1024x723.png" /></div>Вече месец държавните институции не обръщат внимание на пробив в информационната система на Министерски съвет, откъдето хакерите точат ЕГН, телефони и мейли на хора с високи позиции във властта, служители на&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2016/01/msleak3-1024x723.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">29244</post-id>	</item>
+		<item>
+		<title>Българска фирма &#8211; световен иноватор в подслушването на телефони</title>
+		<link>https://bivol.bg/circles-bulgaria.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2015 08:14:00 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Подслушване]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[3G]]></category>
+		<category><![CDATA[SS7]]></category>
+		<category><![CDATA[ДАНС]]></category>
+		<category><![CDATA[ДАТО]]></category>
+		<category><![CDATA[Кечъри]]></category>
+		<category><![CDATA[Подслушване @]]></category>
+		<category><![CDATA[Съркълс]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=29001</guid>
+
+					<description><![CDATA[<div>вторник 15 декември 2015</div><BR><div><img width="1024" height="639" src="https://bivol.bg/wp-content/uploads/2015/12/circles-1024x639.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2015/12/circles-1024x639.jpg 1024w, https://bivol.bg/wp-content/uploads/2015/12/circles-300x187.jpg 300w, https://bivol.bg/wp-content/uploads/2015/12/circles-120x76.jpg 120w, https://bivol.bg/wp-content/uploads/2015/12/circles-308x192.jpg 308w, https://bivol.bg/wp-content/uploads/2015/12/circles-610x380.jpg 610w, https://bivol.bg/wp-content/uploads/2015/12/circles-822x512.jpg 822w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="29002" data-permalink="https://bivol.bg/circles-bulgaria.html/circles" data-orig-file="https://bivol.bg/wp-content/uploads/2015/12/circles.jpg" data-orig-size="2134,1332" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="circles" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2015/12/circles-300x187.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2015/12/circles-1024x639.jpg" /></div>Пазарът на устройства за подслушване на телефони, т.нар. IMSI Catchers, е &#8220;разтресен&#8221; от българска фирма, която е разработила нов метод за прихващане на 3G трафика &#8211; пише Intelligence Online. &#8220;Съркълс&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2015/12/circles-1024x639.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">29001</post-id>	</item>
+		<item>
+		<title>Как се подслушва цяла система?</title>
+		<link>https://bivol.bg/%d0%ba%d0%b0%d0%ba-%d1%81%d0%b5-%d0%bf%d0%be%d0%b4%d1%81%d0%bb%d1%83%d1%88%d0%b2%d0%b0-%d1%86%d1%8f%d0%bb%d0%b0-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 10 Feb 2015 08:53:34 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Подслушване]]></category>
+		<category><![CDATA[ДАНС]]></category>
+		<category><![CDATA[ДАТО]]></category>
+		<category><![CDATA[Електронно следене]]></category>
+		<category><![CDATA[Подслушване @]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=25892</guid>
+
+					<description><![CDATA[<div>вторник 10 февруари 2015</div><BR><div><img width="1024" height="805" src="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34-1024x805.jpg" class="attachment-large size-large wp-post-image" alt="Capture_2013-09-03_a_09.46.34" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34-1024x805.jpg 1024w, https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34-300x235.jpg 300w, https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34-720x566.jpg 720w, https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34.jpg 1528w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="16410" data-permalink="https://bivol.bg/finspy-bulgaria.html/capture_2013-09-03_a_09-46-34" data-orig-file="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34.jpg" data-orig-size="1528,1202" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Capture_2013-09-03_a_09.46.34" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34-300x235.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34-1024x805.jpg" /></div>В началото на 2006 г. Фондацията Електронна Граница (EFF) съди телекомуникационния гигант AT&#38;T с обвинение, че през 2002 е помогнала на АНС за масовото шпиониране на своите клиенти. Три години&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34-1024x805.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">25892</post-id>	</item>
+		<item>
+		<title>АНС използва мощна система за следене на « бойното поле » в Мрежата</title>
+		<link>https://bivol.bg/%d0%b0%d0%bd%d1%81-%d0%b8%d0%b7%d0%bf%d0%be%d0%bb%d0%b7%d0%b2%d0%b0-%d0%bc%d0%be%d1%89%d0%bd%d0%b0-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-%d0%b7%d0%b0-%d1%81%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd%d0%b5.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Thu, 29 Jan 2015 08:12:48 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Кратки]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Подслушване]]></category>
+		<category><![CDATA[DNS]]></category>
+		<category><![CDATA[heise.de]]></category>
+		<category><![CDATA[MoreCowBell]]></category>
+		<category><![CDATA[NSA]]></category>
+		<category><![CDATA[АНС]]></category>
+		<category><![CDATA[Електронно следене]]></category>
+		<category><![CDATA[Сноудън]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=25621</guid>
+
+					<description><![CDATA[<div>четвъртък 29 януари 2015</div><BR><div><img width="962" height="724" src="https://bivol.bg/wp-content/uploads/2015/01/morecowbell.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2015/01/morecowbell.jpg 962w, https://bivol.bg/wp-content/uploads/2015/01/morecowbell-300x226.jpg 300w, https://bivol.bg/wp-content/uploads/2015/01/morecowbell-45x35.jpg 45w, https://bivol.bg/wp-content/uploads/2015/01/morecowbell-90x68.jpg 90w, https://bivol.bg/wp-content/uploads/2015/01/morecowbell-150x113.jpg 150w" sizes="(max-width: 962px) 100vw, 962px" data-attachment-id="25622" data-permalink="https://bivol.bg/%d0%b0%d0%bd%d1%81-%d0%b8%d0%b7%d0%bf%d0%be%d0%bb%d0%b7%d0%b2%d0%b0-%d0%bc%d0%be%d1%89%d0%bd%d0%b0-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%b0-%d0%b7%d0%b0-%d1%81%d0%bb%d0%b5%d0%b4%d0%b5%d0%bd%d0%b5.html/morecowbell" data-orig-file="https://bivol.bg/wp-content/uploads/2015/01/morecowbell.jpg" data-orig-size="962,724" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="morecowbell" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2015/01/morecowbell-300x226.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2015/01/morecowbell.jpg" /></div>Мощна система за тайно следене на уеб и DNS-трафик наречена MORECOWBELL позволява на американската Агенция за национална сигурност да прави интензивен мониторинг на оперативно интересни сайтове и дори да си&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2015/01/morecowbell.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">25621</post-id>	</item>
+		<item>
+		<title>Първите мейли изпратени от Сноудън с които представя „епохалния“ си теч на информация</title>
+		<link>https://bivol.bg/%d0%bf%d1%8a%d1%80%d0%b2%d0%b8%d1%82%d0%b5-%d0%bc%d0%b5%d0%b9%d0%bb%d0%b8-%d0%b8%d0%b7%d0%bf%d1%80%d0%b0%d1%82%d0%b5%d0%bd%d0%b8-%d0%be%d1%82-%d1%81%d0%bd%d0%be%d1%83%d0%b4%d1%8a%d0%bd-%d1%81-%d0%ba.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Thu, 16 Oct 2014 07:06:33 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Подслушване]]></category>
+		<category><![CDATA[АНС]]></category>
+		<category><![CDATA[Едуард Сноудън]]></category>
+		<category><![CDATA[Електронно следене]]></category>
+		<category><![CDATA[Лаура Пойтрас]]></category>
+		<category><![CDATA[Подслушване @]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=24321</guid>
+
+					<description><![CDATA[<div>четвъртък 16 октомври 2014</div><BR><div><img width="1024" height="1024" src="https://bivol.bg/wp-content/uploads/2014/10/snowden-1024x1024.jpeg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2014/10/snowden-1024x1024.jpeg 1024w, https://bivol.bg/wp-content/uploads/2014/10/snowden-150x150.jpeg 150w, https://bivol.bg/wp-content/uploads/2014/10/snowden-300x300.jpeg 300w, https://bivol.bg/wp-content/uploads/2014/10/snowden-450x450.jpeg 450w, https://bivol.bg/wp-content/uploads/2014/10/snowden-90x90.jpeg 90w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="24322" data-permalink="https://bivol.bg/%d0%bf%d1%8a%d1%80%d0%b2%d0%b8%d1%82%d0%b5-%d0%bc%d0%b5%d0%b9%d0%bb%d0%b8-%d0%b8%d0%b7%d0%bf%d1%80%d0%b0%d1%82%d0%b5%d0%bd%d0%b8-%d0%be%d1%82-%d1%81%d0%bd%d0%be%d1%83%d0%b4%d1%8a%d0%bd-%d1%81-%d0%ba.html/snowden-3" data-orig-file="https://bivol.bg/wp-content/uploads/2014/10/snowden.jpeg" data-orig-size="660,440" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS-1D C&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1410221771&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="snowden" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2014/10/snowden-300x300.jpeg" data-large-file="https://bivol.bg/wp-content/uploads/2014/10/snowden-1024x1024.jpeg" /></div>Шест месеца преди светът да узнае за човека осъществил най-големия теч на тайни от Агенцията за национална сигурност на САЩ &#8211; Едуард Джоузеф Сноудън &#8211; Лора Пойтрас го е познавала&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2014/10/snowden-1024x1024.jpeg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">24321</post-id>	</item>
+		<item>
+		<title>ДАТО иска да слухти и при малките оператори</title>
+		<link>https://bivol.bg/dato-letter.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 06 Jun 2014 11:19:14 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Подслушване]]></category>
+		<category><![CDATA[ДАНС]]></category>
+		<category><![CDATA[ДАТО]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/dato-letter.html</guid>
+
+					<description><![CDATA[Писмото, изпратено от ДАТО до операторите В последните няколко дни учудващо голямо количество малки доставчици на Интернет и телекомуникационни услуги са получили известие от ДАТО за осигуряване на достъп до&#8230;]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18921</post-id>	</item>
+		<item>
+		<title>ПИБ е била засегната от Heartbleed</title>
+		<link>https://bivol.bg/pib-heartbleed.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2014 06:42:54 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Кратки]]></category>
+		<category><![CDATA[Heartbleed]]></category>
+		<category><![CDATA[ПИБ]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/pib-heartbleed.html</guid>
+
+					<description><![CDATA[Сървърът за електронно банкиране на Първа инвестиционна банка е бил засегнат от пробива в сигурността&#160;Heartbleed, научи Биволъ. Биволъ беше първата българска медия, която алармира за рисковете от Heartbleed във Facebook&#8230;]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">18863</post-id>	</item>
+		<item>
+		<title>Уикилийкс и Анонимните отговарят на журналистиката на статуквото</title>
+		<link>https://bivol.bg/wikileaks-anonymous-christensen.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 07 Jan 2014 13:43:22 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Анонимните]]></category>
+		<category><![CDATA[Журналистика]]></category>
+		<category><![CDATA[Медийна свобода]]></category>
+		<category><![CDATA[Уикилийкс]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/wikileaks-anonymous-christensen.html</guid>
+
+					<description><![CDATA[Кристиан Кристенсен е професор по журналистика в университета в Стокхолм и автор на свободна практика в издания като Le Monde Diplomatique (Дипломатически свят) и британския Journalism Review (Журналистически преглед). Работата&#8230;]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">16787</post-id>	</item>
+		<item>
+		<title>Дори и Националната агенция за сигурност на САЩ (НСА) не може да направи пробив в любимата анонимна мрежа на Държавния департамент (TOR)</title>
+		<link>https://bivol.bg/nsa-vs-tor.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 06 Oct 2013 21:31:00 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Подслушване]]></category>
+		<category><![CDATA[Prism]]></category>
+		<category><![CDATA[TOR]]></category>
+		<category><![CDATA[АНС]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/nsa-vs-tor.html</guid>
+
+					<description><![CDATA[<div>неделя 6 октомври 2013</div><BR><div><img width="1024" height="682" src="https://bivol.bg/wp-content/uploads/2013/10/Capture_2013-10-07_a_00.43.57-1024x682.jpg" class="attachment-large size-large wp-post-image" alt="Capture_2013-10-07_a_00.43.57" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2013/10/Capture_2013-10-07_a_00.43.57-1024x682.jpg 1024w, https://bivol.bg/wp-content/uploads/2013/10/Capture_2013-10-07_a_00.43.57-300x200.jpg 300w, https://bivol.bg/wp-content/uploads/2013/10/Capture_2013-10-07_a_00.43.57-720x480.jpg 720w, https://bivol.bg/wp-content/uploads/2013/10/Capture_2013-10-07_a_00.43.57.jpg 1308w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="16499" data-permalink="https://bivol.bg/nsa-vs-tor.html/capture_2013-10-07_a_00-43-57" data-orig-file="https://bivol.bg/wp-content/uploads/2013/10/Capture_2013-10-07_a_00.43.57.jpg" data-orig-size="1308,872" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Capture_2013-10-07_a_00.43.57" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2013/10/Capture_2013-10-07_a_00.43.57-300x200.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2013/10/Capture_2013-10-07_a_00.43.57-1024x682.jpg" /></div>Топ секретна презентация на НСА, предоставена от Едуард Сноудън на в.&#160;Гардиън разкрива, че НСА не може да се справи с Tor Голяма група от ИТ специалисти-чудаци, с подкрепата на Държавния&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2013/10/Capture_2013-10-07_a_00.43.57-1024x682.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">16501</post-id>	</item>
+		<item>
+		<title>Запознайте се със Страшния пират Робъртс, човекът зад процъфтяващия сайт за продажба на наркотици на черно – Пътя на коприната</title>
+		<link>https://bivol.bg/greenberg-silk-road.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 06 Oct 2013 10:08:43 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Andy Greenberg]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Dread Pirate Roberts]]></category>
+		<category><![CDATA[TOR]]></category>
+		<category><![CDATA[Анди Грийнбърг]]></category>
+		<category><![CDATA[Пътя на коприната]]></category>
+		<category><![CDATA[Страшния пират Робъртс]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/greenberg-silk-road.html</guid>
+
+					<description><![CDATA[<div>неделя 6 октомври 2013</div><BR><div><img width="660" height="278" src="https://bivol.bg/wp-content/uploads/2013/10/ulbricht_linkedin-660x278.png" class="attachment-large size-large wp-post-image" alt="ulbricht_linkedin-660x278" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2013/10/ulbricht_linkedin-660x278.png 660w, https://bivol.bg/wp-content/uploads/2013/10/ulbricht_linkedin-660x278-300x126.png 300w" sizes="(max-width: 660px) 100vw, 660px" data-attachment-id="16497" data-permalink="https://bivol.bg/greenberg-silk-road.html/ulbricht_linkedin-660x278" data-orig-file="https://bivol.bg/wp-content/uploads/2013/10/ulbricht_linkedin-660x278.png" data-orig-size="660,278" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="ulbricht_linkedin-660&#215;278" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2013/10/ulbricht_linkedin-660x278-300x126.png" data-large-file="https://bivol.bg/wp-content/uploads/2013/10/ulbricht_linkedin-660x278.png" /></div>На 2 oктомври FBI арестува 29 годишния Рос Улбрихт с обвинение, че той е &#8220;Страшния пират Робъртс&#8221;, който седи зад скандалния сайт &#8220;Пътя на коприната&#8221;. Журналистът от Форбс Анди Грийнбърг&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2013/10/ulbricht_linkedin-660x278.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">16498</post-id>	</item>
+		<item>
+		<title>Министерството на транспорта крие резултата от проверката на сървъра с FinSpy</title>
+		<link>https://bivol.bg/finspy-bulgaria-mtitc.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Thu, 26 Sep 2013 19:17:36 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Подслушване]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Dreamlab]]></category>
+		<category><![CDATA[Gamma]]></category>
+		<category><![CDATA[Trovicor]]></category>
+		<category><![CDATA[ДАНС]]></category>
+		<category><![CDATA[Станислав Бончев]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/finspy-bulgaria-mtitc.html</guid>
+
+					<description><![CDATA[<div>четвъртък 26 септември 2013</div><BR><div><img width="959" height="1024" src="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-26_a_17.23.46-959x1024.jpg" class="attachment-large size-large wp-post-image" alt="Capture_2013-09-26_a_17.23.46" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-26_a_17.23.46-959x1024.jpg 959w, https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-26_a_17.23.46-281x300.jpg 281w, https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-26_a_17.23.46-674x720.jpg 674w, https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-26_a_17.23.46.jpg 1226w" sizes="(max-width: 959px) 100vw, 959px" data-attachment-id="16477" data-permalink="https://bivol.bg/finspy-bulgaria-mtitc.html/capture_2013-09-26_a_17-23-46" data-orig-file="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-26_a_17.23.46.jpg" data-orig-size="1226,1308" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Capture_2013-09-26_a_17.23.46" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-26_a_17.23.46-281x300.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-26_a_17.23.46-959x1024.jpg" /></div>Три седмици след разкритието на Wikileaks, че българското правителство е клиент на фирмата Dreamlab за агресивния шпионски софтуер FinSpy, няма отговор от институциите кой го е закупил и за какво&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-26_a_17.23.46-959x1024.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">16481</post-id>	</item>
+		<item>
+		<title>Wikileaks среща Google: Таен разговор между Ерик Шмид и Джулиън Асанж (част трета)</title>
+		<link>https://bivol.bg/eric-schmid-julian-assange-3.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 08 Sep 2013 22:16:50 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<category><![CDATA[Джулиън Асанж]]></category>
+		<category><![CDATA[Ерик Шмид]]></category>
+		<category><![CDATA[Уикилийкс]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/eric-schmid-julian-assange-3.html</guid>
+
+					<description><![CDATA[<div>неделя 8 септември 2013</div><BR><div><img width="599" height="384" src="https://bivol.bg/wp-content/uploads/2011/05/Julian-Assange.jpg" class="attachment-large size-large wp-post-image" alt="Julian-Assange" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="14567" data-permalink="https://bivol.bg/eric-schmid-julian-assange-3.html/julian-assange" data-orig-file="https://bivol.bg/wp-content/uploads/2011/05/Julian-Assange.jpg" data-orig-size="599,384" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Julian-Assange" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2011/05/Julian-Assange-300x192.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2011/05/Julian-Assange.jpg" /></div>Биволъ, партньор на Wikileaks, публикува преди две години единственото интервю на Джулиън Асанж за българска медия. Предоставяме на нашите читатели превод на записа от срещата между Ерик Шмид от Google&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2011/05/Julian-Assange.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">16417</post-id>	</item>
+		<item>
+		<title>Как да се защитим срещу шпионирането на АНС</title>
+		<link>https://bivol.bg/nsa-antidot.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sat, 07 Sep 2013 08:59:53 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Подслушване]]></category>
+		<category><![CDATA[АНС]]></category>
+		<category><![CDATA[ДАНС]]></category>
+		<category><![CDATA[МВР]]></category>
+		<category><![CDATA[Свобода на словото]]></category>
+		<category><![CDATA[Цифрова свобода]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/nsa-antidot.html</guid>
+
+					<description><![CDATA[<div>събота 7 септември 2013</div><BR><div><img width="698" height="1024" src="https://bivol.bg/wp-content/uploads/2012/10/big-brother-698x1024.jpg" class="attachment-large size-large wp-post-image" alt="big-brother" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="15675" data-permalink="https://bivol.bg/nsa-antidot.html/big-brother" data-orig-file="https://bivol.bg/wp-content/uploads/2012/10/big-brother.jpg" data-orig-size="1254,1839" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="big-brother" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/10/big-brother-204x300.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2012/10/big-brother-698x1024.jpg" /></div>Агенцията за национална сигурност (АНС) има огромни възможности и ако иска да влезе във вашия компютър, тя е в него. Като имаме предвид това, ето пет начина да бъдете в&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/10/big-brother-698x1024.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">16416</post-id>	</item>
+		<item>
+		<title>Wikileaks: България реално използва шпионския софтуер FinSpy</title>
+		<link>https://bivol.bg/finspy-bulgaria.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Wed, 04 Sep 2013 16:09:46 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Подслушване]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Dreamlab]]></category>
+		<category><![CDATA[Gamma]]></category>
+		<category><![CDATA[Trovicor]]></category>
+		<category><![CDATA[ДАНС]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/finspy-bulgaria.html</guid>
+
+					<description><![CDATA[<div>сряда 4 септември 2013</div><BR><div><img width="1024" height="805" src="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34-1024x805.jpg" class="attachment-large size-large wp-post-image" alt="Capture_2013-09-03_a_09.46.34" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34-1024x805.jpg 1024w, https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34-300x235.jpg 300w, https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34-720x566.jpg 720w, https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34.jpg 1528w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="16410" data-permalink="https://bivol.bg/finspy-bulgaria.html/capture_2013-09-03_a_09-46-34" data-orig-file="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34.jpg" data-orig-size="1528,1202" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Capture_2013-09-03_a_09.46.34" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34-300x235.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34-1024x805.jpg" /></div>Системата за мониторинг на Trovicor, инсталирана у нас, е способна на тотално следене на целия телефонен и интернет трафик Българското правителство е екслузивен клиент на фирмата Dreamlab, която заедно с&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2013/09/Capture_2013-09-03_a_09.46.34-1024x805.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">16414</post-id>	</item>
+		<item>
+		<title>Защитена комуникация с Cryptophone</title>
+		<link>https://bivol.bg/cryptophone.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Wed, 03 Jul 2013 06:57:31 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Подслушване]]></category>
+		<category><![CDATA[Cryptophone]]></category>
+		<category><![CDATA[Защита на информацията]]></category>
+		<category><![CDATA[Интернет филтриране]]></category>
+		<category><![CDATA[Следене]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/cryptophone.html</guid>
+
+					<description><![CDATA[Много преди скандалите с незаконното подслушване в България Биволъ обучаваше своите читатели как да защитават своите комуникации (виж списъка с тематичните статии). Днес, след разкритията на Едуард Сноуден за глобалното&#8230;]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">16313</post-id>	</item>
+		<item>
+		<title>България установи интернет цензура като в Китай. Как да я заобиколим.</title>
+		<link>https://bivol.bg/bg-internet-censorship.html</link>
+		
+		<dc:creator><![CDATA[Атанас Чобанов]]></dc:creator>
+		<pubDate>Wed, 19 Jun 2013 11:02:22 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Интернет филтриране]]></category>
+		<category><![CDATA[Цензура]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/bg-internet-censorship.html</guid>
+
+					<description><![CDATA[<p>От вчера интернет провайдърите в България филтрират българския сегмент на интернет за сайтове, в които се играе хазарт. Засегнати са крайните потребители, но не и българските сайтове, които печелят от рекламиране на такива забранени по българския закон ресурси.</p>
+<p>Филтрирането на интернет е опасен прецедент. Днес за хазарт, утре за друго... И ако е вярно, че законът трябва да се спазва, дори да е идиотски, то остава в сила и правото на гражданите да се противопоставят на идиотщината с всички законосъобразни средства. По-долу описваме напълно законна технология за заобикаляне на ограниченията чрез използване на VPN. Статията беше написана в разгара на дебата срещу приемането на новите разпоредби в Закона за електронните съобщения, които даваха на службите неограничен достъп до трафична информация. Тя се фокусира върху обезмислянето на следенето на трафични данни, но написаното в нея е напълно валидно и за заобикаляне на филтрирането, наложено от интернет провайдърите. Използващият VPN минава незабелязан за филтрите и ще може да се включва в който и да е сайт, забранен за достъп в България.</p>
+<p>Статията е посветена на технологията, но трябва да се припомнят и няколко скандалния факти, свързани с ограниченията в Закона за хазарта, довел до прецедента с филтрирането. Тези ограничения са лобистки и облагодетелстват един конкретен човек: Васил Божков - Черепа. Той е посочен от американските дипломати като "един от най-издирваните престъпници в България". Разбира се, Черепа не само не е издирван, но и продължава да печели многомилионни обществени поръчки в строителството, финансирани от европейския данъкоплатец. Лобисткото законодателство, гласувано от ГЕРБ и прилагано днес от Орешарски, му гарантира монопол в залаганията. Тук трябва да се припомни злополучната кандидатура на Орешарски &#160;за кмет на София, оттеглена от СДС след като в публичното пространство излезе информация за срещата му с Черепа. Среща, на която е присъствал и сегашния министър Петър Стоянович.</p>
+<p>Оригинално заглавие: <strong>Наръчник на обЗЕСтвения враг</strong><br /> <a target="_blank" href="http://www.asengenov.com/"><img hspace="5" align="left" src="http://4.bp.blogspot.com/_vtOhQuMxUM0/Sy9z2g00_KI/AAAAAAAAA3U/Iwetv9C-R2k/s1600/koleda_gerb_ataka.jpg" /></a></p>
+<p>Нека му покажем на МВР.... Какво да му покажем ли? Безмислието на новите разпоредби в Закона за електронните съобщения, току що приети от ГЕРБ и Атака на първо четене. В хода на обсъжданията противниците на законопроекта наблегнаха на нарушаването на гражданските права и са абсолютно прави. Но е вярно също, че чрез елементарни технически средства, достъпни за всеки средно грамотен гражданин може да се обезмислят мерките за следене на трафичните данни. Особено вярно е това за интернет връзката, по-трудно, но не и невъзможно - за телефонните обаждания.<br /> <br /> Техническите възможности да се блокират следящите технологии на МВР са абсолютно законосъобразни и вероятно вече се използват широко от престъпниците. И това означава, че службите трошат и ще трошат залудо парите на данъкоплатците за безмислено електронно следене. Редно е и невинните граждани да са информирани за тези възможности, ако не искат МВР да пъха носа си обраснал с мафиотски полипи в личното им пространство, да следи с кого си чатят, кому пращат мейл, какви сайтове посещават и какви коментари оставят по форумите. &#160;</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">16277</post-id>	</item>
+		<item>
+		<title>Prism срещу Tor</title>
+		<link>https://bivol.bg/prism-vs-tor.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 11 Jun 2013 12:53:58 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Подслушване]]></category>
+		<category><![CDATA[Prism]]></category>
+		<category><![CDATA[TOR]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/prism-vs-tor.html</guid>
+
+					<description><![CDATA[<div>вторник 11 юни 2013</div><BR><div><img width="794" height="600" src="https://bivol.bg/wp-content/uploads/2013/06/Upstream_slide_of_the_PRISM_presentation.jpg" class="attachment-large size-large wp-post-image" alt="Upstream_slide_of_the_PRISM_presentation" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2013/06/Upstream_slide_of_the_PRISM_presentation.jpg 794w, https://bivol.bg/wp-content/uploads/2013/06/Upstream_slide_of_the_PRISM_presentation-300x226.jpg 300w, https://bivol.bg/wp-content/uploads/2013/06/Upstream_slide_of_the_PRISM_presentation-720x544.jpg 720w" sizes="(max-width: 794px) 100vw, 794px" data-attachment-id="16255" data-permalink="https://bivol.bg/prism-vs-tor.html/upstream_slide_of_the_prism_presentation" data-orig-file="https://bivol.bg/wp-content/uploads/2013/06/Upstream_slide_of_the_PRISM_presentation.jpg" data-orig-size="794,600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Upstream_slide_of_the_PRISM_presentation" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2013/06/Upstream_slide_of_the_PRISM_presentation-300x226.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2013/06/Upstream_slide_of_the_PRISM_presentation.jpg" /></div>Едуард Сноудън, който предаде на пресата строго секретна документация за програмата Prism, с която американските служби наблюдават интернет, е използвал софтуера за анонимизиране на комуникацията Tor. Това твърдят разработчиците на&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2013/06/Upstream_slide_of_the_PRISM_presentation.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">16256</post-id>	</item>
+		<item>
+		<title>Wikileaks среща Google: Таен разговор между Ерик Шмид и Джулиън Асанж (част първа)</title>
+		<link>https://bivol.bg/eric-schmid-julian-assange.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sat, 01 Jun 2013 13:44:21 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<category><![CDATA[Джулиън Асанж]]></category>
+		<category><![CDATA[Ерик Шмид]]></category>
+		<category><![CDATA[Уикилийкс]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/eric-schmid-julian-assange.html</guid>
+
+					<description><![CDATA[<div>събота 1 юни 2013</div><BR><div><img width="599" height="384" src="https://bivol.bg/wp-content/uploads/2011/05/Julian-Assange.jpg" class="attachment-large size-large wp-post-image" alt="Julian-Assange" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="14567" data-permalink="https://bivol.bg/eric-schmid-julian-assange-3.html/julian-assange" data-orig-file="https://bivol.bg/wp-content/uploads/2011/05/Julian-Assange.jpg" data-orig-size="599,384" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Julian-Assange" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2011/05/Julian-Assange-300x192.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2011/05/Julian-Assange.jpg" /></div>Биволъ, партньор на Wikileaks, публикува преди две години единственото интервю на Джулиън Асанж за българска медия. Предоставяме на нашите читатели превод на записа от срещата между Ерик Шмид от Google&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2011/05/Julian-Assange.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">16233</post-id>	</item>
+		<item>
+		<title>За да не ви подслушват с мобилна техника използвайте само 3G</title>
+		<link>https://bivol.bg/3g-only.html</link>
+					<comments>https://bivol.bg/3g-only.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Mon, 15 Apr 2013 14:37:30 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Подслушване]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[МВР]]></category>
+		<category><![CDATA[Цветан Цветанов]]></category>
+		<category><![CDATA[Цецофон]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/3g-only.html</guid>
+
+					<description><![CDATA[<div>понеделник 15 април 2013</div><BR><div><img width="599" height="665" src="https://bivol.bg/wp-content/uploads/2013/04/pelengator.jpg" class="attachment-large size-large wp-post-image" alt="pelengator" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2013/04/pelengator.jpg 599w, https://bivol.bg/wp-content/uploads/2013/04/pelengator-270x300.jpg 270w" sizes="(max-width: 599px) 100vw, 599px" data-attachment-id="16149" data-permalink="https://bivol.bg/3g-only.html/pelengator" data-orig-file="https://bivol.bg/wp-content/uploads/2013/04/pelengator.jpg" data-orig-size="599,665" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="pelengator" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2013/04/pelengator-270x300.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2013/04/pelengator.jpg" /></div>Немски полеви пеленгатор Един миниван броди из страната и подслушва когото си иска законно или незаконно. Техниката в него не се нуждае от съдействието на мобилния оператор, за да ви&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/3g-only.html/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2013/04/pelengator.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">16154</post-id>	</item>
+		<item>
+		<title>Да бъдеш Анонимен в Мрежата</title>
+		<link>https://bivol.bg/tor-cryptocat.html</link>
+					<comments>https://bivol.bg/tor-cryptocat.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Mon, 05 Nov 2012 13:49:57 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Анонимните]]></category>
+		<category><![CDATA[Защита на информацията]]></category>
+		<category><![CDATA[Интернет филтриране]]></category>
+		<category><![CDATA[Криптография]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/tor-cryptocat.html</guid>
+
+					<description><![CDATA[<div>понеделник 5 ноември 2012</div><BR><div><img width="920" height="572" src="https://bivol.bg/wp-content/uploads/2012/11/Capture_decran_2012-11-05_a_15.28.56.jpg" class="attachment-large size-large wp-post-image" alt="Capture_decran_2012-11-05_a_15.28.56" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2012/11/Capture_decran_2012-11-05_a_15.28.56.jpg 920w, https://bivol.bg/wp-content/uploads/2012/11/Capture_decran_2012-11-05_a_15.28.56-300x186.jpg 300w, https://bivol.bg/wp-content/uploads/2012/11/Capture_decran_2012-11-05_a_15.28.56-720x447.jpg 720w" sizes="(max-width: 920px) 100vw, 920px" data-attachment-id="15738" data-permalink="https://bivol.bg/tor-cryptocat.html/capture_decran_2012-11-05_a_15-28-56" data-orig-file="https://bivol.bg/wp-content/uploads/2012/11/Capture_decran_2012-11-05_a_15.28.56.jpg" data-orig-size="920,572" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Capture_decran_2012-11-05_a_15.28.56" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/11/Capture_decran_2012-11-05_a_15.28.56-300x186.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2012/11/Capture_decran_2012-11-05_a_15.28.56.jpg" /></div>В първата част на поредицата разгледахме инсталацията и използването на програми за защитен чат през интернет, които използват протокола OTR (Off-The-Record). OTR е считан за най-надеждното средство за защита на&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/tor-cryptocat.html/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/11/Capture_decran_2012-11-05_a_15.28.56.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">15741</post-id>	</item>
+		<item>
+		<title>Бого Шопов разбуни Мрежата с разкритие за търговия с лични данни от Facebook</title>
+		<link>https://bivol.bg/bogo-facebook.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Wed, 24 Oct 2012 07:43:42 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Богомил Шопов]]></category>
+		<category><![CDATA[Лични данни]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/bogo-facebook.html</guid>
+
+					<description><![CDATA[<div>сряда 24 октомври 2012</div><BR><div><img width="753" height="595" src="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-24_a_11.01.33.jpg" class="attachment-large size-large wp-post-image" alt="Capture_decran_2012-10-24_a_11.01.33" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-24_a_11.01.33.jpg 753w, https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-24_a_11.01.33-300x237.jpg 300w, https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-24_a_11.01.33-720x568.jpg 720w" sizes="(max-width: 753px) 100vw, 753px" data-attachment-id="15697" data-permalink="https://bivol.bg/bogo-facebook.html/capture_decran_2012-10-24_a_11-01-33" data-orig-file="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-24_a_11.01.33.jpg" data-orig-size="753,595" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Capture_decran_2012-10-24_a_11.01.33" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-24_a_11.01.33-300x237.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-24_a_11.01.33.jpg" /></div>Известният български блогър и активист за цифрови права Богомил Шопов&#160;е на път да влезе в световните новини след като разкри, че милиони потребителски записи от Facebook се продават за жълти&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-24_a_11.01.33.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">15698</post-id>	</item>
+		<item>
+		<title>Как да общуваме в Мрежата без да ни следят &#8211; Част I</title>
+		<link>https://bivol.bg/otr-no-tapping.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Thu, 18 Oct 2012 14:44:18 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Подслушване]]></category>
+		<category><![CDATA[МВР]]></category>
+		<category><![CDATA[Свобода на словото]]></category>
+		<category><![CDATA[Цифрова свобода]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/otr-no-tapping.html</guid>
+
+					<description><![CDATA[<div>четвъртък 18 октомври 2012</div><BR><div><img width="698" height="1024" src="https://bivol.bg/wp-content/uploads/2012/10/big-brother-698x1024.jpg" class="attachment-large size-large wp-post-image" alt="big-brother" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="15675" data-permalink="https://bivol.bg/nsa-antidot.html/big-brother" data-orig-file="https://bivol.bg/wp-content/uploads/2012/10/big-brother.jpg" data-orig-size="1254,1839" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="big-brother" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/10/big-brother-204x300.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2012/10/big-brother-698x1024.jpg" /></div>Ако ви е все едно дали ви подслушват, няма да изгубите нищо ако пропуснете тази статия и се завърнете към обичайните си занимания. Статистиката за подслушването в България е смразяваща.&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/10/big-brother-698x1024.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">15676</post-id>	</item>
+		<item>
+		<title>60 милиона от Братко за Братко*</title>
+		<link>https://bivol.bg/masoni-microsoft.html</link>
+					<comments>https://bivol.bg/masoni-microsoft.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Wed, 07 Mar 2012 16:20:21 +0000</pubDate>
+				<category><![CDATA[Досиетата Бъ]]></category>
+		<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Масони]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Майкрософт]]></category>
+		<category><![CDATA[масони]]></category>
+		<category><![CDATA[Обществени поръчки]]></category>
+		<category><![CDATA[ЦАПК Прогрес]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/masoni-microsoft.html</guid>
+
+					<description><![CDATA[<div>сряда 7 март 2012</div><BR><div><img width="646" height="411" src="https://bivol.bg/wp-content/uploads/2012/03/Capture_decran_2012-03-07_a_17.33.25.jpg" class="attachment-large size-large wp-post-image" alt="Capture_decran_2012-03-07_a_17.33.25" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2012/03/Capture_decran_2012-03-07_a_17.33.25.jpg 646w, https://bivol.bg/wp-content/uploads/2012/03/Capture_decran_2012-03-07_a_17.33.25-300x190.jpg 300w" sizes="(max-width: 646px) 100vw, 646px" data-attachment-id="15187" data-permalink="https://bivol.bg/masoni-microsoft.html/capture_decran_2012-03-07_a_17-33-25" data-orig-file="https://bivol.bg/wp-content/uploads/2012/03/Capture_decran_2012-03-07_a_17.33.25.jpg" data-orig-size="646,411" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Capture_decran_2012-03-07_a_17.33.25" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/03/Capture_decran_2012-03-07_a_17.33.25-300x190.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2012/03/Capture_decran_2012-03-07_a_17.33.25.jpg" /></div>Гръб на масонска престилка &#8211; обред Мемфис Мизраим Министерски съвет е обявил обществена поръчка с прогнозна стойност 60 416 666 лв. за близо 100 000 лиценза на все още несъществуваща&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/masoni-microsoft.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/03/Capture_decran_2012-03-07_a_17.33.25.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">15189</post-id>	</item>
+		<item>
+		<title>Сатира за Явор Колев заживя сериозен живот в медиите</title>
+		<link>https://bivol.bg/yavorkolev2.html</link>
+					<comments>https://bivol.bg/yavorkolev2.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 14 Feb 2012 15:35:17 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Рога и копита]]></category>
+		<category><![CDATA[Anonymous]]></category>
+		<category><![CDATA[ГДБОП]]></category>
+		<category><![CDATA[Рога и Копита]]></category>
+		<category><![CDATA[Явор Колев]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/yavorkolev2.html</guid>
+
+					<description><![CDATA[<div>вторник 14 февруари 2012</div><BR><div><img width="500" height="247" src="https://bivol.bg/wp-content/uploads/2012/02/arhar.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2012/02/arhar.jpg 500w, https://bivol.bg/wp-content/uploads/2012/02/arhar-300x148.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" data-attachment-id="15135" data-permalink="https://bivol.bg/yavorkolev2.html/arhar-3" data-orig-file="https://bivol.bg/wp-content/uploads/2012/02/arhar.jpg" data-orig-size="500,247" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="arhar" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/02/arhar-300x148.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2012/02/arhar.jpg" /></div>Вчера, 13 февруари беше празникът на служба ГДБОП. Използвахме случая да поздравим антимафиотите със сатирична статия в рубриката Рога и Копита (хумор). За да няма недоразумения сложихме следното подзаглавие:&#160;От сътрудниците&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/yavorkolev2.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/02/arhar.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">15136</post-id>	</item>
+		<item>
+		<title>Депутатите тихомълком ликвидираха неутралността на Мрежата</title>
+		<link>https://bivol.bg/netneutrality.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 12 Feb 2012 14:54:52 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[ACTA]]></category>
+		<category><![CDATA[Свобода на словото]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/netneutrality.html</guid>
+
+					<description><![CDATA[<div>неделя 12 февруари 2012</div><BR><div><img width="664" height="673" src="https://bivol.bg/wp-content/uploads/2012/02/zakonoproekt-hazart.jpg" class="attachment-large size-large wp-post-image" alt="zakonoproekt-hazart" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2012/02/zakonoproekt-hazart.jpg 664w, https://bivol.bg/wp-content/uploads/2012/02/zakonoproekt-hazart-295x300.jpg 295w" sizes="(max-width: 664px) 100vw, 664px" data-attachment-id="15129" data-permalink="https://bivol.bg/netneutrality.html/zakonoproekt-hazart" data-orig-file="https://bivol.bg/wp-content/uploads/2012/02/zakonoproekt-hazart.jpg" data-orig-size="664,673" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="zakonoproekt-hazart" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/02/zakonoproekt-hazart-295x300.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2012/02/zakonoproekt-hazart.jpg" /></div>Докато социалните мрежи вряха и кипяха, подготвяйки протест срещу ACTA, парламентът гласува на първо четене скандален текст, узаконяващ филтрирането на сайтове и ограничаването на достъпа на потребителите до тях.&#160; Такива&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/02/zakonoproekt-hazart.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">15130</post-id>	</item>
+		<item>
+		<title>Wikileaks: САЩ са против пиратството и за следенето на интернет в България</title>
+		<link>https://bivol.bg/actausa.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Mon, 30 Jan 2012 10:45:36 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Подслушване]]></category>
+		<category><![CDATA[ACTA]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<category><![CDATA[Свобода на словото]]></category>
+		<category><![CDATA[Цифрова свобода]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/actausa.html</guid>
+
+					<description><![CDATA[<div>понеделник 30 януари 2012</div><BR><div><img width="171" height="249" src="https://bivol.bg/wp-content/uploads/2012/01/Acta.jpg" class="attachment-large size-large wp-post-image" alt="Acta" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="15112" data-permalink="https://bivol.bg/actausa.html/acta-3" data-orig-file="https://bivol.bg/wp-content/uploads/2012/01/Acta.jpg" data-orig-size="171,249" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Acta" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/01/Acta.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2012/01/Acta.jpg" /></div>Миналата седмица България подписа тайно заедно с още 21 страни от ЕС спорното международно споразумение ACTA. Според него доставчиците на интернет трябва да следят потребителите в Мрежата и да премахват&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/01/Acta.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">15113</post-id>	</item>
+		<item>
+		<title>Явор Колев спешно ще пътува за YouTube</title>
+		<link>https://bivol.bg/kolev-youtube.html</link>
+					<comments>https://bivol.bg/kolev-youtube.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Mon, 31 Oct 2011 15:18:40 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[Рога и копита]]></category>
+		<category><![CDATA[Бойко Борисов]]></category>
+		<category><![CDATA[Медийна свобода]]></category>
+		<category><![CDATA[Явор Колев]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/kolev-youtube.html</guid>
+
+					<description><![CDATA[<div>понеделник 31 октомври 2011</div><BR><div><img width="506" height="715" src="https://bivol.bg/wp-content/uploads/2011/10/Capture_decran_2011-10-31_a_16.07.39.jpg" class="attachment-large size-large wp-post-image" alt="Capture_decran_2011-10-31_a_16.07.39" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2011/10/Capture_decran_2011-10-31_a_16.07.39.jpg 506w, https://bivol.bg/wp-content/uploads/2011/10/Capture_decran_2011-10-31_a_16.07.39-212x300.jpg 212w" sizes="(max-width: 506px) 100vw, 506px" data-attachment-id="14947" data-permalink="https://bivol.bg/kolev-youtube.html/capture_decran_2011-10-31_a_16-07-39" data-orig-file="https://bivol.bg/wp-content/uploads/2011/10/Capture_decran_2011-10-31_a_16.07.39.jpg" data-orig-size="506,715" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Capture_decran_2011-10-31_a_16.07.39" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2011/10/Capture_decran_2011-10-31_a_16.07.39-212x300.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2011/10/Capture_decran_2011-10-31_a_16.07.39.jpg" /></div>Шефът на отдела за борба с компютърните престъпления на ГДБОП си е пуснал спешна командировка до YouTube, научи &#8220;Рога и копита&#8221; от бопаджийски източник. Причината е, че в YouTube се&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/kolev-youtube.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2011/10/Capture_decran_2011-10-31_a_16.07.39.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">14948</post-id>	</item>
+		<item>
+		<title>Наръчник на обЗЕСтвения враг</title>
+		<link>https://bivol.bg/2010-10-30-22-28-29-9.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 22 Dec 2009 20:43:05 +0000</pubDate>
+				<category><![CDATA[Електронна сигурност]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Подслушване]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/2010-10-30-22-28-29-9.html</guid>
+
+					<description><![CDATA[<p><a target="_blank" href="http://www.asengenov.com/">Илюстрация от Асен Генов</a><br />
+<a target="_blank" href="http://www.asengenov.com/"><img hspace="5" align="left" alt="" src="http://4.bp.blogspot.com/_vtOhQuMxUM0/Sy9z2g00_KI/AAAAAAAAA3U/Iwetv9C-R2k/s1600/koleda_gerb_ataka.jpg" /></a>Нека му покажем на МВР.... Какво да му покажем ли? Безмислието на новите разпоредби в Закона за електронните съобщения, току що приети от ГЕРБ и Атака на първо четене. В хода на обсъжданията противниците на законопроекта наблегнаха на нарушаването на гражданските права и са абсолютно прави. Но е вярно също, че чрез елементарни технически средства, достъпни за всеки средно грамотен гражданин може да се обезмислят мерките за следене на трафичните данни. Особено вярно е това за интернет връзката, по-трудно, но не и невъзможно - за телефонните обаждания.<br />
+<br />
+Техническите възможности да се блокират следящите технологии на МВР са абсолютно законосъобразни и вероятно вече се използват широко от престъпниците. И това означава, че службите трошат и ще трошат залудо парите на данъкоплатците за безмислено електронно следене. Редно е и невинните граждани да са информирани за тези възможности, ако не искат МВР да пъха носа си обраснал с мафиотски полипи в личното им пространство, да следи с кого си чатят, кому пращат мейл, какви сайтове посещават и какви коментари оставят по форумите.  </p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14309</post-id>	</item>
+	</channel>
+</rss>

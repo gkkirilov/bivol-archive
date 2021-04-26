@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Досье FinCen &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/ru/tag/%d0%b4%d0%be%d1%81%d1%8c%d0%b5-fincen/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg/ru</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Sat, 03 Oct 2020 15:24:46 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Досье FinCen &#8211; Bivol.bg</title>
+	<link>https://bivol.bg/ru</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Досье FinCen: Человек Пеевского и Партии Герб в «Схеме Магнитского»</title>
+		<link>https://bivol.bg/ru/fincen-files-solidstar-castlefront-investbank-magnitski.html</link>
+		
+		<dc:creator><![CDATA[Биволъ]]></dc:creator>
+		<pubDate>Wed, 30 Sep 2020 09:47:16 +0000</pubDate>
+				<category><![CDATA[На первой]]></category>
+		<category><![CDATA[Погоня]]></category>
+		<category><![CDATA[Азербайджанская прачечная]]></category>
+		<category><![CDATA[Добрин Иванов]]></category>
+		<category><![CDATA[Досье FinCen]]></category>
+		<category><![CDATA[Инвестбанк]]></category>
+		<category><![CDATA[Партия ГЕРБ]]></category>
+		<category><![CDATA[Пеевски]]></category>
+		<category><![CDATA[Сергей Магнитский]]></category>
+		<category><![CDATA[Тройка-прачечная]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=64939</guid>
+
+					<description><![CDATA[<div>Среда 30 сентября 2020</div><BR><div><img width="1024" height="575" src="https://bivol.bg/wp-content/uploads/2020/09/transmobile-fincen-1024x575.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/09/transmobile-fincen-1024x575.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/09/transmobile-fincen-300x169.jpg 300w, https://bivol.bg/wp-content/uploads/2020/09/transmobile-fincen-768x431.jpg 768w, https://bivol.bg/wp-content/uploads/2020/09/transmobile-fincen-1170x657.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/09/transmobile-fincen-585x329.jpg 585w, https://bivol.bg/wp-content/uploads/2020/09/transmobile-fincen.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="64764" data-permalink="https://bivol.bg/ru/fincen-files-solidstar-castlefront-investbank-magnitski.html/transmobile-fincen-2" data-orig-file="https://bivol.bg/wp-content/uploads/2020/09/transmobile-fincen.jpg" data-orig-size="1200,674" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="transmobile-fincen" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/09/transmobile-fincen-300x169.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/09/transmobile-fincen-1024x575.jpg" /></div>Компания торговца оружием Добрина Иванова получила крупные суммы от офшорной фирмы, связанной с отмыванием денег по схеме хищения средств из российского бюджета, раскрытой Сергеем Магнитским. Об этом свидетельствуют данные файлов&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/09/transmobile-fincen-1024x575.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">64939</post-id>	</item>
+		<item>
+		<title>Досье FinCen: Болгарский Банк Развития обслуживает счета связанных с бандитизмом и поставки оружия в Исламское государство</title>
+		<link>https://bivol.bg/ru/fincen-files-bbr.html</link>
+		
+		<dc:creator><![CDATA[Биволъ]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2020 21:46:16 +0000</pubDate>
+				<category><![CDATA[На первой]]></category>
+		<category><![CDATA[Погоня]]></category>
+		<category><![CDATA[FinCEN]]></category>
+		<category><![CDATA[Heptagon Global Trading]]></category>
+		<category><![CDATA[ICIJ]]></category>
+		<category><![CDATA[Алгънс]]></category>
+		<category><![CDATA[Банки]]></category>
+		<category><![CDATA[Барон]]></category>
+		<category><![CDATA[Болгарский Банк Развития]]></category>
+		<category><![CDATA[Гельмут Мертенс]]></category>
+		<category><![CDATA[Досье FinCen]]></category>
+		<category><![CDATA[Ом]]></category>
+		<category><![CDATA[Оружие]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=64690</guid>
+
+					<description><![CDATA[<div>Среда 23 сентября 2020</div><BR><div><img width="1024" height="576" src="https://bivol.bg/wp-content/uploads/2020/09/fincen-dans-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/09/fincen-dans-1024x576.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/09/fincen-dans-300x169.jpg 300w, https://bivol.bg/wp-content/uploads/2020/09/fincen-dans-768x432.jpg 768w, https://bivol.bg/wp-content/uploads/2020/09/fincen-dans-1536x864.jpg 1536w, https://bivol.bg/wp-content/uploads/2020/09/fincen-dans-1170x658.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/09/fincen-dans-585x329.jpg 585w, https://bivol.bg/wp-content/uploads/2020/09/fincen-dans.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="64467" data-permalink="https://bivol.bg/ru/fincen-files-bbr.html/fincen-dans-2" data-orig-file="https://bivol.bg/wp-content/uploads/2020/09/fincen-dans.jpg" data-orig-size="1920,1080" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="fincen-dans" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/09/fincen-dans-300x169.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/09/fincen-dans-1024x576.jpg" /></div>Офшорная компания со счётом в болгарском отделении банка Pireaus перевела 31 миллион долларов другой офшорной компании на её счёт в государственном Болгарском банке развития (ББР). Первая офшорная компания принадлежит лицу,&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/09/fincen-dans-1024x576.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">64690</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Бивол &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/%d0%b1%d0%b8%d0%b2%d0%be%d0%bb/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Thu, 30 Nov 2017 16:51:39 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Бивол &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Прессъобщение: Уикилийкс, Биволъ и Болканлийкс</title>
+		<link>https://bivol.bg/bivol-balkanleaks-wikileaks-press.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 01 May 2011 11:33:21 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[balkanleaks]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<category><![CDATA[Бивол]]></category>
+		<category><![CDATA[Уикилийкс]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/bivol-balkanleaks-wikileaks-press.html</guid>
+
+					<description><![CDATA[<div>неделя 1 май 2011</div><BR><div><img width="740" height="552" src="https://bivol.bg/wp-content/uploads/2011/05/wikileaks_great_wall.jpg" class="attachment-large size-large wp-post-image" alt="wikileaks_great_wall" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="14563" data-permalink="https://bivol.bg/wlbg2001.html/wikileaks_great_wall" data-orig-file="https://bivol.bg/wp-content/uploads/2011/05/wikileaks_great_wall.jpg" data-orig-size="740,552" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="wikileaks_great_wall" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2011/05/wikileaks_great_wall-300x223.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2011/05/wikileaks_great_wall.jpg" /></div>Уважаеми Колеги, Сайтът за разследваща журналистика Биволъ (bivol.bg) започна да публикува секретни американски дипломатически доклади от и за България, споделени от Wikileaks. Биволъ е официален медиен партньор на Wikileaks. На&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2011/05/wikileaks_great_wall.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">14564</post-id>	</item>
+		<item>
+		<title>Общи условия</title>
+		<link>https://bivol.bg/comments.html</link>
+					<comments>https://bivol.bg/comments.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 03 Apr 2011 17:43:35 +0000</pubDate>
+				<category><![CDATA[Бивол]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/comments.html</guid>
+
+					<description><![CDATA[Статиите на Биволъ са обект на авторско право. Цитирането и препечатването трябва да посочват първоизточника с линк. Коментарите на потребителите се публикуват след преглед от модератор. Дължината на коментарите е&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/comments.html/feed</wfw:commentRss>
+			<slash:comments>16</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14542</post-id>	</item>
+		<item>
+		<title>Преводът на грамата направен от Биволъ &#8211; откраднат и препечатан в национални медии</title>
+		<link>https://bivol.bg/krazhba.html</link>
+					<comments>https://bivol.bg/krazhba.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Mon, 21 Mar 2011 14:46:56 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Бивол]]></category>
+		<category><![CDATA[Грама]]></category>
+		<category><![CDATA[Джеймс Пардю]]></category>
+		<category><![CDATA[Организирана престъпност]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/krazhba.html</guid>
+
+					<description><![CDATA[Уважаеми колеги, На 14.03.2011 г. сайтът Биволъ публикува нередактираната версия на грамата на Джеймс Пардю за организираната престъпност в България, придружена с подробен аналитичен коментар. В текста изрично е написано,&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/krazhba.html/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14529</post-id>	</item>
+		<item>
+		<title>Рекламна оферта</title>
+		<link>https://bivol.bg/offer.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 23 Nov 2010 16:08:34 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Бивол]]></category>
+		<category><![CDATA[Реклама]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/offer.html</guid>
+
+					<description><![CDATA[Всички рекламни материали се обозначават ясно като платени публикации – инфореклама и не се смесват с редакционното съдържание на сайта. „Биволъ” е против порочните практики на някои медии: да се&#8230;]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14386</post-id>	</item>
+	</channel>
+</rss>

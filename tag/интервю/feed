@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Интервю &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%b2%d1%8e/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Sun, 07 Jun 2020 06:57:31 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Интервю &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Двама Бойковци три дена яли, пили и се веселили</title>
+		<link>https://bivol.bg/dvama-boykovci.html</link>
+		
+		<dc:creator><![CDATA[Стоян Николов - Торлака]]></dc:creator>
+		<pubDate>Sun, 07 Jun 2020 06:01:04 +0000</pubDate>
+				<category><![CDATA[Биволъ]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Борисов]]></category>
+		<category><![CDATA[Интервю]]></category>
+		<category><![CDATA[Медии]]></category>
+		<category><![CDATA[Панорама]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=56747</guid>
+
+					<description><![CDATA[<div>неделя 7 юни 2020</div><BR><div><img width="558" height="418" src="https://bivol.bg/wp-content/uploads/2020/05/torlaka-the-hub-2016-12.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/05/torlaka-the-hub-2016-12.jpg 558w, https://bivol.bg/wp-content/uploads/2020/05/torlaka-the-hub-2016-12-300x225.jpg 300w" sizes="(max-width: 558px) 100vw, 558px" data-attachment-id="55980" data-permalink="https://bivol.bg/%d0%bf%d0%b8%d0%be%d0%bd%d0%ba%d0%b0-%d0%b4%d0%be-%d0%bf%d0%b8%d0%be%d0%bd%d0%ba%d0%b0-%d0%b1%d1%80%d0%b0%d1%82%d1%87%d0%b5%d0%b4.html/torlaka-the-hub-2016-12" data-orig-file="https://bivol.bg/wp-content/uploads/2020/05/torlaka-the-hub-2016-12.jpg" data-orig-size="558,418" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;BOB&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="torlaka-the-hub-2016-12" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/05/torlaka-the-hub-2016-12-300x225.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/05/torlaka-the-hub-2016-12.jpg" /></div>Вижте, знам, че никой не е длъжен да познава писанията ми, ама на мен тотално не ми пукa и имам намерение да изразя една малко по различна позиция по повод&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/05/torlaka-the-hub-2016-12.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">56747</post-id>	</item>
+		<item>
+		<title>Юрген Рот: Путин е продукт на КГБ и работи с престъпни групировки когато му е нужно</title>
+		<link>https://bivol.bg/jurgen-roth-putin-interview.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 13 Oct 2017 05:16:01 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Въ агъла (интервю)]]></category>
+		<category><![CDATA[Руско влияние]]></category>
+		<category><![CDATA[SPAG]]></category>
+		<category><![CDATA[Анастасия Кириленко]]></category>
+		<category><![CDATA[Германия]]></category>
+		<category><![CDATA[Интервю]]></category>
+		<category><![CDATA[Корупция]]></category>
+		<category><![CDATA[Мафия]]></category>
+		<category><![CDATA[ОПГ]]></category>
+		<category><![CDATA[Престъпност]]></category>
+		<category><![CDATA[Путин]]></category>
+		<category><![CDATA[Русия]]></category>
+		<category><![CDATA[Тамбовска мафия]]></category>
+		<category><![CDATA[Юрген Рот]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=35280</guid>
+
+					<description><![CDATA[<div>петък 13 октомври 2017</div><BR><div><img width="466" height="404" src="https://bivol.bg/wp-content/uploads/2010/11/roth.png" class="attachment-large size-large wp-post-image" alt="roth" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="14372" data-permalink="https://bivol.bg/roth-interview-pozicii.html/roth" data-orig-file="https://bivol.bg/wp-content/uploads/2010/11/roth.png" data-orig-size="466,404" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="roth" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2010/11/roth-300x260.png" data-large-file="https://bivol.bg/wp-content/uploads/2010/11/roth.png" /></div>На 72 годишна възраст в Германия след продължително боледуване почина известният  разследващ журналист Юрген Рот. От 70-те до кончината си той не спря да публикува книги за корупцията, търговията с&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2010/11/roth.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">35280</post-id>	</item>
+		<item>
+		<title>Румяна Ченалова пред Биволъ: Важно е съдържанието на записите (Част 1)</title>
+		<link>https://bivol.bg/chenalova-1.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 20 Nov 2015 17:55:14 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Въ агъла (интервю)]]></category>
+		<category><![CDATA[Яневагейт]]></category>
+		<category><![CDATA[Владимира Янева]]></category>
+		<category><![CDATA[Записи]]></category>
+		<category><![CDATA[Интервю]]></category>
+		<category><![CDATA[Румяна Ченалова]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=28729</guid>
+
+					<description><![CDATA[<div>петък 20 ноември 2015</div><BR><div><img width="946" height="540" src="https://bivol.bg/wp-content/uploads/2015/11/chenalova-1.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2015/11/chenalova-1.jpg 946w, https://bivol.bg/wp-content/uploads/2015/11/chenalova-1-300x171.jpg 300w" sizes="(max-width: 946px) 100vw, 946px" data-attachment-id="28731" data-permalink="https://bivol.bg/chenalova-1.html/chenalova-1" data-orig-file="https://bivol.bg/wp-content/uploads/2015/11/chenalova-1.jpg" data-orig-size="946,540" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chenalova-1" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2015/11/chenalova-1-300x171.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2015/11/chenalova-1.jpg" /></div>Най-успешните удари срещу Мафията и в САЩ, и в Европа, са правени с разкрития от вътре, от хора, които познават системата, нейните тайни механизми, йерархията, финансовите потоци и сивите кардинали.&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2015/11/chenalova-1.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">28729</post-id>	</item>
+		<item>
+		<title>Интервю на ШПИГЕЛ с Джулиан Асанж: „Залети сме от материали“</title>
+		<link>https://bivol.bg/%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%b2%d1%8e-%d0%bd%d0%b0-%d1%88%d0%bf%d0%b8%d0%b3%d0%b5%d0%bb-%d1%81-%d0%b4%d0%b6%d1%83%d0%bb%d0%b8%d0%b0%d0%bd-%d0%b0%d1%81%d0%b0%d0%bd%d0%b6-%d0%b7%d0%b0.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2015 09:13:43 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Въ агъла (интервю)]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<category><![CDATA[Джулиън Асанж]]></category>
+		<category><![CDATA[Интервю]]></category>
+		<category><![CDATA[Шпигел]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=27553</guid>
+
+					<description><![CDATA[<div>сряда 29 юли 2015</div><BR><div><img width="800" height="532" src="https://bivol.bg/wp-content/uploads/2015/07/image-873984-galleryV9-obqb.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2015/07/image-873984-galleryV9-obqb.jpg 800w, https://bivol.bg/wp-content/uploads/2015/07/image-873984-galleryV9-obqb-300x200.jpg 300w, https://bivol.bg/wp-content/uploads/2015/07/image-873984-galleryV9-obqb-90x60.jpg 90w, https://bivol.bg/wp-content/uploads/2015/07/image-873984-galleryV9-obqb-180x120.jpg 180w, https://bivol.bg/wp-content/uploads/2015/07/image-873984-galleryV9-obqb-95x64.jpg 95w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="27554" data-permalink="https://bivol.bg/%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%b2%d1%8e-%d0%bd%d0%b0-%d1%88%d0%bf%d0%b8%d0%b3%d0%b5%d0%bb-%d1%81-%d0%b4%d0%b6%d1%83%d0%bb%d0%b8%d0%b0%d0%bd-%d0%b0%d1%81%d0%b0%d0%bd%d0%b6-%d0%b7%d0%b0.html/image-873984-galleryv9-obqb" data-orig-file="https://bivol.bg/wp-content/uploads/2015/07/image-873984-galleryV9-obqb.jpg" data-orig-size="800,532" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Асанж интервюиран от журналиста от Шпигел  Майкъл Зонтаймер в посолството на Еквадор в Лондон" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2015/07/image-873984-galleryV9-obqb-300x200.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2015/07/image-873984-galleryV9-obqb.jpg" /></div>В интервюто 44-годишният Джулиан Асанж говори за завръщането на платформата Уикилийкс и желанието си да окаже помощ на германска парламентарна комисия, която разследва масовото шпиониране от страна на американската Национална&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2015/07/image-873984-galleryV9-obqb.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">27553</post-id>	</item>
+	</channel>
+</rss>

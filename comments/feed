@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Коментари за Bivol.bg	</title>
+	<atom:link href="https://bivol.bg/comments/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Thu, 24 Dec 2020 08:00:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+	<item>
+		<title>
+		Коментари по EK даде на Гешев строителите на Турски поток, усвоили европари от Газовият #GPGate EK даде на Гешев строителите на Турски поток, усвоили европари &#8211; koMEDIA.bg		</title>
+		<link>https://bivol.bg/ek-%d0%b4%d0%b0%d0%b4%d0%b5-%d0%bd%d0%b0-%d0%b3%d0%b5%d1%88%d0%b5%d0%b2-%d1%81%d1%82%d1%80%d0%be%d0%b8%d1%82%d0%b5%d0%bb%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d1%82%d1%83%d1%80%d1%81%d0%ba%d0%b8-%d0%bf.html#comment-160</link>
+
+		<dc:creator><![CDATA[Газовият #GPGate EK даде на Гешев строителите на Турски поток, усвоили европари &#8211; koMEDIA.bg]]></dc:creator>
+		<pubDate>Thu, 24 Dec 2020 08:00:29 +0000</pubDate>
+		<guid isPermaLink="false">https://bivol.bg/?p=68994#comment-160</guid>
+
+					<description><![CDATA[[…]  Източник: Биволъ  […]]]></description>
+			<content:encoded><![CDATA[<p>[…]  Източник: Биволъ  […]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Уайт енд Кейс &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/%d1%83%d0%b0%d0%b9%d1%82-%d0%b5%d0%bd%d0%b4-%d0%ba%d0%b5%d0%b9%d1%81/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Thu, 28 Sep 2017 17:18:57 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Уайт енд Кейс &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Докато прокуратурата кокошкарства в НЕК...  Оборудването за стотици милиони за Белене стои безпризорно</title>
+		<link>https://bivol.bg/belene-tehnika.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Thu, 27 Apr 2017 13:10:43 +0000</pubDate>
+				<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Агрегати]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Прокуратура]]></category>
+		<category><![CDATA[Реактори]]></category>
+		<category><![CDATA[Уайт енд Кейс]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=33631</guid>
+
+					<description><![CDATA[<div>четвъртък 27 април 2017</div><BR><div><img width="938" height="648" src="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png 938w, https://bivol.bg/wp-content/uploads/2017/04/belene-agregati-300x207.png 300w, https://bivol.bg/wp-content/uploads/2017/04/belene-agregati-768x531.png 768w" sizes="(max-width: 938px) 100vw, 938px" data-attachment-id="33656" data-permalink="https://bivol.bg/belene-tehnika.html/belene-agregati" data-orig-file="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png" data-orig-size="938,648" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="belene-agregati" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati-300x207.png" data-large-file="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png" /></div>Агрегатите за Белене, които&#160;НЕК плати с държавен заем след изгубения арбитраж срещу Атомстройекспорт, стоят на брега на Дунава без охрана. До тях може да стигне всеки на една ръка разстояние.&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">33631</post-id>	</item>
+		<item>
+		<title>КОЙ скри негодния строеж на АЕЦ Белене, за да плати 1,2 милиарда на руснаците?</title>
+		<link>https://bivol.bg/belene-nec-ase-1.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 10 Feb 2017 10:43:58 +0000</pubDate>
+				<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Въ агъла (интервю)]]></category>
+		<category><![CDATA[Енергетика]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Арбитражно дело]]></category>
+		<category><![CDATA[Атомстройекспорт]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Борисов]]></category>
+		<category><![CDATA[Експертиза]]></category>
+		<category><![CDATA[Илчо Костов]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Русия]]></category>
+		<category><![CDATA[Уайт енд Кейс]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=33119</guid>
+
+					<description><![CDATA[Обследване на конструкциите на Първи блок на АЕЦ Белене е показало дълбоки пукнатини и пълна негодност за доизграждане. Това означава, че проектите, с които Атомстройекспорт е спечелила тръжната процедура за&#8230;]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">33119</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Димитър Димитров &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/%d0%b4%d0%b8%d0%bc%d0%b8%d1%82%d1%8a%d1%80-%d0%b4%d0%b8%d0%bc%d0%b8%d1%82%d1%80%d0%be%d0%b2/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Fri, 02 Apr 2021 10:07:29 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Димитър Димитров &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Говорител на ЦИК:   „Не могат да преброят 50 гласа, искат машини?“</title>
+		<link>https://bivol.bg/%d0%bd%d0%b5-%d0%bc%d0%be%d0%b3%d0%b0%d1%82-%d0%b4%d0%b0-%d0%bf%d1%80%d0%b5%d0%b1%d1%80%d0%be%d1%8f%d1%82-50-%d0%b3%d0%bb%d0%b0%d1%81%d0%b0-%d0%b8%d1%81%d0%ba%d0%b0%d1%82-%d0%bc%d0%b0%d1%88.html</link>
+		
+		<dc:creator><![CDATA[Николай Марченко]]></dc:creator>
+		<pubDate>Wed, 31 Mar 2021 17:51:45 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Димитър Димитров]]></category>
+		<category><![CDATA[избори 2021]]></category>
+		<category><![CDATA[машинен вот]]></category>
+		<category><![CDATA[Машинно гласуване]]></category>
+		<category><![CDATA[ЦИК]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=73167</guid>
+
+					<description><![CDATA[<div>сряда 31 март 2021</div><BR><div><img width="925" height="520" src="https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov.jpeg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov.jpeg 925w, https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov-300x169.jpeg 300w, https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov-768x432.jpeg 768w, https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov-585x329.jpeg 585w" sizes="(max-width: 925px) 100vw, 925px" data-attachment-id="73168" data-permalink="https://bivol.bg/%d0%bd%d0%b5-%d0%bc%d0%be%d0%b3%d0%b0%d1%82-%d0%b4%d0%b0-%d0%bf%d1%80%d0%b5%d0%b1%d1%80%d0%be%d1%8f%d1%82-50-%d0%b3%d0%bb%d0%b0%d1%81%d0%b0-%d0%b8%d1%81%d0%ba%d0%b0%d1%82-%d0%bc%d0%b0%d1%88.html/dimitardimitrov" data-orig-file="https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov.jpeg" data-orig-size="925,520" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="DimitarDimitrov" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov-300x169.jpeg" data-large-file="https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov.jpeg" /></div>Говорителят на Централната избирателна комисия (ЦИК) Димитър Димитров смята машините за гласуване, въведени тази година в избирателните секции с над 300 души, за абсолютно &#8220;безсмислени&#8221;.  „Така ли и не разбрахте,&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2021/03/DimitarDimitrov.jpeg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">73167</post-id>	</item>
+		<item>
+		<title>Свободата на словото в България и “медийните ченгета”  – интервю на Димитър Димитров  Борисов налагал лично цензура срещу Биволъ като Премиер *</title>
+		<link>https://bivol.bg/%d0%b1%d0%be%d1%80%d0%b8%d1%81%d0%be%d0%b2-%d0%bd%d0%b0%d0%bb%d0%b0%d0%b3%d0%b0%d0%bb-%d0%bb%d0%b8%d1%87%d0%bd%d0%be-%d1%86%d0%b5%d0%bd%d0%b7%d1%83%d1%80%d0%b0-%d1%81%d1%80%d0%b5%d1%89%d1%83-%d0%b1.html</link>
+		
+		<dc:creator><![CDATA[Биволъ]]></dc:creator>
+		<pubDate>Fri, 18 Nov 2016 14:01:14 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Въ агъла (интервю)]]></category>
+		<category><![CDATA[EURODIG]]></category>
+		<category><![CDATA[Асен Йорданов]]></category>
+		<category><![CDATA[Биволъ]]></category>
+		<category><![CDATA[Бойко Борисов]]></category>
+		<category><![CDATA[Димитър Димитров]]></category>
+		<category><![CDATA[Репортери без граници]]></category>
+		<category><![CDATA[Свобода на медиите]]></category>
+		<category><![CDATA[Свобода на словото]]></category>
+		<category><![CDATA[Цензура]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=32422</guid>
+
+					<description><![CDATA[<div>петък 18 ноември 2016</div><BR><div><img width="1024" height="683" src="https://bivol.bg/wp-content/uploads/2016/11/Dimitar_Dimitrov-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2016/11/Dimitar_Dimitrov-1024x683.jpg 1024w, https://bivol.bg/wp-content/uploads/2016/11/Dimitar_Dimitrov-300x200.jpg 300w, https://bivol.bg/wp-content/uploads/2016/11/Dimitar_Dimitrov-768x512.jpg 768w, https://bivol.bg/wp-content/uploads/2016/11/Dimitar_Dimitrov-1440x960.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="32423" data-permalink="https://bivol.bg/%d0%b1%d0%be%d1%80%d0%b8%d1%81%d0%be%d0%b2-%d0%bd%d0%b0%d0%bb%d0%b0%d0%b3%d0%b0%d0%bb-%d0%bb%d0%b8%d1%87%d0%bd%d0%be-%d1%86%d0%b5%d0%bd%d0%b7%d1%83%d1%80%d0%b0-%d1%81%d1%80%d0%b5%d1%89%d1%83-%d0%b1.html/wikimania-2016-esino-lario" data-orig-file="https://bivol.bg/wp-content/uploads/2016/11/Dimitar_Dimitrov.jpg" data-orig-size="2835,1890" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;1.4&quot;,&quot;credit&quot;:&quot;Sebastiaan ter Burg&quot;,&quot;camera&quot;:&quot;X-Pro1&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1466786343&quot;,&quot;copyright&quot;:&quot;Sebastiaan ter Burg&quot;,&quot;focal_length&quot;:&quot;35&quot;,&quot;iso&quot;:&quot;800&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;Wikimania 2016 Esino Lario&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Димитър Димитров" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2016/11/Dimitar_Dimitrov-300x200.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2016/11/Dimitar_Dimitrov-1024x683.jpg" /></div>Как виждате Свободата на словото в България? Числата казват всичко. В индекса за свободата на пресата създаван всяка година от Репортери без граници за тази година заемаме 113 място. Още&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2016/11/Dimitar_Dimitrov-1024x683.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">32422</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Венецуела &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/%d0%b2%d0%b5%d0%bd%d0%b5%d1%86%d1%83%d0%b5%d0%bb%d0%b0/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Sun, 04 Apr 2021 07:57:13 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Венецуела &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Разследване на „Биволъ“ и Armando Info   Машинният вот в България е непрозрачен като в чавистка Венецуела</title>
+		<link>https://bivol.bg/%d0%bc%d0%b0%d1%88%d0%b8%d0%bd%d0%bd%d0%b8%d1%8f%d1%82-%d0%b2%d0%be%d1%82-%d0%b2-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%8f-%d0%b5-%d0%bd%d0%b5%d0%bf%d1%80%d0%be%d0%b7%d1%80%d0%b0%d1%87%d0%b5.html</link>
+		
+		<dc:creator><![CDATA[Николай Марченко]]></dc:creator>
+		<pubDate>Sat, 03 Apr 2021 19:05:36 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Armando Info]]></category>
+		<category><![CDATA[Венецуела]]></category>
+		<category><![CDATA[Каракас]]></category>
+		<category><![CDATA[Машинно гласуване]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=73250</guid>
+
+					<description><![CDATA[<div>събота 3 април 2021</div><BR><div><img width="1009" height="446" src="https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_.jpeg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_.jpeg 1009w, https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_-300x133.jpeg 300w, https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_-768x339.jpeg 768w, https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_-585x259.jpeg 585w" sizes="(max-width: 1009px) 100vw, 1009px" data-attachment-id="73309" data-permalink="https://bivol.bg/%d0%bc%d0%b0%d1%88%d0%b8%d0%bd%d0%bd%d0%b8%d1%8f%d1%82-%d0%b2%d0%be%d1%82-%d0%b2-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%8f-%d0%b5-%d0%bd%d0%b5%d0%bf%d1%80%d0%be%d0%b7%d1%80%d0%b0%d1%87%d0%b5.html/venezuela_dir-bg" data-orig-file="https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_.jpeg" data-orig-size="1009,446" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Venezuela_Dir.bg" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_-300x133.jpeg" data-large-file="https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_.jpeg" /></div>През януари 2021 г. „Демократична България“ поиска независим одит на машините за гласуване, а „Биволъ“ описа тайните на венецуелския им вносител и българския му партньор Ciela Norma. В отговор на&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2021/04/Venezuela_Dir.bg_.jpeg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">73250</post-id>	</item>
+		<item>
+		<title>След разследване на „Биволъ”   Венецуелски депутат сезира Иван Гешев за милионите на Николас Мадуро</title>
+		<link>https://bivol.bg/%d0%b2%d0%b5%d0%bd%d0%b5%d1%86%d1%83%d0%b5%d0%bb%d1%81%d0%ba%d0%b8-%d0%b4%d0%b5%d0%bf%d1%83%d1%82%d0%b0%d1%82-%d1%81%d0%b5%d0%b7%d0%b8%d1%80%d0%b0-%d0%b8%d0%b2%d0%b0%d0%bd-%d0%b3%d0%b5%d1%88%d0%b5.html</link>
+		
+		<dc:creator><![CDATA[Николай Марченко]]></dc:creator>
+		<pubDate>Sun, 30 Aug 2020 11:44:36 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Алекс Сааб]]></category>
+		<category><![CDATA[Венецуела]]></category>
+		<category><![CDATA[Венецуелски милиони]]></category>
+		<category><![CDATA[Иван Гешев]]></category>
+		<category><![CDATA[Мадуро]]></category>
+		<category><![CDATA[Прокуратура]]></category>
+		<category><![CDATA[Херо Мустафа]]></category>
+		<category><![CDATA[Цветан Цанев]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=63237</guid>
+
+					<description><![CDATA[<div>неделя 30 август 2020</div><BR><div><img width="591" height="589" src="https://bivol.bg/wp-content/uploads/2020/08/Collage.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/08/Collage.png 591w, https://bivol.bg/wp-content/uploads/2020/08/Collage-300x300.png 300w, https://bivol.bg/wp-content/uploads/2020/08/Collage-150x150.png 150w, https://bivol.bg/wp-content/uploads/2020/08/Collage-585x583.png 585w" sizes="(max-width: 591px) 100vw, 591px" data-attachment-id="63238" data-permalink="https://bivol.bg/%d0%b2%d0%b5%d0%bd%d0%b5%d1%86%d1%83%d0%b5%d0%bb%d1%81%d0%ba%d0%b8-%d0%b4%d0%b5%d0%bf%d1%83%d1%82%d0%b0%d1%82-%d1%81%d0%b5%d0%b7%d0%b8%d1%80%d0%b0-%d0%b8%d0%b2%d0%b0%d0%bd-%d0%b3%d0%b5%d1%88%d0%b5.html/collage" data-orig-file="https://bivol.bg/wp-content/uploads/2020/08/Collage.png" data-orig-size="591,589" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Collage" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/08/Collage-300x300.png" data-large-file="https://bivol.bg/wp-content/uploads/2020/08/Collage.png" /></div>Опозиционният венецуелски депутат Фреди Суперлано сезира главния прокурор на Република България Иван Гешев след разследването на „Биволъ” за милионите на Николас Мадуро в &#8220;гнилата ябълка&#8221; „Инвестбанк”, стана ясно от официалното&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/08/Collage.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">63237</post-id>	</item>
+		<item>
+		<title>Парите водят от Каракас към Кремъл   $158 млн. на Николас Мадуро отлежават в „Инвестбанк”</title>
+		<link>https://bivol.bg/maduro-saab-investbank-canev.html</link>
+		
+		<dc:creator><![CDATA[Николай Марченко]]></dc:creator>
+		<pubDate>Sat, 15 Aug 2020 10:09:22 +0000</pubDate>
+				<category><![CDATA[Банки "Гнили Ябълки"]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Алекс Сааб]]></category>
+		<category><![CDATA[Венецуела]]></category>
+		<category><![CDATA[Гнили ябълки]]></category>
+		<category><![CDATA[Инвестбанк]]></category>
+		<category><![CDATA[Николас Мадуро]]></category>
+		<category><![CDATA[Пране на пари]]></category>
+		<category><![CDATA[Цветан Цанев]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=61354</guid>
+
+					<description><![CDATA[<div>събота 15 август 2020</div><BR><div><img width="1024" height="576" src="https://bivol.bg/wp-content/uploads/2020/08/Saab_ExtraVenezuela-1024x576.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/08/Saab_ExtraVenezuela-1024x576.png 1024w, https://bivol.bg/wp-content/uploads/2020/08/Saab_ExtraVenezuela-300x169.png 300w, https://bivol.bg/wp-content/uploads/2020/08/Saab_ExtraVenezuela-768x432.png 768w, https://bivol.bg/wp-content/uploads/2020/08/Saab_ExtraVenezuela-1170x658.png 1170w, https://bivol.bg/wp-content/uploads/2020/08/Saab_ExtraVenezuela-585x329.png 585w, https://bivol.bg/wp-content/uploads/2020/08/Saab_ExtraVenezuela.png 1280w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="61379" data-permalink="https://bivol.bg/maduro-saab-investbank-canev.html/saab_extravenezuela" data-orig-file="https://bivol.bg/wp-content/uploads/2020/08/Saab_ExtraVenezuela.png" data-orig-size="1280,720" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Saab_ExtraVenezuela" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/08/Saab_ExtraVenezuela-300x169.png" data-large-file="https://bivol.bg/wp-content/uploads/2020/08/Saab_ExtraVenezuela-1024x576.png" /></div>Колумбийският милиардер Алекс Сааб е предполагаемият собственик на запорираните в България венецуелски авоари. Той беше задържан през юни в Кабо Верде с международен ордер за арест от САЩ. По искане&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/08/Saab_ExtraVenezuela-1024x576.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">61354</post-id>	</item>
+		<item>
+		<title>Прецизира се пътят на парите през &quot;човек на Мадуро&quot;, свързан с българската групировка около Цветан Цанев и Димитър Борисов - Гърнето  Венецуела разследва петродоларите в България по статия на „Биволъ”</title>
+		<link>https://bivol.bg/venezuela-laundromat-moran.html</link>
+		
+		<dc:creator><![CDATA[Николай Марченко]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2020 18:03:37 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Salva Foods 2015 S.A.]]></category>
+		<category><![CDATA[Алекс Сааб Моран]]></category>
+		<category><![CDATA[Американски санкции]]></category>
+		<category><![CDATA[Венецуела]]></category>
+		<category><![CDATA[Венецуелска перачница]]></category>
+		<category><![CDATA[Димитър Борисов - Гърнето]]></category>
+		<category><![CDATA[ДС]]></category>
+		<category><![CDATA[Луис Пара]]></category>
+		<category><![CDATA[Мадуро]]></category>
+		<category><![CDATA[Моран]]></category>
+		<category><![CDATA[Петродолари]]></category>
+		<category><![CDATA[Цветан Цанев]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=50700</guid>
+
+					<description><![CDATA[<div>вторник 14 януари 2020</div><BR><div><img width="809" height="609" src="https://bivol.bg/wp-content/uploads/2020/01/Deputies_Sofia.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/01/Deputies_Sofia.png 809w, https://bivol.bg/wp-content/uploads/2020/01/Deputies_Sofia-300x226.png 300w, https://bivol.bg/wp-content/uploads/2020/01/Deputies_Sofia-768x578.png 768w, https://bivol.bg/wp-content/uploads/2020/01/Deputies_Sofia-585x440.png 585w" sizes="(max-width: 809px) 100vw, 809px" data-attachment-id="50728" data-permalink="https://bivol.bg/venezuela-laundromat-moran.html/deputies_sofia" data-orig-file="https://bivol.bg/wp-content/uploads/2020/01/Deputies_Sofia.png" data-orig-size="809,609" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Deputies_Sofia" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/01/Deputies_Sofia-300x226.png" data-large-file="https://bivol.bg/wp-content/uploads/2020/01/Deputies_Sofia.png" /></div>Опозиционното мнозинство на Националната асамблея на Венецуела разследва ролята на България в изпирането на нефтодолари през &#8220;Инвестбанк&#8221; АД. Ключова роля има фирмата Salva Foods 2015 SA чрез фиктивни доставки на&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/01/Deputies_Sofia.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">50700</post-id>	</item>
+		<item>
+		<title>OCCRP обяви:  Президентът на Венецуела Николас Мадуро с анти-награда „Личност на годината“ за корупция и организирана престъпност</title>
+		<link>https://bivol.bg/occrp-maduro-2016.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 01 Jan 2017 14:41:45 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[OCCRP]]></category>
+		<category><![CDATA[Венецуела]]></category>
+		<category><![CDATA[Корупция]]></category>
+		<category><![CDATA[личност на година]]></category>
+		<category><![CDATA[Николас Мадуро]]></category>
+		<category><![CDATA[Организирана престъпност]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=32859</guid>
+
+					<description><![CDATA[<div>неделя 1 януари 2017</div><BR><div><img width="1024" height="620" src="https://bivol.bg/wp-content/uploads/2017/01/maduro-2016-1024x620.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2017/01/maduro-2016-1024x620.jpg 1024w, https://bivol.bg/wp-content/uploads/2017/01/maduro-2016-300x182.jpg 300w, https://bivol.bg/wp-content/uploads/2017/01/maduro-2016-768x465.jpg 768w, https://bivol.bg/wp-content/uploads/2017/01/maduro-2016-1440x872.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="32860" data-permalink="https://bivol.bg/occrp-maduro-2016.html/maduro-2016" data-orig-file="https://bivol.bg/wp-content/uploads/2017/01/maduro-2016.jpg" data-orig-size="2118,1282" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="maduro-2016" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2017/01/maduro-2016-300x182.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2017/01/maduro-2016-1024x620.jpg" /></div>Международният журналистически Проект за разследване на организираната престъпност и корупцията,&#160;OCCRP, обяви&#160;Наградата си за 2016 година за „Личност на годината“&#160;в&#160;организираната престъпност и корупцията. С тази награда&#160;OCCRP&#160;отдава признание на тези, които насърчават&#160;негражданското&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2017/01/maduro-2016-1024x620.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">32859</post-id>	</item>
+	</channel>
+</rss>

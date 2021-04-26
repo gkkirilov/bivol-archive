@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Интернет активизъм &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%bd%d0%b5%d1%82-%d0%b0%d0%ba%d1%82%d0%b8%d0%b2%d0%b8%d0%b7%d1%8a%d0%bc/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Tue, 21 Mar 2017 07:26:13 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Интернет активизъм &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>V като &#8220;вендета&#8221;, Т като &#8220;трол&#8221;&#8230;</title>
+		<link>https://bivol.bg/v-vendeta-t-troll.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Mon, 20 Mar 2017 19:48:16 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Въ агъла (интервю)]]></category>
+		<category><![CDATA[Тролгейт]]></category>
+		<category><![CDATA[Адриан Димитров]]></category>
+		<category><![CDATA[Интернет активизъм]]></category>
+		<category><![CDATA[Стефан Пройнов]]></category>
+		<category><![CDATA[Тролове]]></category>
+		<category><![CDATA[Фалшиви новини]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=33385</guid>
+
+					<description><![CDATA[<div>понеделник 20 март 2017</div><BR><div><img width="618" height="416" src="https://bivol.bg/wp-content/uploads/2017/03/proynov-adrian.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2017/03/proynov-adrian.png 618w, https://bivol.bg/wp-content/uploads/2017/03/proynov-adrian-300x202.png 300w" sizes="(max-width: 618px) 100vw, 618px" data-attachment-id="33390" data-permalink="https://bivol.bg/v-vendeta-t-troll.html/proynov-adrian" data-orig-file="https://bivol.bg/wp-content/uploads/2017/03/proynov-adrian.png" data-orig-size="618,416" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="proynov-adrian" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2017/03/proynov-adrian-300x202.png" data-large-file="https://bivol.bg/wp-content/uploads/2017/03/proynov-adrian.png" /></div>И &#8220;О &#160;като &#8220;отдаденост&#8221; добавя&#160;Стефан Пройнов, който управлява няколко дузини сайтове и стотици профили във Facebook, които споделят тяхното съдържание. Един от неговите сътрудници Адриан Димитров стана популярен през последните&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2017/03/proynov-adrian.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">33385</post-id>	</item>
+	</channel>
+</rss>

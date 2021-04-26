@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Le Monde &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/le-monde/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Mon, 08 Feb 2021 09:54:48 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Le Monde &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Активи за над милиард лева са свързани с България  OpenLux разкрива финансовите потайности на Люксембург</title>
+		<link>https://bivol.bg/openlux-start.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Mon, 08 Feb 2021 06:34:59 +0000</pubDate>
+				<category><![CDATA[OpenLux]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[#OpenLux]]></category>
+		<category><![CDATA[Le Monde]]></category>
+		<category><![CDATA[Luxembourg]]></category>
+		<category><![CDATA[OCCRP]]></category>
+		<category><![CDATA[Open Lux]]></category>
+		<category><![CDATA[SZ]]></category>
+		<category><![CDATA[woxx]]></category>
+		<category><![CDATA[Данъчни убежища]]></category>
+		<category><![CDATA[Корупция]]></category>
+		<category><![CDATA[Офшорки]]></category>
+		<category><![CDATA[Панамски досиета]]></category>
+		<category><![CDATA[Пране на пари]]></category>
+		<category><![CDATA[Търговски регистър]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=70176</guid>
+
+					<description><![CDATA[<div>понеделник 8 февруари 2021</div><BR><div><img width="1024" height="683" src="https://bivol.bg/wp-content/uploads/2021/02/openlux-banner-bg-1024x683.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2021/02/openlux-banner-bg-1024x683.png 1024w, https://bivol.bg/wp-content/uploads/2021/02/openlux-banner-bg-300x200.png 300w, https://bivol.bg/wp-content/uploads/2021/02/openlux-banner-bg-768x512.png 768w, https://bivol.bg/wp-content/uploads/2021/02/openlux-banner-bg-1536x1024.png 1536w, https://bivol.bg/wp-content/uploads/2021/02/openlux-banner-bg-1170x780.png 1170w, https://bivol.bg/wp-content/uploads/2021/02/openlux-banner-bg-585x390.png 585w, https://bivol.bg/wp-content/uploads/2021/02/openlux-banner-bg-263x175.png 263w, https://bivol.bg/wp-content/uploads/2021/02/openlux-banner-bg.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="70177" data-permalink="https://bivol.bg/openlux-start.html/openlux-banner-bg" data-orig-file="https://bivol.bg/wp-content/uploads/2021/02/openlux-banner-bg.png" data-orig-size="1920,1280" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="openlux-banner-bg" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2021/02/openlux-banner-bg-300x200.png" data-large-file="https://bivol.bg/wp-content/uploads/2021/02/openlux-banner-bg-1024x683.png" /></div>Какво има в сейфа на Люксембург &#8211; най-богатата държава в ЕС на глава от населението, разположена в сърцето на Европейския съюз и считана за едно от най-големите данъчни убежища в&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2021/02/openlux-banner-bg-1024x683.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">70176</post-id>	</item>
+	</channel>
+</rss>

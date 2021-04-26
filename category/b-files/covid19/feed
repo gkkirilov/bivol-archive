@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>COVID-19 &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/category/b-files/covid19/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Tue, 29 Dec 2020 10:10:04 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>COVID-19 &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Менте-маските купени от България стигнаха и до Германия с фалшиви сертификати</title>
+		<link>https://bivol.bg/ryzur-masks-spiegel.html</link>
+		
+		<dc:creator><![CDATA[Атанас Чобанов]]></dc:creator>
+		<pubDate>Tue, 29 Dec 2020 10:10:04 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Ryzur]]></category>
+		<category><![CDATA[Маски-менте]]></category>
+		<category><![CDATA[Респиратори]]></category>
+		<category><![CDATA[Шпигел]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=69132</guid>
+
+					<description><![CDATA[<div>вторник 29 декември 2020</div><BR><div><img width="948" height="536" src="https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel.jpg 948w, https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel-300x170.jpg 300w, https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel-768x434.jpg 768w, https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel-585x331.jpg 585w" sizes="(max-width: 948px) 100vw, 948px" data-attachment-id="69137" data-permalink="https://bivol.bg/ryzur-masks-spiegel.html/corona-masken-schwindel-lehrer" data-orig-file="https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel.jpg" data-orig-size="948,536" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;POT-LX1&quot;,&quot;caption&quot;:&quot;Corona: Masken-Schwindel\/ Lehrer in Baden-W\u00fcrttemberg\/ Dekra&quot;,&quot;created_timestamp&quot;:&quot;1608464847&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.46&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.03&quot;,&quot;title&quot;:&quot;Corona\/ Masken-Schwindel\/ Lehrer&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Corona/ Masken-Schwindel/ Lehrer" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel-300x170.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel.jpg" /></div>Некачествени китайски респиратори от производителя Ryzur са раздадени на учителите в провинция Баден-Вюртемберг, пише Шпигел. Според проучване на авторитетното немско издание тези маски са с фалшиви сертификати от лабораторията DEKRA&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/12/maski-spiegel.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">69132</post-id>	</item>
+		<item>
+		<title>Изпитанието Covid-19  Ограниченията падат, но рисковете остават</title>
+		<link>https://bivol.bg/covid-risks-after-lockdown.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Thu, 28 May 2020 12:32:05 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Епидемиология]]></category>
+		<category><![CDATA[Заразяване]]></category>
+		<category><![CDATA[Инфекциозна среда]]></category>
+		<category><![CDATA[Коронавирус]]></category>
+		<category><![CDATA[Маски]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=56045</guid>
+
+					<description><![CDATA[<div>четвъртък 28 май 2020</div><BR><div><img width="640" height="422" src="https://bivol.bg/wp-content/uploads/2020/05/ternuement1_thumb.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/05/ternuement1_thumb.jpg 640w, https://bivol.bg/wp-content/uploads/2020/05/ternuement1_thumb-300x198.jpg 300w, https://bivol.bg/wp-content/uploads/2020/05/ternuement1_thumb-585x386.jpg 585w" sizes="(max-width: 640px) 100vw, 640px" data-attachment-id="56131" data-permalink="https://bivol.bg/covid-risks-after-lockdown.html/ternuement1_thumb" data-orig-file="https://bivol.bg/wp-content/uploads/2020/05/ternuement1_thumb.jpg" data-orig-size="640,422" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ternuement1_thumb" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/05/ternuement1_thumb-300x198.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/05/ternuement1_thumb.jpg" /></div>Светът постепенно излиза от карантината и ние се завръщаме в социалната среда, и към обичайните си занимания. Но рискът от заразяване и и разпространение на коронавируса нараства. Това предизвиква страх&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/05/ternuement1_thumb.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">56045</post-id>	</item>
+		<item>
+		<title>Mediapart:  Нови научни изследвания сочат по-нисък праг на колективен имунитет срещу коронавируса</title>
+		<link>https://bivol.bg/herd-immunity-threshold-20.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sat, 23 May 2020 09:18:38 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Mediapart]]></category>
+		<category><![CDATA[Колективен имунитет]]></category>
+		<category><![CDATA[Стаден имунитет]]></category>
+		<category><![CDATA[Хетерогенни модели]]></category>
+		<category><![CDATA[Хомогенни модели]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=55874</guid>
+
+					<description><![CDATA[<div>събота 23 май 2020</div><BR><div><img width="1024" height="768" src="https://bivol.bg/wp-content/uploads/2020/05/corona-line-1024x768.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/05/corona-line-1024x768.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/05/corona-line-300x225.jpg 300w, https://bivol.bg/wp-content/uploads/2020/05/corona-line-768x576.jpg 768w, https://bivol.bg/wp-content/uploads/2020/05/corona-line-1170x878.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/05/corona-line-585x439.jpg 585w, https://bivol.bg/wp-content/uploads/2020/05/corona-line.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="55887" data-permalink="https://bivol.bg/herd-immunity-threshold-20.html/corona-line" data-orig-file="https://bivol.bg/wp-content/uploads/2020/05/corona-line.jpg" data-orig-size="1200,900" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="corona-line" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/05/corona-line-300x225.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/05/corona-line-1024x768.jpg" /></div>Прагът на колективния имунитет срещу Covid-19 може да е само между 10 и 20%, много по-нисък от първоначалните оценки, според научни публикации все още слабо известни във Франция. Това е&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/05/corona-line-1024x768.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">55874</post-id>	</item>
+		<item>
+		<title>Държавата не казва колко са &#8220;медицинските фурми&#8221; от Абу-Даби, но вече ги раздава на нуждаещите се</title>
+		<link>https://bivol.bg/covid-dates-distribution.html</link>
+		
+		<dc:creator><![CDATA[Димитър Стоянов]]></dc:creator>
+		<pubDate>Mon, 11 May 2020 10:16:23 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Емирати]]></category>
+		<category><![CDATA[Интръст]]></category>
+		<category><![CDATA[Караниколов]]></category>
+		<category><![CDATA[Медицински консумативи]]></category>
+		<category><![CDATA[ОАЕ]]></category>
+		<category><![CDATA[Пеевски]]></category>
+		<category><![CDATA[Фурми]]></category>
+		<category><![CDATA[Фурмигейт]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=55320</guid>
+
+					<description><![CDATA[<div>понеделник 11 май 2020</div><BR><div><img width="1024" height="711" src="https://bivol.bg/wp-content/uploads/2020/05/furmi-septemvri-1024x711.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/05/furmi-septemvri-1024x711.png 1024w, https://bivol.bg/wp-content/uploads/2020/05/furmi-septemvri-300x208.png 300w, https://bivol.bg/wp-content/uploads/2020/05/furmi-septemvri-768x533.png 768w, https://bivol.bg/wp-content/uploads/2020/05/furmi-septemvri-1536x1067.png 1536w, https://bivol.bg/wp-content/uploads/2020/05/furmi-septemvri-2048x1422.png 2048w, https://bivol.bg/wp-content/uploads/2020/05/furmi-septemvri-1170x812.png 1170w, https://bivol.bg/wp-content/uploads/2020/05/furmi-septemvri-1920x1333.png 1920w, https://bivol.bg/wp-content/uploads/2020/05/furmi-septemvri-585x406.png 585w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="55334" data-permalink="https://bivol.bg/covid-dates-distribution.html/furmi-septemvri" data-orig-file="https://bivol.bg/wp-content/uploads/2020/05/furmi-septemvri.png" data-orig-size="2991,2077" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="furmi-septemvri" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/05/furmi-septemvri-300x208.png" data-large-file="https://bivol.bg/wp-content/uploads/2020/05/furmi-septemvri-1024x711.png" /></div>Вече втора седмица няма новини от междуведомствената комисия, която трябваше да установи количеството на дошлите от ОАЕ фурми. Липсва протокол и не може да се обявят официално резултатите от преброяването.&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/05/furmi-septemvri-1024x711.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">55320</post-id>	</item>
+		<item>
+		<title>Science с факт-чек на вирусната конспирация   Фалшиви и абсурдни твърдения на Джуди Миковиц опровергани от престижно научно издание</title>
+		<link>https://bivol.bg/mikovits-fakes-debunk-science.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 10 May 2020 11:52:23 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Джуди Миковиц]]></category>
+		<category><![CDATA[Ковид-19]]></category>
+		<category><![CDATA[Конспирации]]></category>
+		<category><![CDATA[Фалшиви новини]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=55279</guid>
+
+					<description><![CDATA[<div>неделя 10 май 2020</div><BR><div><img width="1024" height="624" src="https://bivol.bg/wp-content/uploads/2020/05/Judy-Mikovits-1024x624.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/05/Judy-Mikovits-1024x624.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/05/Judy-Mikovits-300x183.jpg 300w, https://bivol.bg/wp-content/uploads/2020/05/Judy-Mikovits-768x468.jpg 768w, https://bivol.bg/wp-content/uploads/2020/05/Judy-Mikovits-585x356.jpg 585w, https://bivol.bg/wp-content/uploads/2020/05/Judy-Mikovits.jpg 1047w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="55293" data-permalink="https://bivol.bg/mikovits-fakes-debunk-science.html/judy-mikovits" data-orig-file="https://bivol.bg/wp-content/uploads/2020/05/Judy-Mikovits.jpg" data-orig-size="1047,638" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Judy-Mikovits" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/05/Judy-Mikovits-300x183.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/05/Judy-Mikovits-1024x624.jpg" /></div>Във видеофилм, който през последните няколко дни разтърси социалните медии, вирусологът Джуди Миковиц твърди, че новият коронавирус е погрешно обвинен за многото смъртни случаи. Тя прави абсурдни твърдения за вируса,&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/05/Judy-Mikovits-1024x624.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">55279</post-id>	</item>
+		<item>
+		<title>Как България купи с европари китайски маски-менте</title>
+		<link>https://bivol.bg/covid-china-masks-ryzur.html</link>
+		
+		<dc:creator><![CDATA[Атанас Чобанов]]></dc:creator>
+		<pubDate>Wed, 06 May 2020 19:08:39 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[FDA]]></category>
+		<category><![CDATA[Ryzur]]></category>
+		<category><![CDATA[Китай]]></category>
+		<category><![CDATA[Маски]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=55099</guid>
+
+					<description><![CDATA[<div>сряда 6 май 2020</div><BR><div><img width="1024" height="643" src="https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-1024x643.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-1024x643.png 1024w, https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-300x188.png 300w, https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-768x482.png 768w, https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-1170x734.png 1170w, https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-585x367.png 585w, https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask.png 1278w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="55138" data-permalink="https://bivol.bg/covid-china-masks-ryzur.html/ryzur-mask" data-orig-file="https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask.png" data-orig-size="1278,802" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ryzur-mask" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-300x188.png" data-large-file="https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-1024x643.png" /></div>Закупените от Китай с европейски пари предпазни маски се оказаха от най-долнопробно качество, показа разследване на Биволъ. Референтна американска лаборатория е тествала десетки модели китайски маски и дава на този&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/05/ryzur-mask-1024x643.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">55099</post-id>	</item>
+		<item>
+		<title>В България се използват два бързи теста с лъжливо европейско и американско брендиране  Несигурна диагноза: Мътният глобален пазар за бързи тестове за коронавирус</title>
+		<link>https://bivol.bg/uncertain-diagnosis-the-murky-global-market-for-coronavirus-antibody-tests.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Wed, 06 May 2020 10:41:59 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Acro Biotech]]></category>
+		<category><![CDATA[Alltest]]></category>
+		<category><![CDATA[Biozek]]></category>
+		<category><![CDATA[OCCRP]]></category>
+		<category><![CDATA[Бързи тестове]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=55062</guid>
+
+					<description><![CDATA[<div>сряда 6 май 2020</div><BR><div><img width="1024" height="687" src="https://bivol.bg/wp-content/uploads/2020/05/Bulgarian-ad-Biozek-1024x687.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/05/Bulgarian-ad-Biozek-1024x687.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/05/Bulgarian-ad-Biozek-300x201.jpg 300w, https://bivol.bg/wp-content/uploads/2020/05/Bulgarian-ad-Biozek-768x515.jpg 768w, https://bivol.bg/wp-content/uploads/2020/05/Bulgarian-ad-Biozek-1170x785.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/05/Bulgarian-ad-Biozek-585x392.jpg 585w, https://bivol.bg/wp-content/uploads/2020/05/Bulgarian-ad-Biozek-263x175.jpg 263w, https://bivol.bg/wp-content/uploads/2020/05/Bulgarian-ad-Biozek.jpg 1400w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="55067" data-permalink="https://bivol.bg/uncertain-diagnosis-the-murky-global-market-for-coronavirus-antibody-tests.html/bulgarian-ad-biozek" data-orig-file="https://bivol.bg/wp-content/uploads/2020/05/Bulgarian-ad-Biozek.jpg" data-orig-size="1400,939" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Bulgarian-ad-Biozek" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/05/Bulgarian-ad-Biozek-300x201.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/05/Bulgarian-ad-Biozek-1024x687.jpg" /></div>В продължение на поне четири дни в края на март гражданинът на Северна Македония Родзер Зекировски показва всички предполагаеми симптоми на Ковид-19 &#8211; висока температура, болки в мускулите и суха&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/05/Bulgarian-ad-Biozek-1024x687.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">55062</post-id>	</item>
+		<item>
+		<title>Цялата инфекциозна клиника на св. Анна била с позитивни серологични тестове  Двайсет хирурзи в &#8220;Пирогов&#8221; са с COVID-19</title>
+		<link>https://bivol.bg/pirogov-sv-anna-covid.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Mon, 04 May 2020 16:03:23 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Кратки]]></category>
+		<category><![CDATA[Пирогов]]></category>
+		<category><![CDATA[Св. Анна]]></category>
+		<category><![CDATA[Хирургия]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=54982</guid>
+
+					<description><![CDATA[<div>понеделник 4 май 2020</div><BR><div><img width="1024" height="685" src="https://bivol.bg/wp-content/uploads/2020/05/baltov-cap-1024x685.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/05/baltov-cap-1024x685.png 1024w, https://bivol.bg/wp-content/uploads/2020/05/baltov-cap-300x201.png 300w, https://bivol.bg/wp-content/uploads/2020/05/baltov-cap-768x514.png 768w, https://bivol.bg/wp-content/uploads/2020/05/baltov-cap-1170x783.png 1170w, https://bivol.bg/wp-content/uploads/2020/05/baltov-cap-585x391.png 585w, https://bivol.bg/wp-content/uploads/2020/05/baltov-cap-263x175.png 263w, https://bivol.bg/wp-content/uploads/2020/05/baltov-cap.png 1504w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="54984" data-permalink="https://bivol.bg/pirogov-sv-anna-covid.html/baltov-cap" data-orig-file="https://bivol.bg/wp-content/uploads/2020/05/baltov-cap.png" data-orig-size="1504,1006" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="baltov-cap" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/05/baltov-cap-300x201.png" data-large-file="https://bivol.bg/wp-content/uploads/2020/05/baltov-cap-1024x685.png" /></div>Десетки медици от &#8220;Пирогов&#8221; са тествани позитивни за коронавирус, като поне двайсет от тях са хирурзи, научи Биволъ от източници в столичната болницата. Най-много са от клиниката по Обща, висцерална&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/05/baltov-cap-1024x685.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">54982</post-id>	</item>
+		<item>
+		<title>Британски специалисти с предупреждение за китайските респиратори, поръчани и от България</title>
+		<link>https://bivol.bg/covid-ventilators-aeonmed-harmful.html</link>
+		
+		<dc:creator><![CDATA[Атанас Чобанов]]></dc:creator>
+		<pubDate>Sun, 03 May 2020 11:18:06 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Кратки]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Aeonmed]]></category>
+		<category><![CDATA[Shangrila 510]]></category>
+		<category><![CDATA[VG70]]></category>
+		<category><![CDATA[Апарати за обдишване]]></category>
+		<category><![CDATA[Респиратори]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=54911</guid>
+
+					<description><![CDATA[<div>неделя 3 май 2020</div><BR><div><img width="1024" height="524" src="https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-1024x524.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-1024x524.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-300x153.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-768x393.jpg 768w, https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-1536x786.jpg 1536w, https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-2048x1048.jpg 2048w, https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-1170x599.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-1920x982.jpg 1920w, https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-585x299.jpg 585w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="54031" data-permalink="https://bivol.bg/ventilators-aeonmed-bulgaria.html/vg70-portable" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-scaled.jpg" data-orig-size="2560,1310" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark II&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1429030849&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;24&quot;,&quot;iso&quot;:&quot;1000&quot;,&quot;shutter_speed&quot;:&quot;0.125&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="vg70-portable" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-300x153.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-1024x524.jpg" /></div>Аанестезиолози, реаниматори и болнични мениджъри от Великобритания са изпратили писмо с предупреждение до санитарните власти, че респираторите на Beijing Aeonmed Co. Ltd. са опасни за пациентите и не са адаптирани&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-1024x524.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">54911</post-id>	</item>
+		<item>
+		<title>Бил Гейтс за  битката срещу COVID-19  Началото на пътя е тестването. Останалото са иновации и пари</title>
+		<link>https://bivol.bg/bill-gates-covid-report.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Mon, 27 Apr 2020 09:57:41 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Аналитичен доклад]]></category>
+		<category><![CDATA[Бил Гейтс]]></category>
+		<category><![CDATA[Ковид-19]]></category>
+		<category><![CDATA[Пандемия]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=54745</guid>
+
+					<description><![CDATA[<div>понеделник 27 април 2020</div><BR><div><img width="1024" height="640" src="https://bivol.bg/wp-content/uploads/2020/04/Bill_Gates_MSC_2017-1024x640.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/Bill_Gates_MSC_2017-1024x640.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/04/Bill_Gates_MSC_2017-300x188.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/Bill_Gates_MSC_2017-768x480.jpg 768w, https://bivol.bg/wp-content/uploads/2020/04/Bill_Gates_MSC_2017-1536x960.jpg 1536w, https://bivol.bg/wp-content/uploads/2020/04/Bill_Gates_MSC_2017-2048x1280.jpg 2048w, https://bivol.bg/wp-content/uploads/2020/04/Bill_Gates_MSC_2017-1170x731.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/04/Bill_Gates_MSC_2017-1920x1200.jpg 1920w, https://bivol.bg/wp-content/uploads/2020/04/Bill_Gates_MSC_2017-585x366.jpg 585w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="54762" data-permalink="https://bivol.bg/bill-gates-covid-report.html/bill_gates_msc_2017" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/Bill_Gates_MSC_2017-scaled.jpg" data-orig-size="2560,1600" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Bill_Gates_MSC_2017" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/Bill_Gates_MSC_2017-300x188.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/Bill_Gates_MSC_2017-1024x640.jpg" /></div>Напълно разбираемо е, че националният разговор се обърна към един единствен въпрос: „Кога можем да се върнем към нормалното?“. Замръзването на ритъма причини неизмерима болка заради загубени работни места, изолация&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/Bill_Gates_MSC_2017-1024x640.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">54745</post-id>	</item>
+		<item>
+		<title>Партиди от същата марка са обявени за опасни и изтеглени от употреба в Дубай  Отровни ли са дезинфектантите дошли с фурмите от ОАЕ?</title>
+		<link>https://bivol.bg/lulu-sanitizers-oae-bulgaria.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 24 Apr 2020 14:29:44 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Абу Даби]]></category>
+		<category><![CDATA[Дезинфектант]]></category>
+		<category><![CDATA[Дубай]]></category>
+		<category><![CDATA[Ковид-19]]></category>
+		<category><![CDATA[метанол]]></category>
+		<category><![CDATA[ОАЕ]]></category>
+		<category><![CDATA[опасност за здравето]]></category>
+		<category><![CDATA[Фурмигейт]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=54627</guid>
+
+					<description><![CDATA[<div>петък 24 април 2020</div><BR><div><img width="1024" height="796" src="https://bivol.bg/wp-content/uploads/2020/04/Collage_Fotor1-1024x796.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/Collage_Fotor1-1024x796.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/04/Collage_Fotor1-300x233.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/Collage_Fotor1-768x597.jpg 768w, https://bivol.bg/wp-content/uploads/2020/04/Collage_Fotor1-1536x1195.jpg 1536w, https://bivol.bg/wp-content/uploads/2020/04/Collage_Fotor1-2048x1593.jpg 2048w, https://bivol.bg/wp-content/uploads/2020/04/Collage_Fotor1-1170x910.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/04/Collage_Fotor1-1920x1493.jpg 1920w, https://bivol.bg/wp-content/uploads/2020/04/Collage_Fotor1-585x455.jpg 585w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="54666" data-permalink="https://bivol.bg/lulu-sanitizers-oae-bulgaria.html/collage_fotor1" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/Collage_Fotor1-scaled.jpg" data-orig-size="2560,1991" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Collage_Fotor1" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/Collage_Fotor1-300x233.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/Collage_Fotor1-1024x796.jpg" /></div>Дезинфектантите, които пристигнаха в България от ОАЕ заедно със скандалните фурми по &#8220;бартера&#8221; на Пеевски, може да се окажат силно отровни и опасни за човешкото здраве. Пратката пристигна на 13.04.&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/Collage_Fotor1-1024x796.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">54627</post-id>	</item>
+		<item>
+		<title> Държавна Комисия за Броене на Фурмите преброи:  Пада се по една &#8220;лечебна&#8221; фурма от ОАЕ на седмина българи</title>
+		<link>https://bivol.bg/komisia-furmi.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Thu, 23 Apr 2020 14:28:52 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Абу Даби]]></category>
+		<category><![CDATA[ген. Мутафчийски]]></category>
+		<category><![CDATA[Емил Караниколов]]></category>
+		<category><![CDATA[НОЩ]]></category>
+		<category><![CDATA[Пеевски]]></category>
+		<category><![CDATA[Фурми]]></category>
+		<category><![CDATA[Фурмигейт]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=54590</guid>
+
+					<description><![CDATA[<div>четвъртък 23 април 2020</div><BR><div><img width="1024" height="768" src="https://bivol.bg/wp-content/uploads/2020/04/furmi-120gr-1024x768.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/furmi-120gr-1024x768.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/04/furmi-120gr-300x225.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/furmi-120gr-768x576.jpg 768w, https://bivol.bg/wp-content/uploads/2020/04/furmi-120gr-1170x878.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/04/furmi-120gr-585x439.jpg 585w, https://bivol.bg/wp-content/uploads/2020/04/furmi-120gr.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="54591" data-permalink="https://bivol.bg/komisia-furmi.html/furmi-120gr" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/furmi-120gr.jpg" data-orig-size="1536,1152" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="furmi-120gr" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/furmi-120gr-300x225.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/furmi-120gr-1024x768.jpg" /></div>Дванадесет тона бруто или над девет тона нето тегло са получените от Абу-Даби фурми, които бяха рекламирани от правителството и НОЩ като 15 тона &#8220;медицински консумативи&#8221;. Това е установила специална&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/furmi-120gr-1024x768.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">54590</post-id>	</item>
+		<item>
+		<title>Проф. Кенаров: Болни от COVID-19 може вероятно да се лекуват с терапевтична афереза</title>
+		<link>https://bivol.bg/covid-kenarov.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Thu, 23 Apr 2020 11:04:21 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Ковид-19]]></category>
+		<category><![CDATA[НОЩ]]></category>
+		<category><![CDATA[Плазмофореза]]></category>
+		<category><![CDATA[Проф. Пламен Кенаров]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=54568</guid>
+
+					<description><![CDATA[<div>четвъртък 23 април 2020</div><BR><div><img width="800" height="410" src="https://bivol.bg/wp-content/uploads/2020/04/aferesis-machine.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/aferesis-machine.jpg 800w, https://bivol.bg/wp-content/uploads/2020/04/aferesis-machine-300x154.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/aferesis-machine-768x394.jpg 768w, https://bivol.bg/wp-content/uploads/2020/04/aferesis-machine-585x300.jpg 585w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="54570" data-permalink="https://bivol.bg/covid-kenarov.html/aferesis-machine" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/aferesis-machine.jpg" data-orig-size="800,410" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;ThirteenOfClubs&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="aferesis-machine" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/aferesis-machine-300x154.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/aferesis-machine.jpg" /></div>Биволъ публикува статия и интервю с проф. д-р. Пламен Кенаров, Началник на отделение за интензивно лечение на неврологични заболявания в Университетска болница Царица Иоанна – ИСУЛ, София.  Как да лекуваме&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/aferesis-machine.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">54568</post-id>	</item>
+		<item>
+		<title>Разследване на авторитетния френски ежедневник  Le Figaro: Ами ако Ковид-19 е &#8220;избягал&#8221; от лабораторията в Ухан, доставена от Франция?</title>
+		<link>https://bivol.bg/le-figaro-wuhan-p4-lab.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 21 Apr 2020 17:37:55 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Le Figaro]]></category>
+		<category><![CDATA[Вируси]]></category>
+		<category><![CDATA[Китай]]></category>
+		<category><![CDATA[Ковид-19]]></category>
+		<category><![CDATA[Мерки за сигурност]]></category>
+		<category><![CDATA[САЩ]]></category>
+		<category><![CDATA[Ухан]]></category>
+		<category><![CDATA[Франция]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=54434</guid>
+
+					<description><![CDATA[<div>вторник 21 април 2020</div><BR><div><img width="1024" height="576" src="https://bivol.bg/wp-content/uploads/2020/04/wuhan-p4-lab-1024x576.jpeg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/wuhan-p4-lab-1024x576.jpeg 1024w, https://bivol.bg/wp-content/uploads/2020/04/wuhan-p4-lab-300x169.jpeg 300w, https://bivol.bg/wp-content/uploads/2020/04/wuhan-p4-lab-768x432.jpeg 768w, https://bivol.bg/wp-content/uploads/2020/04/wuhan-p4-lab-1170x658.jpeg 1170w, https://bivol.bg/wp-content/uploads/2020/04/wuhan-p4-lab-585x329.jpeg 585w, https://bivol.bg/wp-content/uploads/2020/04/wuhan-p4-lab.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="54440" data-permalink="https://bivol.bg/le-figaro-wuhan-p4-lab.html/wuhan-p4-lab" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/wuhan-p4-lab.jpeg" data-orig-size="1280,720" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="wuhan-p4-lab" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/wuhan-p4-lab-300x169.jpeg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/wuhan-p4-lab-1024x576.jpeg" /></div>Как прехвърлената от Франция лаборатория P4 в Ухан успя да избегне какъвто и да е контрол Le Figaro, Изабел Ласер, 21.04.2020 г. РАЗСЛЕДВАНЕ &#8211; Ами ако Ковид-19 се е измъкнал&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/wuhan-p4-lab-1024x576.jpeg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">54434</post-id>	</item>
+		<item>
+		<title>Коронавирусни размишления</title>
+		<link>https://bivol.bg/coronavirus-thoughts.html</link>
+		
+		<dc:creator><![CDATA[Георги Маринов]]></dc:creator>
+		<pubDate>Sat, 18 Apr 2020 22:15:01 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[MERS]]></category>
+		<category><![CDATA[SARS-1]]></category>
+		<category><![CDATA[SARS-2]]></category>
+		<category><![CDATA[Вируси]]></category>
+		<category><![CDATA[Генетика]]></category>
+		<category><![CDATA[Епидемиология]]></category>
+		<category><![CDATA[Икономика]]></category>
+		<category><![CDATA[Карантина]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=54352</guid>
+
+					<description><![CDATA[<div>неделя 19 април 2020</div><BR><div><img width="1024" height="576" src="https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-1024x576.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-300x169.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-768x432.jpg 768w, https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-1170x659.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-585x329.jpg 585w, https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval.jpg 1240w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="54364" data-permalink="https://bivol.bg/coronavirus-thoughts.html/corona-carnaval" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval.jpg" data-orig-size="1240,698" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="corona-carnaval" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-300x169.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-1024x576.jpg" /></div>От Георги К. Маринов, Department of Genetics, Stanford University, Stanford, California 94305, USA Със започването на втория месец от коронавирусната карантина, кога и как животът, и най-вече икономиката ще може&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-1024x576.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">54352</post-id>	</item>
+		<item>
+		<title>Time:  Италиански лекар лекува успешно болни от коронавирус  по домовете им</title>
+		<link>https://bivol.bg/italy-coronavirus-patients-treating-home.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sat, 18 Apr 2020 14:15:51 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Time]]></category>
+		<category><![CDATA[Домашно лечение]]></category>
+		<category><![CDATA[Италия]]></category>
+		<category><![CDATA[Ковид-19]]></category>
+		<category><![CDATA[Коронавирус]]></category>
+		<category><![CDATA[Луиджи Кавана]]></category>
+		<category><![CDATA[Хлороквин]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=54297</guid>
+
+					<description><![CDATA[<div>събота 18 април 2020</div><BR><div><img width="800" height="534" src="https://bivol.bg/wp-content/uploads/2020/04/gabriele-micalizzi-italy-covid-doctor-4.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/gabriele-micalizzi-italy-covid-doctor-4.jpg 800w, https://bivol.bg/wp-content/uploads/2020/04/gabriele-micalizzi-italy-covid-doctor-4-300x200.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/gabriele-micalizzi-italy-covid-doctor-4-768x513.jpg 768w, https://bivol.bg/wp-content/uploads/2020/04/gabriele-micalizzi-italy-covid-doctor-4-585x390.jpg 585w, https://bivol.bg/wp-content/uploads/2020/04/gabriele-micalizzi-italy-covid-doctor-4-263x175.jpg 263w" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="54343" data-permalink="https://bivol.bg/italy-coronavirus-patients-treating-home.html/gabriele-micalizzi-italy-covid-doctor-4" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/gabriele-micalizzi-italy-covid-doctor-4.jpg" data-orig-size="800,534" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;Gabriele Micalizzi \/ CESURA&quot;,&quot;camera&quot;:&quot;LEICA Q2&quot;,&quot;caption&quot;:&quot;26.3.20.Province of Picenza, close to Codogno the first poit of the epidemic center.Luigi Cavanna professor of Oncology and Gabriele Cremona the head of the ward of his ward started this initiative of treating patients from house to house. These are doctors and nurses, equipped with safety devices and equipped with a handheld ultrasound, who visit positive or suspicious positive people at home.\rObjective of the operation says the doctor: \&quot;The objectives are to reduce the duration of the disease and lighten the emergency room\&quot;.\rThis modality of home care would decrease the cases and lighten the stay of patients by a week.&quot;,&quot;created_timestamp&quot;:&quot;1585232619&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;28&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="gabriele-micalizzi-italy-covid-doctor-4" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/gabriele-micalizzi-italy-covid-doctor-4-300x200.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/gabriele-micalizzi-italy-covid-doctor-4.jpg" /></div>През последния месец Джовани Сартори изгуби чувството си за време. Той не помни точно кога по-малкият му брат, силен и здрав 53-годишен мъж, вдига висока температура и получава проблеми с&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/gabriele-micalizzi-italy-covid-doctor-4.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">54297</post-id>	</item>
+		<item>
+		<title>Надежда: френски лекари създадоха действаща методика за лечение на коронавируса</title>
+		<link>https://bivol.bg/covid-19-gastaldi-erbstein-vansteenberghe.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2020 20:35:44 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Лечение]]></category>
+		<category><![CDATA[Сингулар]]></category>
+		<category><![CDATA[Хепарин]]></category>
+		<category><![CDATA[Хидроксихлороквин]]></category>
+		<category><![CDATA[Цинков глюконат]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=54201</guid>
+
+					<description><![CDATA[<div>петък 17 април 2020</div><BR><div><img width="720" height="425" src="https://bivol.bg/wp-content/uploads/2020/04/coronaworld.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/coronaworld.jpg 720w, https://bivol.bg/wp-content/uploads/2020/04/coronaworld-300x177.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/coronaworld-585x345.jpg 585w" sizes="(max-width: 720px) 100vw, 720px" data-attachment-id="54270" data-permalink="https://bivol.bg/covid-the-world-after-novaya-gazeta.html/coronaworld" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/coronaworld.jpg" data-orig-size="720,425" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="coronaworld" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/coronaworld-300x177.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/coronaworld.jpg" /></div>Трима обикновени френски общопрактикуващи лекари разработиха методика за лечение на COVID-19, която дава чудесни резултати, пише френския Le Parisien, цитиран от&#160;рускоезичното издание BFM.RU Най-стъписващото е, че те живеят в различни&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/coronaworld.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">54201</post-id>	</item>
+		<item>
+		<title>Как ще бъде устроен светът след края на ограниченията: аргументите на икономиста  Това ли ни чака: безработица, неравенство и тотален контрол</title>
+		<link>https://bivol.bg/covid-the-world-after-novaya-gazeta.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2020 14:19:41 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Икономика]]></category>
+		<category><![CDATA[Новая Газета]]></category>
+		<category><![CDATA[Прогнози]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=54062</guid>
+
+					<description><![CDATA[<div>четвъртък 16 април 2020</div><BR><div><img width="1024" height="986" src="https://bivol.bg/wp-content/uploads/2020/03/kasketvirus.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/03/kasketvirus.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/03/kasketvirus-300x289.jpg 300w, https://bivol.bg/wp-content/uploads/2020/03/kasketvirus-768x740.jpg 768w, https://bivol.bg/wp-content/uploads/2020/03/kasketvirus-585x563.jpg 585w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="53248" data-permalink="https://bivol.bg/kasketvirus.html/kasketvirus" data-orig-file="https://bivol.bg/wp-content/uploads/2020/03/kasketvirus.jpg" data-orig-size="1024,986" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="kasketvirus" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/03/kasketvirus-300x289.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/03/kasketvirus.jpg" /></div>Историята със затворените под карантина големи градове предизвика дискусии за бъдещето на онлайн-бизнеса и осъзнатото потребление. За да утешат гражданите, заключени в жилищата си, пред доброволните затворници оптимистите рисуват чудесен&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/03/kasketvirus.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">54062</post-id>	</item>
+		<item>
+		<title>По схемата &quot;Сливи за смет&quot;  Медицинските фурми от ОАЕ стигнаха до Червения кръст</title>
+		<link>https://bivol.bg/%d0%bc%d0%b5%d0%b4%d0%b8%d1%86%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d1%84%d1%83%d1%80%d0%bc%d0%b8-%d0%be%d1%82-%d0%be%d0%b0%d0%b5-%d1%81%d1%82%d0%b8%d0%b3%d0%bd%d0%b0%d1%85%d0%b0-%d0%b4%d0%be.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2020 13:07:28 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Абу Даби]]></category>
+		<category><![CDATA[Васил Божков]]></category>
+		<category><![CDATA[Градус]]></category>
+		<category><![CDATA[Делян Пеевски]]></category>
+		<category><![CDATA[Десислава Танева]]></category>
+		<category><![CDATA[Иван Гешев]]></category>
+		<category><![CDATA[Ковид-19]]></category>
+		<category><![CDATA[Медицински консумативи]]></category>
+		<category><![CDATA[ОАЕ]]></category>
+		<category><![CDATA[Фурми]]></category>
+		<guid isPermaLink="false">https://bivol.bg/%d0%bc%d0%b5%d0%b4%d0%b8%d1%86%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d1%84%d1%83%d1%80%d0%bc%d0%b8-%d0%be%d1%82-%d0%be%d0%b0%d0%b5-%d1%81%d1%82%d0%b8%d0%b3%d0%bd%d0%b0%d1%85%d0%b0-%d0%b4%d0%be.html</guid>
+
+					<description><![CDATA[<div>четвъртък 16 април 2020</div><BR><div><img width="1024" height="768" src="https://bivol.bg/wp-content/uploads/2020/04/img_1215-1024x768.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/img_1215-1024x768.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/04/img_1215-300x225.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/img_1215-768x576.jpg 768w, https://bivol.bg/wp-content/uploads/2020/04/img_1215-1536x1152.jpg 1536w, https://bivol.bg/wp-content/uploads/2020/04/img_1215-2048x1536.jpg 2048w, https://bivol.bg/wp-content/uploads/2020/04/img_1215-1170x878.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/04/img_1215-1920x1440.jpg 1920w, https://bivol.bg/wp-content/uploads/2020/04/img_1215-585x439.jpg 585w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="54242" data-permalink="https://bivol.bg/%d0%bc%d0%b5%d0%b4%d0%b8%d1%86%d0%b8%d0%bd%d1%81%d0%ba%d0%b8%d1%82%d0%b5-%d1%84%d1%83%d1%80%d0%bc%d0%b8-%d0%be%d1%82-%d0%be%d0%b0%d0%b5-%d1%81%d1%82%d0%b8%d0%b3%d0%bd%d0%b0%d1%85%d0%b0-%d0%b4%d0%be.html/img_1215" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/img_1215-scaled.jpg" data-orig-size="2560,1920" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="img_1215" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/img_1215-300x225.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/img_1215-1024x768.jpg" /></div>Камион с над 10 тона фурми пристигнали от ОАЕ като медицински консумативи днес беше разтоварен в склада на Червения кръст в с. Долни Лозен, засне репортер на Биволъ.  Фурмите са&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/img_1215-1024x768.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">54254</post-id>	</item>
+		<item>
+		<title>Хуманитарна помощ или дарове за омилостивяване на Шейха?  Борим COVID-19 с фурми от Абу Даби</title>
+		<link>https://bivol.bg/abu-dabi-maski-furmi.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Wed, 15 Apr 2020 07:30:00 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Абу Даби]]></category>
+		<category><![CDATA[Васил Божков]]></category>
+		<category><![CDATA[Градус]]></category>
+		<category><![CDATA[Десислава Танева]]></category>
+		<category><![CDATA[Иван Гешев]]></category>
+		<category><![CDATA[Караниколов]]></category>
+		<category><![CDATA[Ковид-19]]></category>
+		<category><![CDATA[Маски]]></category>
+		<category><![CDATA[ОАЕ]]></category>
+		<category><![CDATA[Пеевски]]></category>
+		<category><![CDATA[Фурми]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=54128</guid>
+
+					<description><![CDATA[<div>сряда 15 април 2020</div><BR><div><img width="991" height="743" src="https://bivol.bg/wp-content/uploads/2020/04/4bdc4cf3-4fd5-462b-a0d1-792e1df65aa1-6492-00000387c1087d97.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/4bdc4cf3-4fd5-462b-a0d1-792e1df65aa1-6492-00000387c1087d97.jpg 991w, https://bivol.bg/wp-content/uploads/2020/04/4bdc4cf3-4fd5-462b-a0d1-792e1df65aa1-6492-00000387c1087d97-300x225.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/4bdc4cf3-4fd5-462b-a0d1-792e1df65aa1-6492-00000387c1087d97-768x576.jpg 768w, https://bivol.bg/wp-content/uploads/2020/04/4bdc4cf3-4fd5-462b-a0d1-792e1df65aa1-6492-00000387c1087d97-585x439.jpg 585w" sizes="(max-width: 991px) 100vw, 991px" data-attachment-id="54131" data-permalink="https://bivol.bg/abu-dabi-maski-furmi.html/4bdc4cf3-4fd5-462b-a0d1-792e1df65aa1-6492-00000387c1087d97" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/4bdc4cf3-4fd5-462b-a0d1-792e1df65aa1-6492-00000387c1087d97.jpg" data-orig-size="991,743" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="4bdc4cf3-4fd5-462b-a0d1-792e1df65aa1-6492-00000387c1087d97" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/4bdc4cf3-4fd5-462b-a0d1-792e1df65aa1-6492-00000387c1087d97-300x225.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/4bdc4cf3-4fd5-462b-a0d1-792e1df65aa1-6492-00000387c1087d97.jpg" /></div>Обявените гръмко 15 тона медицински консумативи от ОАЕ за борба с коронавируса се оказаха много по-малко &#8211; около 3 тона. В понеделник от Абу Даби с два самолета на България&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/4bdc4cf3-4fd5-462b-a0d1-792e1df65aa1-6492-00000387c1087d97.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">54128</post-id>	</item>
+		<item>
+		<title>Три причини да се пие и една да останеш жив  Карантината в Русия: от какво се страхуват алкохолиците</title>
+		<link>https://bivol.bg/russia-covid-lockdown-alcoholics.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 12 Apr 2020 14:43:02 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Алкохолици]]></category>
+		<category><![CDATA[Коронавирус]]></category>
+		<category><![CDATA[Новая Газета]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=53904</guid>
+
+					<description><![CDATA[<div>неделя 12 април 2020</div><BR><div><img width="1024" height="512" src="https://bivol.bg/wp-content/uploads/2020/04/saruhanov-novaya-alcoholics-1024x512.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/saruhanov-novaya-alcoholics-1024x512.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/04/saruhanov-novaya-alcoholics-300x150.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/saruhanov-novaya-alcoholics-768x384.jpg 768w, https://bivol.bg/wp-content/uploads/2020/04/saruhanov-novaya-alcoholics-585x293.jpg 585w, https://bivol.bg/wp-content/uploads/2020/04/saruhanov-novaya-alcoholics.jpg 1060w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="54093" data-permalink="https://bivol.bg/russia-covid-lockdown-alcoholics.html/saruhanov-novaya-alcoholics" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/saruhanov-novaya-alcoholics.jpg" data-orig-size="1060,530" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="saruhanov-novaya-alcoholics" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/saruhanov-novaya-alcoholics-300x150.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/saruhanov-novaya-alcoholics-1024x512.jpg" /></div>За алкохолиците сега е много по-трудно, отколкото за останалите. И то не, защото е невъзможно да се купи концентрат или че нямат пари. Магазините са отворени, пий, залей се, ако&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/saruhanov-novaya-alcoholics-1024x512.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">53904</post-id>	</item>
+		<item>
+		<title>Нова надежда за лечение?  Нидерландски учени с откритие за ключов механизъм при Ковид-19</title>
+		<link>https://bivol.bg/covid19-bradykinine-radboudumc.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 12 Apr 2020 14:06:26 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Брадикинин]]></category>
+		<category><![CDATA[Икатибант]]></category>
+		<category><![CDATA[Ковид-19]]></category>
+		<category><![CDATA[Радбуд]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=54082</guid>
+
+					<description><![CDATA[<div>неделя 12 април 2020</div><BR><div><img width="1024" height="607" src="https://bivol.bg/wp-content/uploads/2020/04/Bradykinin_updated-1024x607.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/Bradykinin_updated-1024x607.png 1024w, https://bivol.bg/wp-content/uploads/2020/04/Bradykinin_updated-300x178.png 300w, https://bivol.bg/wp-content/uploads/2020/04/Bradykinin_updated-768x455.png 768w, https://bivol.bg/wp-content/uploads/2020/04/Bradykinin_updated-1170x693.png 1170w, https://bivol.bg/wp-content/uploads/2020/04/Bradykinin_updated-585x347.png 585w, https://bivol.bg/wp-content/uploads/2020/04/Bradykinin_updated.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="54084" data-permalink="https://bivol.bg/covid19-bradykinine-radboudumc.html/bradykinin_updated" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/Bradykinin_updated.png" data-orig-size="1200,711" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Bradykinin_updated" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/Bradykinin_updated-300x178.png" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/Bradykinin_updated-1024x607.png" /></div>Учени от университетския медицински център в Радбуд публикуваха ново откритие за Ковид-19. Въздействието на лечението вече се изследва на международно ниво, съобщава сайта на университета в Радбуд. Учени от университетския&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/Bradykinin_updated-1024x607.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">54082</post-id>	</item>
+		<item>
+		<title> На двойна цена:  Респираторите са им скъпи. А ще дойдат ли навреме?</title>
+		<link>https://bivol.bg/ventilators-aeonmed-bulgaria.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sat, 11 Apr 2020 10:26:06 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[VG-70]]></category>
+		<category><![CDATA[Европейски средства]]></category>
+		<category><![CDATA[Респиратори]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=54030</guid>
+
+					<description><![CDATA[<div>събота 11 април 2020</div><BR><div><img width="1024" height="524" src="https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-1024x524.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-1024x524.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-300x153.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-768x393.jpg 768w, https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-1536x786.jpg 1536w, https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-2048x1048.jpg 2048w, https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-1170x599.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-1920x982.jpg 1920w, https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-585x299.jpg 585w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="54031" data-permalink="https://bivol.bg/ventilators-aeonmed-bulgaria.html/vg70-portable" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-scaled.jpg" data-orig-size="2560,1310" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark II&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1429030849&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;24&quot;,&quot;iso&quot;:&quot;1000&quot;,&quot;shutter_speed&quot;:&quot;0.125&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="vg70-portable" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-300x153.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-1024x524.jpg" /></div>Поръчаните от правителството респиратори от държавна компания в Китай са на двойна цена спрямо онази, на която те се търгуват у нас. Това е оправдано само в условията на извънредна&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/vg70-portable-1024x524.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">54030</post-id>	</item>
+		<item>
+		<title>Льо Монд: Кога и как ще паднат мерките? Нагледно обяснено</title>
+		<link>https://bivol.bg/le-monde-confinement.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2020 04:27:53 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Stop-and-go]]></category>
+		<category><![CDATA[Карантина]]></category>
+		<category><![CDATA[Льо Монд]]></category>
+		<category><![CDATA[Масово тестване]]></category>
+		<category><![CDATA[Ограничителни мерки]]></category>
+		<category><![CDATA[Франция]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=53955</guid>
+
+					<description><![CDATA[<div>петък 10 април 2020</div><BR><div><img width="1024" height="729" src="https://bivol.bg/wp-content/uploads/2020/04/passage-1024x729.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/passage-1024x729.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/04/passage-300x213.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/passage-768x546.jpg 768w, https://bivol.bg/wp-content/uploads/2020/04/passage-585x416.jpg 585w, https://bivol.bg/wp-content/uploads/2020/04/passage.jpg 1040w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="54009" data-permalink="https://bivol.bg/le-monde-confinement.html/passage" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/passage.jpg" data-orig-size="1040,740" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="passage" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/passage-300x213.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/passage-1024x729.jpg" /></div>Предлагаме превод на статия публикувана на 7 април във френския ежедневник Льо Монд, в която се разглеждат няколко сценария за излизане от ограничителните мерки срещу епидемията COVID-19. Въпреки, че някои&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/passage-1024x729.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">53955</post-id>	</item>
+		<item>
+		<title>Как Русия се разправя с „неверните“ данни за коронавируса</title>
+		<link>https://bivol.bg/russia-coronavirus-fakenews-bill.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2020 20:27:32 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Навални]]></category>
+		<category><![CDATA[Русия]]></category>
+		<category><![CDATA[Свобода на словото]]></category>
+		<category><![CDATA[Фалшиви новини]]></category>
+		<category><![CDATA[Цензура]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=53902</guid>
+
+					<description><![CDATA[<div>сряда 8 април 2020</div><BR><div><img width="1024" height="682" src="https://bivol.bg/wp-content/uploads/2020/04/virusology-russia-1024x682.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/virusology-russia-1024x682.png 1024w, https://bivol.bg/wp-content/uploads/2020/04/virusology-russia-300x200.png 300w, https://bivol.bg/wp-content/uploads/2020/04/virusology-russia-768x512.png 768w, https://bivol.bg/wp-content/uploads/2020/04/virusology-russia-1536x1024.png 1536w, https://bivol.bg/wp-content/uploads/2020/04/virusology-russia-1170x780.png 1170w, https://bivol.bg/wp-content/uploads/2020/04/virusology-russia-1920x1280.png 1920w, https://bivol.bg/wp-content/uploads/2020/04/virusology-russia-585x390.png 585w, https://bivol.bg/wp-content/uploads/2020/04/virusology-russia-263x175.png 263w, https://bivol.bg/wp-content/uploads/2020/04/virusology-russia.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="53910" data-permalink="https://bivol.bg/russia-coronavirus-fakenews-bill.html/virusology-russia" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/virusology-russia.png" data-orig-size="2000,1333" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="virusology-russia" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/virusology-russia-300x200.png" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/virusology-russia-1024x682.png" /></div>Централата на Следствения комитет в Русия образува наказателно дело за разпространение на фейк-информация за коронавируса, каквото представлявало видео в Туитър, съобщава сайтът на ведомството. Делото е заведено по законов текст&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/virusology-russia-1024x682.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">53902</post-id>	</item>
+		<item>
+		<title>За да има все пак някаква защита от COVID-19...  РЗИ раздала на болниците костюми за химическа защита произведени през 1986 г. от Нефтохим</title>
+		<link>https://bivol.bg/rzi-himzashtita.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 07 Apr 2020 11:59:38 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Завод за пластмасови изделия]]></category>
+		<category><![CDATA[Защитни костюми]]></category>
+		<category><![CDATA[Нефтохим]]></category>
+		<category><![CDATA[РЗИ]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=53834</guid>
+
+					<description><![CDATA[<div>вторник 7 април 2020</div><BR><div><img width="531" height="356" src="https://bivol.bg/wp-content/uploads/2020/04/protective-gear-1986.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/protective-gear-1986.jpg 531w, https://bivol.bg/wp-content/uploads/2020/04/protective-gear-1986-300x201.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/protective-gear-1986-263x175.jpg 263w" sizes="(max-width: 531px) 100vw, 531px" data-attachment-id="53838" data-permalink="https://bivol.bg/rzi-himzashtita.html/protective-gear-1986" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/protective-gear-1986.jpg" data-orig-size="531,356" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="protective-gear-1986" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/protective-gear-1986-300x201.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/protective-gear-1986.jpg" /></div>Облекла за химическа защита произведени през 1986 г. са раздадени на лечебните заведения в страната от РЗИ. За древните костюми се разбра от постове в социалната мрежа на медици от&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/protective-gear-1986.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">53834</post-id>	</item>
+		<item>
+		<title>НОЩ между стремежи и реалност:  Контактните лица не се тестват. Освен ако са депутати</title>
+		<link>https://bivol.bg/covid-rzi-reality.html</link>
+		
+		<dc:creator><![CDATA[Атанас Чобанов]]></dc:creator>
+		<pubDate>Sat, 04 Apr 2020 15:45:40 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Видин]]></category>
+		<category><![CDATA[Кантарджиев]]></category>
+		<category><![CDATA[Мутафчийски]]></category>
+		<category><![CDATA[НОЩ]]></category>
+		<category><![CDATA[РЗИ]]></category>
+		<category><![CDATA[Тестове]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=53716</guid>
+
+					<description><![CDATA[<div>събота 4 април 2020</div><BR><div><img width="601" height="366" src="https://bivol.bg/wp-content/uploads/2020/04/corona-rentgen.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/corona-rentgen.jpg 601w, https://bivol.bg/wp-content/uploads/2020/04/corona-rentgen-300x183.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/corona-rentgen-585x356.jpg 585w" sizes="(max-width: 601px) 100vw, 601px" data-attachment-id="53718" data-permalink="https://bivol.bg/covid-rzi-reality.html/corona-rentgen" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/corona-rentgen.jpg" data-orig-size="601,366" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1585932829&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="corona-rentgen" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/corona-rentgen-300x183.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/corona-rentgen.jpg" /></div>“Тестването става по определени правила от СЗО. Стремежът на органите на РЗИ е да обхванат всички възможни контактни лица, особено за лекарите, които са на първа линия в борбата.” &#8211;&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/corona-rentgen.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">53716</post-id>	</item>
+		<item>
+		<title>Според данни за мобилността от Google:  Българите са най-мобилни на Балканите в условията на строги ограничения</title>
+		<link>https://bivol.bg/bulgaria-balkans-google-mobility.html</link>
+		
+		<dc:creator><![CDATA[Атанас Чобанов]]></dc:creator>
+		<pubDate>Fri, 03 Apr 2020 10:55:02 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Ограничителни мерки]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=53645</guid>
+
+					<description><![CDATA[<div>петък 3 април 2020</div><BR><div><img width="640" height="427" src="https://bivol.bg/wp-content/uploads/2020/04/mp-tests-covid.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/mp-tests-covid.jpg 640w, https://bivol.bg/wp-content/uploads/2020/04/mp-tests-covid-300x200.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/mp-tests-covid-585x390.jpg 585w, https://bivol.bg/wp-content/uploads/2020/04/mp-tests-covid-263x175.jpg 263w" sizes="(max-width: 640px) 100vw, 640px" data-attachment-id="53667" data-permalink="https://bivol.bg/bulgaria-balkans-google-mobility.html/mp-tests-covid" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/mp-tests-covid.jpg" data-orig-size="640,427" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="mp-tests-covid" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/mp-tests-covid-300x200.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/mp-tests-covid.jpg" /></div>Насред тежките ограничения заради пандемията от COVID-19, мобилността на българските граждани е намаляла най-малко в сравнение със съседните страни, показват данни разпространени от Google. Данните са от геолокализацията на мобилни&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/mp-tests-covid.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">53645</post-id>	</item>
+		<item>
+		<title>Путин посети болница. Главният лекар е с COVID-19</title>
+		<link>https://bivol.bg/%d0%bf%d1%83%d1%82%d0%b8%d0%bd-%d0%bf%d0%be%d1%81%d0%b5%d1%82%d0%b8-%d0%b1%d0%be%d0%bb%d0%bd%d0%b8%d1%86%d0%b0-%d0%b3%d0%bb%d0%b0%d0%b2%d0%bd%d0%b8%d1%8f%d1%82-%d0%bb%d0%b5%d0%ba%d0%b0%d1%80-%d0%b5.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 06:28:39 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Кратки]]></category>
+		<category><![CDATA[Коронавирус]]></category>
+		<category><![CDATA[Путин]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=53498</guid>
+
+					<description><![CDATA[<div>сряда 1 април 2020</div><BR><div><img width="1024" height="648" src="https://bivol.bg/wp-content/uploads/2020/04/img_1171-1024x648.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/img_1171-1024x648.png 1024w, https://bivol.bg/wp-content/uploads/2020/04/img_1171-300x190.png 300w, https://bivol.bg/wp-content/uploads/2020/04/img_1171-768x486.png 768w, https://bivol.bg/wp-content/uploads/2020/04/img_1171-585x370.png 585w, https://bivol.bg/wp-content/uploads/2020/04/img_1171.png 1060w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="53572" data-permalink="https://bivol.bg/%d0%bf%d1%83%d1%82%d0%b8%d0%bd-%d0%bf%d0%be%d1%81%d0%b5%d1%82%d0%b8-%d0%b1%d0%be%d0%bb%d0%bd%d0%b8%d1%86%d0%b0-%d0%b3%d0%bb%d0%b0%d0%b2%d0%bd%d0%b8%d1%8f%d1%82-%d0%bb%d0%b5%d0%ba%d0%b0%d1%80-%d0%b5.html/img_1171" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/img_1171.png" data-orig-size="1060,671" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="img_1171" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/img_1171-300x190.png" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/img_1171-1024x648.png" /></div>COVID-19 порази главния лекар на болница №40 в Комунарка, градче в Подмосковието. За това д-р Денис Проценко съобщи във Фейсбук с уточнението, че се чувства напълно добре, предаде независимата рускоезична&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/img_1171-1024x648.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">53498</post-id>	</item>
+		<item>
+		<title>Военният кореспондент Рено Жирар:  Срещу COVID-19 като на война: масово тестване и лечение с хлорохин</title>
+		<link>https://bivol.bg/france-covid-chloroquine.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Mon, 30 Mar 2020 18:49:55 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Дидие Раул]]></category>
+		<category><![CDATA[Епидемия]]></category>
+		<category><![CDATA[Масов скрининг]]></category>
+		<category><![CDATA[Масово тестване]]></category>
+		<category><![CDATA[Пандемия]]></category>
+		<category><![CDATA[Франция]]></category>
+		<category><![CDATA[Хлорохин]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=53530</guid>
+
+					<description><![CDATA[<div>понеделник 30 март 2020</div><BR><div><img width="1024" height="536" src="https://bivol.bg/wp-content/uploads/2020/03/macron-raoult-1024x536.jpeg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/03/macron-raoult-1024x536.jpeg 1024w, https://bivol.bg/wp-content/uploads/2020/03/macron-raoult-300x157.jpeg 300w, https://bivol.bg/wp-content/uploads/2020/03/macron-raoult-768x402.jpeg 768w, https://bivol.bg/wp-content/uploads/2020/03/macron-raoult-1536x803.jpeg 1536w, https://bivol.bg/wp-content/uploads/2020/03/macron-raoult-1170x612.jpeg 1170w, https://bivol.bg/wp-content/uploads/2020/03/macron-raoult-585x306.jpeg 585w, https://bivol.bg/wp-content/uploads/2020/03/macron-raoult.jpeg 1690w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="53603" data-permalink="https://bivol.bg/france-covid-chloroquine.html/macron-raoult" data-orig-file="https://bivol.bg/wp-content/uploads/2020/03/macron-raoult.jpeg" data-orig-size="1690,884" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="macron-raoult" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/03/macron-raoult-300x157.jpeg" data-large-file="https://bivol.bg/wp-content/uploads/2020/03/macron-raoult-1024x536.jpeg" /></div>Последствията от мерките не трябва да са по-вредни отколкото самата пандемия, смята военният кореспондент Рено Жирар. Той призовава Франция да премине в настъпление и да разгърне амбициозна стратегия, основните линии&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/03/macron-raoult-1024x536.jpeg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">53530</post-id>	</item>
+		<item>
+		<title>Службите с коронен номер – разпити заради изразено мнение</title>
+		<link>https://bivol.bg/corona-dictatorship.html</link>
+		
+		<dc:creator><![CDATA[Вилдан Байрямова]]></dc:creator>
+		<pubDate>Mon, 30 Mar 2020 11:56:39 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[БОЕЦ]]></category>
+		<category><![CDATA[Бойко Атанасов]]></category>
+		<category><![CDATA[Георги Георгиев]]></category>
+		<category><![CDATA[Граждански права]]></category>
+		<category><![CDATA[Диктатура]]></category>
+		<category><![CDATA[Извънредно положение]]></category>
+		<category><![CDATA[Магнитски]]></category>
+		<category><![CDATA[РИКО]]></category>
+		<category><![CDATA[Свобода на словото]]></category>
+		<category><![CDATA[Съдебен контрол]]></category>
+		<category><![CDATA[Цензура]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=53496</guid>
+
+					<description><![CDATA[<div>понеделник 30 март 2020</div><BR><div><img width="1024" height="575" src="https://bivol.bg/wp-content/uploads/2020/03/big_corona-brother-1024x575.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/03/big_corona-brother-1024x575.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/03/big_corona-brother-300x169.jpg 300w, https://bivol.bg/wp-content/uploads/2020/03/big_corona-brother-768x431.jpg 768w, https://bivol.bg/wp-content/uploads/2020/03/big_corona-brother-1170x657.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/03/big_corona-brother-585x329.jpg 585w, https://bivol.bg/wp-content/uploads/2020/03/big_corona-brother.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="53511" data-permalink="https://bivol.bg/corona-dictatorship.html/big_corona-brother" data-orig-file="https://bivol.bg/wp-content/uploads/2020/03/big_corona-brother.jpg" data-orig-size="1200,674" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="big_corona-brother" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/03/big_corona-brother-300x169.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/03/big_corona-brother-1024x575.jpg" /></div>Приехме извънредното положение с всичките му ограничения и се подчинихме безусловно в името на здравето и живота. Приемаме всекидневните дози паника, с които ни облъчват от щаба, правителството и неговият&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/03/big_corona-brother-1024x575.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">53496</post-id>	</item>
+		<item>
+		<title>Докато София се надява да получи апарати от Русия, лекарите там алармират за тежък недостиг  The Moscow Times: Руски богаташи се запасяват с респиратори, за да се защитят от коронавируса</title>
+		<link>https://bivol.bg/the-moscow-times-oligarchs-ventilators.html</link>
+		
+		<dc:creator><![CDATA[Вилдан Байрямова]]></dc:creator>
+		<pubDate>Sun, 22 Mar 2020 21:50:44 +0000</pubDate>
+				<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Вентилатори]]></category>
+		<category><![CDATA[Коронавирус]]></category>
+		<category><![CDATA[Русия]]></category>
+		<category><![CDATA[Социално неравенство]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=53297</guid>
+
+					<description><![CDATA[<div>понеделник 23 март 2020</div><BR><div><img width="1024" height="575" src="https://bivol.bg/wp-content/uploads/2020/03/ventilator-1024x575.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/03/ventilator-1024x575.png 1024w, https://bivol.bg/wp-content/uploads/2020/03/ventilator-300x168.png 300w, https://bivol.bg/wp-content/uploads/2020/03/ventilator-768x431.png 768w, https://bivol.bg/wp-content/uploads/2020/03/ventilator-1170x657.png 1170w, https://bivol.bg/wp-content/uploads/2020/03/ventilator-585x328.png 585w, https://bivol.bg/wp-content/uploads/2020/03/ventilator.png 1432w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="53346" data-permalink="https://bivol.bg/the-moscow-times-oligarchs-ventilators.html/ventilator" data-orig-file="https://bivol.bg/wp-content/uploads/2020/03/ventilator.png" data-orig-size="1432,804" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ventilator" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/03/ventilator-300x168.png" data-large-file="https://bivol.bg/wp-content/uploads/2020/03/ventilator-1024x575.png" /></div>Семейството е едно от най-богатите в Русия. Притежава над 1 милиард долара, както и имоти в някои от най-търсените дестинации в света, включително Лондон и Южна Франция. То има и&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/03/ventilator-1024x575.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">53297</post-id>	</item>
+		<item>
+		<title>Патриотично упътване за борба с коронавируса</title>
+		<link>https://bivol.bg/coronastrqhnah111.html</link>
+		
+		<dc:creator><![CDATA[Татяна Кристи]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2020 13:01:36 +0000</pubDate>
+				<category><![CDATA[5544]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Рога и копита]]></category>
+		<category><![CDATA[Коронавирус]]></category>
+		<category><![CDATA[сатира]]></category>
+		<category><![CDATA[Татяна Кристи]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=53200</guid>
+
+					<description><![CDATA[<div>вторник 17 март 2020</div><BR><div><img width="1024" height="711" src="https://bivol.bg/wp-content/uploads/2020/03/corona-song-1024x711.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/03/corona-song-1024x711.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/03/corona-song-300x208.jpg 300w, https://bivol.bg/wp-content/uploads/2020/03/corona-song-768x533.jpg 768w, https://bivol.bg/wp-content/uploads/2020/03/corona-song-1536x1066.jpg 1536w, https://bivol.bg/wp-content/uploads/2020/03/corona-song-2048x1422.jpg 2048w, https://bivol.bg/wp-content/uploads/2020/03/corona-song-1170x812.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/03/corona-song-1920x1333.jpg 1920w, https://bivol.bg/wp-content/uploads/2020/03/corona-song-585x406.jpg 585w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="53201" data-permalink="https://bivol.bg/coronastrqhnah111.html/corona-song" data-orig-file="https://bivol.bg/wp-content/uploads/2020/03/corona-song-scaled.jpg" data-orig-size="2560,1777" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="corona-song" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/03/corona-song-300x208.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/03/corona-song-1024x711.jpg" /></div>Аз съм от патриотично сдружение „NASTRQHNAH111” Искам да се възмутя от коронавируса и от това, че заради него не може да настръхваме както обикновено. Той удари по най-святото – правото&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/03/corona-song-1024x711.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">53200</post-id>	</item>
+		<item>
+		<title>Попа, даскала, кмета и фелдшера в условията на корона вирус</title>
+		<link>https://bivol.bg/%d0%bf%d0%be%d0%bf%d0%b0-%d0%b4%d0%b0%d1%81%d0%ba%d0%b0%d0%bb%d0%b0-%d0%ba%d0%bc%d0%b5%d1%82%d0%b0-%d0%b8-%d1%84%d0%b5%d0%bb%d0%b4%d1%88%d0%b5%d1%80%d0%b0-%d0%b2-%d1%83%d1%81%d0%bb%d0%be%d0%b2%d0%b8.html</link>
+		
+		<dc:creator><![CDATA[Стоян Николов - Торлака]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2020 18:52:38 +0000</pubDate>
+				<category><![CDATA[5544]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[БПЦ]]></category>
+		<category><![CDATA[Коронавирус]]></category>
+		<category><![CDATA[Кризисен щаб]]></category>
+		<category><![CDATA[Суеверия]]></category>
+		<category><![CDATA[Торлака]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=53179</guid>
+
+					<description><![CDATA[<div>неделя 15 март 2020</div><BR><div><img width="1024" height="576" src="https://bivol.bg/wp-content/uploads/2020/03/coronachurch-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/03/coronachurch-1024x576.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/03/coronachurch-300x169.jpg 300w, https://bivol.bg/wp-content/uploads/2020/03/coronachurch-768x432.jpg 768w, https://bivol.bg/wp-content/uploads/2020/03/coronachurch-1170x658.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/03/coronachurch-585x329.jpg 585w, https://bivol.bg/wp-content/uploads/2020/03/coronachurch.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="53182" data-permalink="https://bivol.bg/%d0%bf%d0%be%d0%bf%d0%b0-%d0%b4%d0%b0%d1%81%d0%ba%d0%b0%d0%bb%d0%b0-%d0%ba%d0%bc%d0%b5%d1%82%d0%b0-%d0%b8-%d1%84%d0%b5%d0%bb%d0%b4%d1%88%d0%b5%d1%80%d0%b0-%d0%b2-%d1%83%d1%81%d0%bb%d0%be%d0%b2%d0%b8.html/coronachurch" data-orig-file="https://bivol.bg/wp-content/uploads/2020/03/coronachurch.jpg" data-orig-size="1200,675" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="coronachurch" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/03/coronachurch-300x169.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/03/coronachurch-1024x576.jpg" /></div>&#8211; Даскале, само искам да те предупредя да си мълчиш! Поканил съм те тука чисто формално. За да имаме кворум, един вид. &#8211; Може пък да дам някой полезен съвет,&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/03/coronachurch-1024x576.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">53179</post-id>	</item>
+		<item>
+		<title>За фаталната грешка на Италия в борбата ѝ с новия коронавирус. И защо България е на път да я повтори</title>
+		<link>https://bivol.bg/covid-19-italy-error.html</link>
+		
+		<dc:creator><![CDATA[Милва Цветкова]]></dc:creator>
+		<pubDate>Sat, 14 Mar 2020 13:57:48 +0000</pubDate>
+				<category><![CDATA[5544]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Писма от читатели]]></category>
+		<category><![CDATA[Епидемия]]></category>
+		<category><![CDATA[Италия]]></category>
+		<category><![CDATA[Коронавирус]]></category>
+		<category><![CDATA[Пандемия]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=53152</guid>
+
+					<description><![CDATA[<div>събота 14 март 2020</div><BR><div><img width="445" height="280" src="https://bivol.bg/wp-content/uploads/2020/03/covid-italy.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/03/covid-italy.jpg 445w, https://bivol.bg/wp-content/uploads/2020/03/covid-italy-300x189.jpg 300w" sizes="(max-width: 445px) 100vw, 445px" data-attachment-id="53158" data-permalink="https://bivol.bg/covid-19-italy-error.html/covid-italy" data-orig-file="https://bivol.bg/wp-content/uploads/2020/03/covid-italy.jpg" data-orig-size="445,280" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;\u00a9H_Ko - stock.adobe.com&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="covid-italy" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/03/covid-italy-300x189.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/03/covid-italy.jpg" /></div>Епидемията на новия коронавирус е в центъра на общественото внимание в Италия още от средата на януари, когато първите случаи на болестта бяха докладвани пред международната общност. Тези първи тревожни&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/03/covid-italy.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">53152</post-id>	</item>
+		<item>
+		<title>Това не е краят. Но продължението?</title>
+		<link>https://bivol.bg/covid-bulgaria-start.html</link>
+		
+		<dc:creator><![CDATA[Вилдан Байрямова]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2020 10:42:42 +0000</pubDate>
+				<category><![CDATA[5544]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[здравеопазване]]></category>
+		<category><![CDATA[Здравна система]]></category>
+		<category><![CDATA[Извънредно положение]]></category>
+		<category><![CDATA[Карантина]]></category>
+		<category><![CDATA[Коронавирус]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=53065</guid>
+
+					<description><![CDATA[<div>петък 13 март 2020</div><BR><div><img width="1024" height="637" src="https://bivol.bg/wp-content/uploads/2020/03/bb-mask-1024x637.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/03/bb-mask-1024x637.png 1024w, https://bivol.bg/wp-content/uploads/2020/03/bb-mask-300x187.png 300w, https://bivol.bg/wp-content/uploads/2020/03/bb-mask-768x478.png 768w, https://bivol.bg/wp-content/uploads/2020/03/bb-mask-1170x728.png 1170w, https://bivol.bg/wp-content/uploads/2020/03/bb-mask-585x364.png 585w, https://bivol.bg/wp-content/uploads/2020/03/bb-mask.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="53140" data-permalink="https://bivol.bg/covid-bulgaria-start.html/bb-mask" data-orig-file="https://bivol.bg/wp-content/uploads/2020/03/bb-mask.png" data-orig-size="1200,747" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="bb-mask" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/03/bb-mask-300x187.png" data-large-file="https://bivol.bg/wp-content/uploads/2020/03/bb-mask-1024x637.png" /></div>Да обобщим – коварният вирус вилнее от два месеца и половина. Новините за кошмара в Китай не бяха водещи в българските емисии, докато те, нашите медии, не истерясаха и успешно&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/03/bb-mask-1024x637.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">53065</post-id>	</item>
+		<item>
+		<title>Моля, моля, не ни спасявайте!  Юлия Латинина: Борбата с коронавируса е по-сложна, отколкото с медийните боклуци</title>
+		<link>https://bivol.bg/coronavirus-latinina-novaya.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 10 Mar 2020 08:40:46 +0000</pubDate>
+				<category><![CDATA[5544]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Епидемия]]></category>
+		<category><![CDATA[Коронавирус]]></category>
+		<category><![CDATA[Новая Газета]]></category>
+		<category><![CDATA[Юлия Латинина]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=53063</guid>
+
+					<description><![CDATA[<div>вторник 10 март 2020</div><BR><div><img width="1024" height="542" src="https://bivol.bg/wp-content/uploads/2020/03/corona-contagiosity-1024x542.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/03/corona-contagiosity-1024x542.png 1024w, https://bivol.bg/wp-content/uploads/2020/03/corona-contagiosity-300x159.png 300w, https://bivol.bg/wp-content/uploads/2020/03/corona-contagiosity-768x406.png 768w, https://bivol.bg/wp-content/uploads/2020/03/corona-contagiosity-1170x620.png 1170w, https://bivol.bg/wp-content/uploads/2020/03/corona-contagiosity-585x309.png 585w, https://bivol.bg/wp-content/uploads/2020/03/corona-contagiosity.png 1172w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="53075" data-permalink="https://bivol.bg/coronavirus-latinina-novaya.html/corona-contagiosity" data-orig-file="https://bivol.bg/wp-content/uploads/2020/03/corona-contagiosity.png" data-orig-size="1172,620" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="corona-contagiosity" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/03/corona-contagiosity-300x159.png" data-large-file="https://bivol.bg/wp-content/uploads/2020/03/corona-contagiosity-1024x542.png" /></div>В края на февруари представители на Държавния департамент обвиниха Русия за това, че хиляди свързани с нея акаунти разпространяват в англоезичните мрежи фейка, че коронавирусът е американско биологично оръжие, с&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/03/corona-contagiosity-1024x542.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">53063</post-id>	</item>
+	</channel>
+</rss>

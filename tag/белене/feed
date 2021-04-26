@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Белене &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/%d0%b1%d0%b5%d0%bb%d0%b5%d0%bd%d0%b5/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Mon, 10 Feb 2020 09:18:04 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Белене &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Докато прокуратурата кокошкарства в НЕК...  Оборудването за стотици милиони за Белене стои безпризорно</title>
+		<link>https://bivol.bg/belene-tehnika.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Thu, 27 Apr 2017 13:10:43 +0000</pubDate>
+				<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Агрегати]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Прокуратура]]></category>
+		<category><![CDATA[Реактори]]></category>
+		<category><![CDATA[Уайт енд Кейс]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=33631</guid>
+
+					<description><![CDATA[<div>четвъртък 27 април 2017</div><BR><div><img width="938" height="648" src="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png 938w, https://bivol.bg/wp-content/uploads/2017/04/belene-agregati-300x207.png 300w, https://bivol.bg/wp-content/uploads/2017/04/belene-agregati-768x531.png 768w" sizes="(max-width: 938px) 100vw, 938px" data-attachment-id="33656" data-permalink="https://bivol.bg/belene-tehnika.html/belene-agregati" data-orig-file="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png" data-orig-size="938,648" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="belene-agregati" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati-300x207.png" data-large-file="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png" /></div>Агрегатите за Белене, които&#160;НЕК плати с държавен заем след изгубения арбитраж срещу Атомстройекспорт, стоят на брега на Дунава без охрана. До тях може да стигне всеки на една ръка разстояние.&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">33631</post-id>	</item>
+		<item>
+		<title>КОЙ скри негодния строеж на АЕЦ Белене, за да плати 1,2 милиарда на руснаците?</title>
+		<link>https://bivol.bg/belene-nec-ase-1.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 10 Feb 2017 10:43:58 +0000</pubDate>
+				<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Въ агъла (интервю)]]></category>
+		<category><![CDATA[Енергетика]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Арбитражно дело]]></category>
+		<category><![CDATA[Атомстройекспорт]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Борисов]]></category>
+		<category><![CDATA[Експертиза]]></category>
+		<category><![CDATA[Илчо Костов]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Русия]]></category>
+		<category><![CDATA[Уайт енд Кейс]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=33119</guid>
+
+					<description><![CDATA[Обследване на конструкциите на Първи блок на АЕЦ Белене е показало дълбоки пукнатини и пълна негодност за доизграждане. Това означава, че проектите, с които Атомстройекспорт е спечелила тръжната процедура за&#8230;]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">33119</post-id>	</item>
+		<item>
+		<title>Конфликт на интереси?  Адвокатите на НЕК в делото за АЕЦ &#8220;Белене&#8221; са защитавали едновременно и Руската федерация срещу &#8220;Юкос&#8221;</title>
+		<link>https://bivol.bg/nec-white-case-russia.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2016 07:51:26 +0000</pubDate>
+				<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Руско влияние]]></category>
+		<category><![CDATA[White & Case]]></category>
+		<category><![CDATA[Арбитраж]]></category>
+		<category><![CDATA[Атомстройекспорт]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[конфликт на интереси]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Юкос]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=31994</guid>
+
+					<description><![CDATA[<div>събота 1 октомври 2016</div><BR><div><img width="960" height="638" src="https://bivol.bg/wp-content/uploads/2016/10/white-case.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2016/10/white-case.jpg 960w, https://bivol.bg/wp-content/uploads/2016/10/white-case-300x199.jpg 300w, https://bivol.bg/wp-content/uploads/2016/10/white-case-768x510.jpg 768w, https://bivol.bg/wp-content/uploads/2016/10/white-case-294x194.jpg 294w" sizes="(max-width: 960px) 100vw, 960px" data-attachment-id="31995" data-permalink="https://bivol.bg/nec-white-case-russia.html/white-case" data-orig-file="https://bivol.bg/wp-content/uploads/2016/10/white-case.jpg" data-orig-size="960,638" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="white-case" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2016/10/white-case-300x199.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2016/10/white-case.jpg" /></div>Международната адвокатска кантора White &#38; Case, за която се разбра, че е защитавала НЕК срещу &#8220;Атомекспортстрой&#8221; (АСЕ) в загубеното дело за 600 млн. евро в арбитражния съд в Женева, има договор да&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2016/10/white-case.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">31994</post-id>	</item>
+		<item>
+		<title>НЕК крие ключова експертиза за АЕЦ Белене</title>
+		<link>https://bivol.bg/%d0%bd%d0%b5%d0%ba-%d0%ba%d1%80%d0%b8%d0%b5-%d0%ba%d0%bb%d1%8e%d1%87%d0%be%d0%b2%d0%b0-%d0%b5%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82%d0%b8%d0%b7%d0%b0-%d0%b7%d0%b0-%d0%b0%d0%b5%d1%86-%d0%b1%d0%b5%d0%bb.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 14 Nov 2014 16:45:13 +0000</pubDate>
+				<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Арбитражно дело]]></category>
+		<category><![CDATA[Атомекспортстрой]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Бетон]]></category>
+		<category><![CDATA[Борисов]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Орешарски]]></category>
+		<category><![CDATA[Станишев]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=24614</guid>
+
+					<description><![CDATA[<div>петък 14 ноември 2014</div><BR><div><img width="1024" height="649" src="https://bivol.bg/wp-content/uploads/2014/11/belene-beton-1024x649.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2014/11/belene-beton-1024x649.jpg 1024w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-300x190.jpg 300w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-120x76.jpg 120w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-265x168.jpg 265w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-284x180.jpg 284w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-274x173.jpg 274w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-220x140.jpg 220w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-90x57.jpg 90w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-150x95.jpg 150w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton.jpg 1132w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="24615" data-permalink="https://bivol.bg/%d0%bd%d0%b5%d0%ba-%d0%ba%d1%80%d0%b8%d0%b5-%d0%ba%d0%bb%d1%8e%d1%87%d0%be%d0%b2%d0%b0-%d0%b5%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82%d0%b8%d0%b7%d0%b0-%d0%b7%d0%b0-%d0%b0%d0%b5%d1%86-%d0%b1%d0%b5%d0%bb.html/belene-beton" data-orig-file="https://bivol.bg/wp-content/uploads/2014/11/belene-beton.jpg" data-orig-size="1132,718" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="belene-beton" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2014/11/belene-beton-300x190.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2014/11/belene-beton-1024x649.jpg" /></div>Арбитражното дело заведено от &#8220;Атомстройекспорт&#8221; срещу НЕК за Белене е към своя край и България рискува да загуби 1 млрд. евро. Знак, че нещата не се развиват добре е делото&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2014/11/belene-beton-1024x649.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">24614</post-id>	</item>
+		<item>
+		<title>Американските дипломати за оттеглянето на RWE от Белене: проблемите са натрупани при Станишев, поводът е даден при Борисов</title>
+		<link>https://bivol.bg/wl-rwe-belene.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Wed, 03 Oct 2012 12:34:24 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[RWE]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Уикилийкс]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/wl-rwe-belene.html</guid>
+
+					<description><![CDATA[<div>сряда 3 октомври 2012</div><BR><div><img width="541" height="346" src="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-03_a_15.44.24.jpg" class="attachment-large size-large wp-post-image" alt="Capture_decran_2012-10-03_a_15.44.24" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-03_a_15.44.24.jpg 541w, https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-03_a_15.44.24-300x191.jpg 300w" sizes="(max-width: 541px) 100vw, 541px" data-attachment-id="15633" data-permalink="https://bivol.bg/wl-rwe-belene.html/capture_decran_2012-10-03_a_15-44-24" data-orig-file="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-03_a_15.44.24.jpg" data-orig-size="541,346" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Capture_decran_2012-10-03_a_15.44.24" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-03_a_15.44.24-300x191.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-03_a_15.44.24.jpg" /></div>Посланик Нанси Макълдауни, снимка Sofia Photo Agency &#8220;Деляне, свържи се с централата на RWE и поискай писмено да ти отговорят дали ГЕРБ или нашето правителство е изгонило RWE и дали&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-03_a_15.44.24.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">15634</post-id>	</item>
+		<item>
+		<title>Богомил Манчев: &#8220;иноватор&#8221;  или &#8220;мафиот&#8221;?</title>
+		<link>https://bivol.bg/wlmanchev.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 28 Sep 2012 09:38:59 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[Енергетика]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Газпром]]></category>
+		<category><![CDATA[Енергийна мафия]]></category>
+		<category><![CDATA[Уикилийкс]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/wlmanchev.html</guid>
+
+					<description><![CDATA[<div>петък 28 септември 2012</div><BR><div><img width="634" height="385" src="https://bivol.bg/wp-content/uploads/2012/09/Capture_decran_2012-09-28_a_12.56.50.jpg" class="attachment-large size-large wp-post-image" alt="Capture_decran_2012-09-28_a_12.56.50" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2012/09/Capture_decran_2012-09-28_a_12.56.50.jpg 634w, https://bivol.bg/wp-content/uploads/2012/09/Capture_decran_2012-09-28_a_12.56.50-300x182.jpg 300w" sizes="(max-width: 634px) 100vw, 634px" data-attachment-id="15616" data-permalink="https://bivol.bg/wlmanchev.html/capture_decran_2012-09-28_a_12-56-50" data-orig-file="https://bivol.bg/wp-content/uploads/2012/09/Capture_decran_2012-09-28_a_12.56.50.jpg" data-orig-size="634,385" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Capture_decran_2012-09-28_a_12.56.50" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/09/Capture_decran_2012-09-28_a_12.56.50-300x182.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2012/09/Capture_decran_2012-09-28_a_12.56.50.jpg" /></div>Информацията от американските дипломатически доклади за България, публикувани от Биволъ в периода от април до септември 2011 г. вече не е във фокуса на внимание на повечето български медии. Тя&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/09/Capture_decran_2012-09-28_a_12.56.50.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">15617</post-id>	</item>
+		<item>
+		<title>Новият инвеститор в АЕЦ Белене: 404 error not found</title>
+		<link>https://bivol.bg/belene-reanimacia.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Wed, 26 Sep 2012 19:51:18 +0000</pubDate>
+				<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Делян Добрев]]></category>
+		<category><![CDATA[Емил Хърсев]]></category>
+		<category><![CDATA[масони]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/belene-reanimacia.html</guid>
+
+					<description><![CDATA[<div>сряда 26 септември 2012</div><BR><div><img width="785" height="434" src="https://bivol.bg/wp-content/uploads/2012/09/Capture_decran_2012-09-26_a_23.25.43.jpg" class="attachment-large size-large wp-post-image" alt="Capture_decran_2012-09-26_a_23.25.43" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2012/09/Capture_decran_2012-09-26_a_23.25.43.jpg 785w, https://bivol.bg/wp-content/uploads/2012/09/Capture_decran_2012-09-26_a_23.25.43-300x165.jpg 300w, https://bivol.bg/wp-content/uploads/2012/09/Capture_decran_2012-09-26_a_23.25.43-720x398.jpg 720w" sizes="(max-width: 785px) 100vw, 785px" data-attachment-id="15610" data-permalink="https://bivol.bg/belene-reanimacia.html/capture_decran_2012-09-26_a_23-25-43" data-orig-file="https://bivol.bg/wp-content/uploads/2012/09/Capture_decran_2012-09-26_a_23.25.43.jpg" data-orig-size="785,434" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Capture_decran_2012-09-26_a_23.25.43" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/09/Capture_decran_2012-09-26_a_23.25.43-300x165.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2012/09/Capture_decran_2012-09-26_a_23.25.43.jpg" /></div>Днешната новина, че има инвестиционно предложение за АЕЦ Белене мобилизира разследващите журналисти, за да установят кой и с какви капитали иска да строи втора атомна централа в България. Най-напред се&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/09/Capture_decran_2012-09-26_a_23.25.43.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">15613</post-id>	</item>
+		<item>
+		<title>СТРАТФОР: Знаем много за Борисов, не става за казване</title>
+		<link>https://bivol.bg/stratfor-borissov.html</link>
+					<comments>https://bivol.bg/stratfor-borissov.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 27 Mar 2012 09:21:13 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[Бойко Борисов - Буда]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Бойко Борисов]]></category>
+		<category><![CDATA[Георги Първанов]]></category>
+		<category><![CDATA[Мафия]]></category>
+		<category><![CDATA[Организирана престъпност]]></category>
+		<category><![CDATA[Стратфор]]></category>
+		<category><![CDATA[Уикилийкс]]></category>
+		<category><![CDATA[Южен Поток]]></category>
+		<category><![CDATA[Юрий Лужков]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/stratfor-borissov.html</guid>
+
+					<description><![CDATA[<div>вторник 27 март 2012</div><BR><div><img width="375" height="249" src="https://bivol.bg/wp-content/uploads/2012/03/luzhkov-boyko.jpeg" class="attachment-large size-large wp-post-image" alt="luzhkov-boyko" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2012/03/luzhkov-boyko.jpeg 375w, https://bivol.bg/wp-content/uploads/2012/03/luzhkov-boyko-300x199.jpeg 300w" sizes="(max-width: 375px) 100vw, 375px" data-attachment-id="15234" data-permalink="https://bivol.bg/stratfor-borissov.html/luzhkov-boyko" data-orig-file="https://bivol.bg/wp-content/uploads/2012/03/luzhkov-boyko.jpeg" data-orig-size="375,249" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="luzhkov-boyko" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/03/luzhkov-boyko-300x199.jpeg" data-large-file="https://bivol.bg/wp-content/uploads/2012/03/luzhkov-boyko.jpeg" /></div>&#8220;Трябва да пропусна МНОГО информация, която имаме за Борисов (б.ред. главните букви са в оригинала), просто защото не съм сигурен коя част от нея може да ни навлече юридически проблеми&#8221;&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/stratfor-borissov.html/feed</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/03/luzhkov-boyko.jpeg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">15236</post-id>	</item>
+		<item>
+		<title>СТРАТФОР: Станишев преговарял за Белене с руския &#8220;министър на мафията&#8221;</title>
+		<link>https://bivol.bg/stanishev-luzhkov.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 25 Mar 2012 08:46:52 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Руско влияние]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Русия]]></category>
+		<category><![CDATA[Сергей Станишев]]></category>
+		<category><![CDATA[Стратфор]]></category>
+		<category><![CDATA[Юрий Лужков]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/stanishev-luzhkov.html</guid>
+
+					<description><![CDATA[<div>неделя 25 март 2012</div><BR><div><img width="335" height="228" src="https://bivol.bg/wp-content/uploads/2012/03/Stanishev_Luzhkov_Rusia.jpg" class="attachment-large size-large wp-post-image" alt="Stanishev_Luzhkov_Rusia" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2012/03/Stanishev_Luzhkov_Rusia.jpg 335w, https://bivol.bg/wp-content/uploads/2012/03/Stanishev_Luzhkov_Rusia-300x204.jpg 300w" sizes="(max-width: 335px) 100vw, 335px" data-attachment-id="15232" data-permalink="https://bivol.bg/stanishev-luzhkov.html/stanishev_luzhkov_rusia" data-orig-file="https://bivol.bg/wp-content/uploads/2012/03/Stanishev_Luzhkov_Rusia.jpg" data-orig-size="335,228" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon DIGITAL IXUS 960 IS&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1258798301&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.7&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Stanishev_Luzhkov_Rusia" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/03/Stanishev_Luzhkov_Rusia-300x204.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2012/03/Stanishev_Luzhkov_Rusia.jpg" /></div>Председателят на европейските социалисти Сергей Станишев и &#8220;министърът на организираната престъпност&#8221; Юрий Лужков на конгреса на партия Единна Русия в Санкт Петербург, през ноември 2009. Главния прокурор на Русия &#8211;&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/03/Stanishev_Luzhkov_Rusia.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">15233</post-id>	</item>
+		<item>
+		<title>Министър Делян Добрев е масон</title>
+		<link>https://bivol.bg/mason-delian-dobrev.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sat, 24 Mar 2012 21:12:36 +0000</pubDate>
+				<category><![CDATA[Досиетата Бъ]]></category>
+		<category><![CDATA[Масони]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Делян Добрев]]></category>
+		<category><![CDATA[масони]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/mason-delian-dobrev.html</guid>
+
+					<description><![CDATA[<div>събота 24 март 2012</div><BR><div><img width="588" height="343" src="https://bivol.bg/wp-content/uploads/2012/03/delian-dobrev.jpg" class="attachment-large size-large wp-post-image" alt="delian-dobrev" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2012/03/delian-dobrev.jpg 588w, https://bivol.bg/wp-content/uploads/2012/03/delian-dobrev-300x175.jpg 300w" sizes="(max-width: 588px) 100vw, 588px" data-attachment-id="15225" data-permalink="https://bivol.bg/mason-delian-dobrev.html/delian-dobrev" data-orig-file="https://bivol.bg/wp-content/uploads/2012/03/delian-dobrev.jpg" data-orig-size="588,343" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="delian-dobrev" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/03/delian-dobrev-300x175.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2012/03/delian-dobrev.jpg" /></div>Новият министър на икономиката Делян Добрев е масон в ложата &#8220;Слънцето на Тракия&#8221;, патентен номер 036, Ориент Хасково. Поради крехката си възраст той все още е чирак, няма степен и&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/03/delian-dobrev.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">15231</post-id>	</item>
+		<item>
+		<title>Коментар в 140 знака от Прямчо Прямов на Twitter интервюто на Трайчо Трайков</title>
+		<link>https://bivol.bg/priamov.html</link>
+					<comments>https://bivol.bg/priamov.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Mon, 19 Mar 2012 08:00:12 +0000</pubDate>
+				<category><![CDATA[Окото на бивола]]></category>
+		<category><![CDATA[Рога и копита]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Енергийна мафия]]></category>
+		<category><![CDATA[Трайчо Трайков]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/priamov.html</guid>
+
+					<description><![CDATA[Туитър интервюто на Трайчо Трайков коментирано от Прямчо Прямов, главен анализатор на Рога и Копита. Паунова: Има ли нужда от втора АЕЦ? Трайков: Не непременно &#8211; от гледна точка на&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/priamov.html/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">15209</post-id>	</item>
+		<item>
+		<title>STRATFOR: Троянският кон на Русия и Православната тръба</title>
+		<link>https://bivol.bg/gazprom-middle-men.html</link>
+					<comments>https://bivol.bg/gazprom-middle-men.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 02 Mar 2012 07:34:05 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[Руско влияние]]></category>
+		<category><![CDATA[Stratfor]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[България]]></category>
+		<category><![CDATA[Газпром]]></category>
+		<category><![CDATA[Русия]]></category>
+		<category><![CDATA[Южен Поток]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/gazprom-middle-men.html</guid>
+
+					<description><![CDATA[<div>петък 2 март 2012</div><BR><div><img width="519" height="383" src="https://bivol.bg/wp-content/uploads/2012/03/gazprom.jpg" class="attachment-large size-large wp-post-image" alt="gazprom" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2012/03/gazprom.jpg 519w, https://bivol.bg/wp-content/uploads/2012/03/gazprom-300x221.jpg 300w" sizes="(max-width: 519px) 100vw, 519px" data-attachment-id="15178" data-permalink="https://bivol.bg/gazprom-middle-men.html/gazprom" data-orig-file="https://bivol.bg/wp-content/uploads/2012/03/gazprom.jpg" data-orig-size="519,383" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="gazprom" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/03/gazprom-300x221.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2012/03/gazprom.jpg" /></div>България е &#8220;троянски кон&#8221; на Русия в Европейския съюз. Отношенията между Русия и България може понякога да са студени, но те винаги ще останат славянски братя в крайна сметка. Това&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/gazprom-middle-men.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/03/gazprom.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">15180</post-id>	</item>
+		<item>
+		<title>Разкол сред масоните заради Белене</title>
+		<link>https://bivol.bg/masoni-belene.html</link>
+					<comments>https://bivol.bg/masoni-belene.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Thu, 16 Feb 2012 09:33:31 +0000</pubDate>
+				<category><![CDATA[Досиетата Бъ]]></category>
+		<category><![CDATA[Масони]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Енергийна мафия]]></category>
+		<category><![CDATA[масони]]></category>
+		<category><![CDATA[Тройна коалиция]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/masoni-belene.html</guid>
+
+					<description><![CDATA[<div>четвъртък 16 февруари 2012</div><BR><div><img width="566" height="412" src="https://bivol.bg/wp-content/uploads/2012/02/Capture_decran_2012-02-16_a_11.09.41.jpg" class="attachment-large size-large wp-post-image" alt="Capture_decran_2012-02-16_a_11.09.41" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2012/02/Capture_decran_2012-02-16_a_11.09.41.jpg 566w, https://bivol.bg/wp-content/uploads/2012/02/Capture_decran_2012-02-16_a_11.09.41-300x218.jpg 300w" sizes="(max-width: 566px) 100vw, 566px" data-attachment-id="15141" data-permalink="https://bivol.bg/masoni-belene.html/capture_decran_2012-02-16_a_11-09-41" data-orig-file="https://bivol.bg/wp-content/uploads/2012/02/Capture_decran_2012-02-16_a_11.09.41.jpg" data-orig-size="566,412" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Capture_decran_2012-02-16_a_11.09.41" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/02/Capture_decran_2012-02-16_a_11.09.41-300x218.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2012/02/Capture_decran_2012-02-16_a_11.09.41.jpg" /></div>Румен Ралчев Председателстващият Стар Велик Майстор нареди Великият Церемониалмайстор да въведе Братята гости и обърна внимание на Великия Стражник, че само Братя Майстори могат да присъстват в&#160;Храма, където Работят Майсторите.&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/masoni-belene.html/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/02/Capture_decran_2012-02-16_a_11.09.41.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">15143</post-id>	</item>
+		<item>
+		<title>Wikileaks: Южен Поток ще закъснее с няколко години, ако изобщо стане</title>
+		<link>https://bivol.bg/wlsouthstream.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2011 15:31:05 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Джон Байърли]]></category>
+		<category><![CDATA[Уикилийкс]]></category>
+		<category><![CDATA[Южен Поток]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/wlsouthstream.html</guid>
+
+					<description><![CDATA[<div>вторник 6 септември 2011</div><BR><div><img width="640" height="399" src="https://bivol.bg/wp-content/uploads/2011/09/southstream.jpg" class="attachment-large size-large wp-post-image" alt="southstream" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2011/09/southstream.jpg 640w, https://bivol.bg/wp-content/uploads/2011/09/southstream-300x187.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" data-attachment-id="14801" data-permalink="https://bivol.bg/wlsouthstream.html/southstream" data-orig-file="https://bivol.bg/wp-content/uploads/2011/09/southstream.jpg" data-orig-size="640,399" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="southstream" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2011/09/southstream-300x187.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2011/09/southstream.jpg" /></div>Бившият американски посланик в София и настоящ посланик в Москва Джон Байърли е скептичен за проекта Южен Поток. Това става ясно от негов коментар за изказване на Путин по време&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2011/09/southstream.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">14802</post-id>	</item>
+		<item>
+		<title>Wikileaks пусна 35000 грами за един ден &#8211; 56 от София</title>
+		<link>https://bivol.bg/wlbigleak.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Thu, 25 Aug 2011 08:10:24 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<category><![CDATA[АЕЦ]]></category>
+		<category><![CDATA[Байърли]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Уикилийкс]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/wlbigleak.html</guid>
+
+					<description><![CDATA[<div>четвъртък 25 август 2011</div><BR><div><img width="918" height="533" src="https://bivol.bg/wp-content/uploads/2011/05/wl_information_free.jpg" class="attachment-large size-large wp-post-image" alt="wl_information_free" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="14578" data-permalink="https://bivol.bg/wlbigleak.html/wl_information_free" data-orig-file="https://bivol.bg/wp-content/uploads/2011/05/wl_information_free.jpg" data-orig-size="918,533" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="wl_information_free" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2011/05/wl_information_free-300x174.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2011/05/wl_information_free.jpg" /></div>Вчера Wikileaks разсекрети най-голямата порция американски дипломатически документи. Наведнъж в сайта на организацията бяха публикувани над 35000 грами&#160;с некласифицирана информация&#160;от различни страни. 56 от новите доклади са от американското посолство&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2011/05/wl_information_free.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">14776</post-id>	</item>
+		<item>
+		<title>Ядрен експерт пише на HSBC за авантюрата &#8220;Белене&#8221;</title>
+		<link>https://bivol.bg/kaschiev-belene.html</link>
+					<comments>https://bivol.bg/kaschiev-belene.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Thu, 21 Jul 2011 07:07:54 +0000</pubDate>
+				<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Енергетика]]></category>
+		<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[АЕЦ]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Касчиев]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/kaschiev-belene.html</guid>
+
+					<description><![CDATA[<div>четвъртък 21 юли 2011</div><BR><div><img width="1024" height="626" src="https://bivol.bg/wp-content/uploads/2011/07/BGmapBelene-1024x626.jpg" class="attachment-large size-large wp-post-image" alt="BGmapBelene" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2011/07/BGmapBelene-1024x626.jpg 1024w, https://bivol.bg/wp-content/uploads/2011/07/BGmapBelene-300x183.jpg 300w, https://bivol.bg/wp-content/uploads/2011/07/BGmapBelene-720x440.jpg 720w, https://bivol.bg/wp-content/uploads/2011/07/BGmapBelene.jpg 1064w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="14738" data-permalink="https://bivol.bg/kaschiev-belene.html/bgmapbelene" data-orig-file="https://bivol.bg/wp-content/uploads/2011/07/BGmapBelene.jpg" data-orig-size="1064,651" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="BGmapBelene" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2011/07/BGmapBelene-300x183.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2011/07/BGmapBelene-1024x626.jpg" /></div>На 18.07.2011 г., Eurochicago.com научи, че още в началото на месец юни известният български ядрен експерт Георги Касчиев* е изпратил писмо до ръководството на банката HSBC**, която бе избрана от&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/kaschiev-belene.html/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2011/07/BGmapBelene-1024x626.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">14740</post-id>	</item>
+		<item>
+		<title>Наглостта на “ядрената мафия” ескалира</title>
+		<link>https://bivol.bg/energymafia.html</link>
+					<comments>https://bivol.bg/energymafia.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Mon, 06 Jun 2011 08:45:48 +0000</pubDate>
+				<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[АЕЦ]]></category>
+		<category><![CDATA[АЕЦ Козлодуй]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Богомил Манчев]]></category>
+		<category><![CDATA[Георги Котев]]></category>
+		<category><![CDATA[Енергийна мафия]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/energymafia.html</guid>
+
+					<description><![CDATA[<div>понеделник 6 юни 2011</div><BR><div><img width="594" height="420" src="https://bivol.bg/wp-content/uploads/2011/06/aec_kozlodui.jpg" class="attachment-large size-large wp-post-image" alt="aec_kozlodui" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="14643" data-permalink="https://bivol.bg/atom-heart-brother-2.html/aec_kozlodui" data-orig-file="https://bivol.bg/wp-content/uploads/2011/06/aec_kozlodui.jpg" data-orig-size="594,420" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="aec_kozlodui" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2011/06/aec_kozlodui-300x212.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2011/06/aec_kozlodui.jpg" /></div>Миналата седмица беше твърде „плодородна” на новини от сектора на родната и европейска ядрена енергетика. Стартът на тази „канонада” беше даден лично от самият министър-председател Борисов, който на 27 май,&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/energymafia.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2011/06/aec_kozlodui.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">14644</post-id>	</item>
+		<item>
+		<title>Wikileaks: Руски шантаж, енергийна мафия и обръчи на Доган около Белене</title>
+		<link>https://bivol.bg/wlbelene.html</link>
+					<comments>https://bivol.bg/wlbelene.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2011 07:18:52 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Енергетика]]></category>
+		<category><![CDATA[Руско влияние]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Газпром]]></category>
+		<category><![CDATA[Енергийна мафия]]></category>
+		<category><![CDATA[Русия]]></category>
+		<category><![CDATA[Уикилийкс]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/wlbelene.html</guid>
+
+					<description><![CDATA[<div>петък 29 април 2011</div><BR><div><img width="428" height="241" src="https://bivol.bg/wp-content/uploads/2011/04/putin_borisov.jpg" class="attachment-large size-large wp-post-image" alt="putin_borisov" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="14560" data-permalink="https://bivol.bg/wlatakarussia.html/putin_borisov" data-orig-file="https://bivol.bg/wp-content/uploads/2011/04/putin_borisov.jpg" data-orig-size="428,241" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="putin_borisov" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2011/04/putin_borisov-300x168.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2011/04/putin_borisov.jpg" /></div>Ако няма напредък в придвижването на руските енергийни проекти, българите &#8220;рискуват да останат на студено през зимата&#8221;. Това е казал руският премиер Владимир Путин “на ухо” на българския си колега&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/wlbelene.html/feed</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2011/04/putin_borisov.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">14561</post-id>	</item>
+		<item>
+		<title>Българска &#8220;крими-радиация&#8221; изтече от Уикилийкс</title>
+		<link>https://bivol.bg/criminal-radiation.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 20 Mar 2011 20:23:52 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<category><![CDATA[АЕЦ Козлодуй]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Валентин Златев]]></category>
+		<category><![CDATA[Васил Божков]]></category>
+		<category><![CDATA[Енергийна мафия]]></category>
+		<category><![CDATA[Мафия]]></category>
+		<category><![CDATA[Организирана престъпност]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/criminal-radiation.html</guid>
+
+					<description><![CDATA[<div>неделя 20 март 2011</div><BR><div><img width="500" height="356" src="https://bivol.bg/wp-content/uploads/2011/03/Bozhkov-Parvanov-Toshev.jpg" class="attachment-large size-large wp-post-image" alt="Bozhkov-Parvanov-Toshev" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="14524" data-permalink="https://bivol.bg/bgschengen.html/bozhkov-parvanov-toshev" data-orig-file="https://bivol.bg/wp-content/uploads/2011/03/Bozhkov-Parvanov-Toshev.jpg" data-orig-size="500,356" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Bozhkov-Parvanov-Toshev" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2011/03/Bozhkov-Parvanov-Toshev-300x213.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2011/03/Bozhkov-Parvanov-Toshev.jpg" /></div>През юни 2003 г. Капитал публикува статия за приватизацията на Атоменергоремонт, българската държавна компания, която поддържаше атомната централа в Козлодуй. Под сугестивното заглавие &#8220;Крими-радиация&#8221; са представени двама от главните кандидати:&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2011/03/Bozhkov-Parvanov-Toshev.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">14525</post-id>	</item>
+		<item>
+		<title>Георги Касчиев: Трябва да се спрат всички ядрени авантюри!</title>
+		<link>https://bivol.bg/kaschiev-aec.html</link>
+					<comments>https://bivol.bg/kaschiev-aec.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Thu, 17 Mar 2011 12:27:00 +0000</pubDate>
+				<category><![CDATA[На прицелъ]]></category>
+		<category><![CDATA[АЕЦ]]></category>
+		<category><![CDATA[Белене]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/kaschiev-aec.html</guid>
+
+					<description><![CDATA[Чуйте записа на телефонния ни разговор, в който специалистът с почти 40 годишен стаж в ядрената енергетика говори за бъдещето на АЕЦ“Белене“ и за атомните аварии в Япония. &#160;Информацията е&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/kaschiev-aec.html/feed</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14519</post-id>	</item>
+		<item>
+		<title>&#8220;Сделката на века&#8221; на НЕК със сръбските олигарси</title>
+		<link>https://bivol.bg/eft.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sat, 27 Mar 2010 12:09:59 +0000</pubDate>
+				<category><![CDATA[Енергетика]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[EFT]]></category>
+		<category><![CDATA[АЕЦ]]></category>
+		<category><![CDATA[Андрей Кристоф]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Богомил Манчев]]></category>
+		<category><![CDATA[Вук Хамович]]></category>
+		<category><![CDATA[Димитър Калчев]]></category>
+		<category><![CDATA[Енергийна мафия]]></category>
+		<category><![CDATA[ЕФТ]]></category>
+		<category><![CDATA[Износ на ток]]></category>
+		<category><![CDATA[Милко Ковачев]]></category>
+		<category><![CDATA[Младен Стийович]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Николай Вузев]]></category>
+		<category><![CDATA[Румен Овчаров]]></category>
+		<category><![CDATA[Сделка на века]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/eft.html</guid>
+
+					<description><![CDATA[<p>В късната есен на 2002 г. Николай Вузев, бивш зам-министър на търговията в правителството на Беров оглавява закъсалия торов завод "Химко" - Враца. "Навигаторът-философ", както го характеризира публикация във в-к Стандарт, има пъстра трудова биография. Бил е капитан на риболовен кораб, завършил философия в СУ-Климент Охридски, кмет на софийската община "Триадица", началник на "Печатни произведения", член на борда на "Нефтохим" и търговец с химически продукти. Пред вестника Вузев заявил, че е привърженик на философската теория "аз мога и ще го направя".<br /> <br /> Година по-късно оптимистичната теория на Вузев е опровергана от действителността. "Химко" има 35 млн. лева дългове и прекратява производството. Вузев се преориентира към търговията с ток. В края на 2004 Николай Вузов като представител на "Енергийна Финансова Група" АД на Богомил Манчев, чиято фирма "Риск Инженеринг" строи АЕЦ Белене, става съосновател на "ЕФТ-България". Съдружник е датската фирма EFT Holdings представлявана от сърбина Младен Стийович. В управителния съвет влиза и Андрей Кристов. "ЕФТ - България" подава документи за лиценз за търговец на ток в ДКЕВР и след първоначален отказ, през 2005 г. става първата компания получила такива права.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14341</post-id>	</item>
+	</channel>
+</rss>

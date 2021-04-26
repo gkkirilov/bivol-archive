@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Виафот &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/%d0%b2%d0%b8%d0%b0%d1%84%d0%be%d1%82/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Fri, 27 Dec 2019 09:41:14 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Виафот &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Биволъ започва да разкрива и публикува без цензура тайните в Панамските документи  Панамските документи: Aдвокатът на Пеевски е собственик на ключови офшорки</title>
+		<link>https://bivol.bg/panama-papers-viafot.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Wed, 16 Jan 2019 15:18:50 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Панамски документи]]></category>
+		<category><![CDATA[Пеевски]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[2019]]></category>
+		<category><![CDATA[Александър Ангелов]]></category>
+		<category><![CDATA[Булгартабак]]></category>
+		<category><![CDATA[Виафот]]></category>
+		<category><![CDATA[Гено Андреев]]></category>
+		<category><![CDATA[Делян Пеевски]]></category>
+		<category><![CDATA[Дунарит]]></category>
+		<category><![CDATA[Държавна Сигурност]]></category>
+		<category><![CDATA[Задкулисие]]></category>
+		<category><![CDATA[Моделът КОЙ]]></category>
+		<category><![CDATA[Параскев Параскевов]]></category>
+		<category><![CDATA[Румен Андреев]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=44652</guid>
+
+					<description><![CDATA[<div>сряда 16 януари 2019</div><BR><div><img width="545" height="381" src="https://bivol.bg/wp-content/uploads/2019/01/angelov-passport.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2019/01/angelov-passport.png 545w, https://bivol.bg/wp-content/uploads/2019/01/angelov-passport-300x210.png 300w" sizes="(max-width: 545px) 100vw, 545px" data-attachment-id="44682" data-permalink="https://bivol.bg/panama-papers-viafot.html/angelov-passport" data-orig-file="https://bivol.bg/wp-content/uploads/2019/01/angelov-passport.png" data-orig-size="545,381" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="angelov-passport" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2019/01/angelov-passport-300x210.png" data-large-file="https://bivol.bg/wp-content/uploads/2019/01/angelov-passport.png" /></div>Биволъ започва да разкрива и публикува без цензура тайните в Панамските документи Най-близкият адвокат на Делян Пеевски Александър Ангелов е крайният бенефициент на офшорката &#8220;Виафот&#8221; (Viafot Ltd.), регистрирана на Британските&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2019/01/angelov-passport.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">44652</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Болгария &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/ru/tag/%d0%b1%d0%be%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%8f/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg/ru</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Thu, 16 Jan 2020 19:24:51 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Болгария &#8211; Bivol.bg</title>
+	<link>https://bivol.bg/ru</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Хакеры российских спецслужб атаковали США, Францию и Украину через серверы болгарских фирм</title>
+		<link>https://bivol.bg/ru/gru-bulgaria-cyberattacks.html</link>
+		
+		<dc:creator><![CDATA[Атанас Чобанов]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2020 10:42:48 +0000</pubDate>
+				<category><![CDATA[На первой]]></category>
+		<category><![CDATA[Погоня]]></category>
+		<category><![CDATA[DCLeaks]]></category>
+		<category><![CDATA[Macronleaks]]></category>
+		<category><![CDATA[NotPetya]]></category>
+		<category><![CDATA[Болгария]]></category>
+		<category><![CDATA[ГРУ]]></category>
+		<category><![CDATA[Данил Ерёмка]]></category>
+		<category><![CDATA[ХЗ Хостинг]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=50952</guid>
+
+					<description><![CDATA[<div>Вторник 14 января 2020</div><BR><div><img width="295" height="171" src="https://bivol.bg/wp-content/uploads/2017/05/russian-hackers.jpeg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2017/05/russian-hackers.jpeg 295w, https://bivol.bg/wp-content/uploads/2017/05/russian-hackers-294x171.jpeg 294w" sizes="(max-width: 295px) 100vw, 295px" data-attachment-id="50953" data-permalink="https://bivol.bg/ru/gru-bulgaria-cyberattacks.html/russian-hackers" data-orig-file="https://bivol.bg/wp-content/uploads/2017/05/russian-hackers.jpeg" data-orig-size="295,171" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="russian-hackers" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2017/05/russian-hackers.jpeg" data-large-file="https://bivol.bg/wp-content/uploads/2017/05/russian-hackers.jpeg" /></div>Атаки ГРУ (сейчас – Главное управление Генерального штаба Вооружённых сил России) на информационные сети организаций в США, Франции, Южной Корее и в Украине были предприняты через серверы, арендованные у болгарской&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2017/05/russian-hackers.jpeg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">50952</post-id>	</item>
+		<item>
+		<title>«ДЖИ ПИ ГЕЙТ»  РАСТРАТЫ В «ЛУКОЙЛЕ» ПРИВЕЛИ К ОТСТРАНЕНИЮ ВАЛЕНТИНА ЗЛАТЕВА</title>
+		<link>https://bivol.bg/ru/gp-group-lukoil-syphoning.html</link>
+		
+		<dc:creator><![CDATA[Биволъ]]></dc:creator>
+		<pubDate>Thu, 25 Apr 2019 04:39:39 +0000</pubDate>
+				<category><![CDATA[На первой]]></category>
+		<category><![CDATA[Погоня]]></category>
+		<category><![CDATA[Бойко Борисов]]></category>
+		<category><![CDATA[Болгария]]></category>
+		<category><![CDATA[Валентин Златев]]></category>
+		<category><![CDATA[Джи Пи]]></category>
+		<category><![CDATA[Джи Пи Гейт]]></category>
+		<category><![CDATA[Итърнити]]></category>
+		<category><![CDATA[Коррупция]]></category>
+		<category><![CDATA[Лукойл]]></category>
+		<category><![CDATA[Махинации]]></category>
+		<category><![CDATA[Офшоры]]></category>
+		<category><![CDATA[Панамские документы]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=47552</guid>
+
+					<description><![CDATA[<div>Четверг 25 апреля 2019</div><BR><div><img width="1024" height="640" src="https://bivol.bg/wp-content/uploads/2019/04/zlatev-vassilev-lukoil-1024x640.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2019/04/zlatev-vassilev-lukoil-1024x640.png 1024w, https://bivol.bg/wp-content/uploads/2019/04/zlatev-vassilev-lukoil-300x188.png 300w, https://bivol.bg/wp-content/uploads/2019/04/zlatev-vassilev-lukoil-768x480.png 768w, https://bivol.bg/wp-content/uploads/2019/04/zlatev-vassilev-lukoil-1170x731.png 1170w, https://bivol.bg/wp-content/uploads/2019/04/zlatev-vassilev-lukoil-585x366.png 585w, https://bivol.bg/wp-content/uploads/2019/04/zlatev-vassilev-lukoil.png 1440w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="46856" data-permalink="https://bivol.bg/ru/gp-group-lukoil-syphoning.html/zlatev-vassilev-lukoil-2" data-orig-file="https://bivol.bg/wp-content/uploads/2019/04/zlatev-vassilev-lukoil.png" data-orig-size="1440,900" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="zlatev-vassilev-lukoil" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2019/04/zlatev-vassilev-lukoil-300x188.png" data-large-file="https://bivol.bg/wp-content/uploads/2019/04/zlatev-vassilev-lukoil-1024x640.png" /></div>Более 45 миллионов левов выведены из «Лукойла» только лишь посредством сделок с землей и АЗС через компании, связанные с «Джи Пи Груп». Так показало масштабное расследование, в рамках которого Биволъ&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2019/04/zlatev-vassilev-lukoil-1024x640.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">47552</post-id>	</item>
+		<item>
+		<title>Квартиры в Болгарии лишили Тимура Валиулина поста в МВД РФ</title>
+		<link>https://bivol.bg/ru/valiulin.html</link>
+		
+		<dc:creator><![CDATA[Николай Марченко]]></dc:creator>
+		<pubDate>Tue, 11 Dec 2018 20:12:22 +0000</pubDate>
+				<category><![CDATA[На первой]]></category>
+		<category><![CDATA[Погоня]]></category>
+		<category><![CDATA[Болгария]]></category>
+		<category><![CDATA[Валиулин]]></category>
+		<category><![CDATA[Квартира]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=43931</guid>
+
+					<description><![CDATA[<div>Вторник 11 декабря 2018</div><BR><div><img width="605" height="362" src="https://bivol.bg/wp-content/uploads/2018/12/valiulin.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2018/12/valiulin.jpg 605w, https://bivol.bg/wp-content/uploads/2018/12/valiulin-300x180.jpg 300w" sizes="(max-width: 605px) 100vw, 605px" data-attachment-id="43908" data-permalink="https://bivol.bg/ru/valiulin.html/valiulin-2" data-orig-file="https://bivol.bg/wp-content/uploads/2018/12/valiulin.jpg" data-orig-size="605,362" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="valiulin" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2018/12/valiulin-300x180.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2018/12/valiulin.jpg" /></div>Начальник Главного управления МВД Российской Федерации по противодействию экстремизму, генерал-майор полиции Тимур Валиулин, подал в отставку, сообщили во вторник, 11 декабря, российские СМИ. Согласно изданиям Lenta.ru и «Коммерсантъ», Тимур Валиулин покинул свой пост&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2018/12/valiulin.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">43931</post-id>	</item>
+		<item>
+		<title>Болгарские «золотые визы»: упущенные возможности и лазейка для банков</title>
+		<link>https://bivol.bg/ru/bulgarian-golden-visas.html</link>
+		
+		<dc:creator><![CDATA[Атанас Чобанов]]></dc:creator>
+		<pubDate>Fri, 09 Mar 2018 18:34:27 +0000</pubDate>
+				<category><![CDATA[На первой]]></category>
+		<category><![CDATA[Погоня]]></category>
+		<category><![CDATA[Банки]]></category>
+		<category><![CDATA[Биволъ]]></category>
+		<category><![CDATA[Болгария]]></category>
+		<category><![CDATA[Болгарское гражданство]]></category>
+		<category><![CDATA[Виза]]></category>
+		<category><![CDATA[золотая виза]]></category>
+		<category><![CDATA[Инвестиции]]></category>
+		<category><![CDATA[консалтинг]]></category>
+		<category><![CDATA[кредитование]]></category>
+		<category><![CDATA[паспорт]]></category>
+		<category><![CDATA[расследование]]></category>
+		<category><![CDATA[россияне]]></category>
+		<guid isPermaLink="false">https://bivol.bg?p=38542</guid>
+
+					<description><![CDATA[<div>Пятница 9 марта 2018</div><BR><div><img width="1024" height="654" src="https://bivol.bg/wp-content/uploads/2018/03/bgpassport-1024x654.jpeg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2018/03/bgpassport-1024x654.jpeg 1024w, https://bivol.bg/wp-content/uploads/2018/03/bgpassport-300x192.jpeg 300w, https://bivol.bg/wp-content/uploads/2018/03/bgpassport-768x490.jpeg 768w, https://bivol.bg/wp-content/uploads/2018/03/bgpassport.jpeg 1253w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="38530" data-permalink="https://bivol.bg/ru/bulgarian-golden-visas.html/bgpassport-2" data-orig-file="https://bivol.bg/wp-content/uploads/2018/03/bgpassport.jpeg" data-orig-size="1253,800" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="bgpassport" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2018/03/bgpassport-300x192.jpeg" data-large-file="https://bivol.bg/wp-content/uploads/2018/03/bgpassport-1024x654.jpeg" /></div>Программа выдачи «золотых виз», направленная на привлечение иностранных инвесторов в Болгарию, привела к противоречивым результатам. В силу юридических особенностей программа обогатила лишь банкиров. Одна из этих программ выглядит абсолютно неработающей,&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2018/03/bgpassport-1024x654.jpeg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">38542</post-id>	</item>
+		<item>
+		<title>О недоказанных источниках доходов свыше 50 тыс фунтов...  Новый британский закон против отмывания денег – на мушке представитель Болгарии в ЕБРР и друг премьера Бойко Борисова</title>
+		<link>https://bivol.bg/ru/uwo-1.html</link>
+		
+		<dc:creator><![CDATA[Биволъ]]></dc:creator>
+		<pubDate>Sat, 03 Feb 2018 13:34:06 +0000</pubDate>
+				<category><![CDATA[В прицеле]]></category>
+		<category><![CDATA[На первой]]></category>
+		<category><![CDATA[DISTRKT]]></category>
+		<category><![CDATA[McMafia]]></category>
+		<category><![CDATA[Unexplained Wealth Order]]></category>
+		<category><![CDATA[Азербайджан]]></category>
+		<category><![CDATA[Азербайджанская прачечная]]></category>
+		<category><![CDATA[Баку]]></category>
+		<category><![CDATA[Бойко Борисов]]></category>
+		<category><![CDATA[Болгария]]></category>
+		<category><![CDATA[Британия]]></category>
+		<category><![CDATA[Ивайло Крыстев]]></category>
+		<category><![CDATA[Ильхам Алиев]]></category>
+		<category><![CDATA[Ирина Бокова]]></category>
+		<category><![CDATA[Калин Митрев]]></category>
+		<category><![CDATA[Лондон]]></category>
+		<category><![CDATA[МакМафия]]></category>
+		<category><![CDATA[ОПГ]]></category>
+		<category><![CDATA[ПАСЕ]]></category>
+		<category><![CDATA[Рособоронэкспорт]]></category>
+		<category><![CDATA[Российская прачечная]]></category>
+		<category><![CDATA[Син Сити]]></category>
+		<category><![CDATA[София]]></category>
+		<category><![CDATA[ЮНЕСКО]]></category>
+		<guid isPermaLink="false">https://bivol.bg?p=38962</guid>
+
+					<description><![CDATA[<div>Суббота 3 февраля 2018</div><BR><div><img width="620" height="465" src="https://bivol.bg/wp-content/uploads/2018/02/british-police.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2018/02/british-police.jpg 620w, https://bivol.bg/wp-content/uploads/2018/02/british-police-300x225.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" data-attachment-id="38024" data-permalink="https://bivol.bg/ru/uwo-1.html/british-police-2" data-orig-file="https://bivol.bg/wp-content/uploads/2018/02/british-police.jpg" data-orig-size="620,465" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="british-police" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2018/02/british-police-300x225.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2018/02/british-police.jpg" /></div>Соединенное Королевство воспользуется всей строгостью закона для борьбы с практикой отмывания денег, потому с февраля месяца любые активы на сумму свыше 50 тыс британских фунтов, смогут подвергаться заморозке до предоставления&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2018/02/british-police.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">38962</post-id>	</item>
+		<item>
+		<title>Квартиры для Их Превосходительств</title>
+		<link>https://bivol.bg/ru/flats-for-their-russian-excellencies.html</link>
+		
+		<dc:creator><![CDATA[Атанас Чобанов]]></dc:creator>
+		<pubDate>Mon, 15 Jan 2018 19:35:14 +0000</pubDate>
+				<category><![CDATA[На первой]]></category>
+		<category><![CDATA[Погоня]]></category>
+		<category><![CDATA[Болгария]]></category>
+		<category><![CDATA[Газпром]]></category>
+		<category><![CDATA[Ганди]]></category>
+		<category><![CDATA[Исаков]]></category>
+		<category><![CDATA[Квартиры]]></category>
+		<category><![CDATA[Лукойл]]></category>
+		<category><![CDATA[Овергаз]]></category>
+		<category><![CDATA[Оффшор]]></category>
+		<category><![CDATA[Потапов]]></category>
+		<category><![CDATA[Российский посол]]></category>
+		<category><![CDATA[Россия]]></category>
+		<guid isPermaLink="false">https://bivol.bg?p=37647</guid>
+
+					<description><![CDATA[<div>Понедельник 15 января 2018</div><BR><div><img width="620" height="348" src="https://bivol.bg/wp-content/uploads/2018/01/isakov-oresharski-southstream.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2018/01/isakov-oresharski-southstream.jpg 620w, https://bivol.bg/wp-content/uploads/2018/01/isakov-oresharski-southstream-300x168.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" data-attachment-id="37648" data-permalink="https://bivol.bg/ru/flats-for-their-russian-excellencies.html/isakov-oresharski-southstream" data-orig-file="https://bivol.bg/wp-content/uploads/2018/01/isakov-oresharski-southstream.jpg" data-orig-size="620,348" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="isakov-oresharski-southstream" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2018/01/isakov-oresharski-southstream-300x168.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2018/01/isakov-oresharski-southstream.jpg" /></div>Одной из ключевых задач посла любого государства в мире является развитие делового сотрудничества его страны с местным бизнесом. Однако сразу два недавних российских посла в Болгарии, кажется, пошли в этом&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2018/01/isakov-oresharski-southstream.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">37647</post-id>	</item>
+		<item>
+		<title>Россияне бьют рекорды по запросам на ПМЖ в Болгарии</title>
+		<link>https://bivol.bg/ru/%d1%80%d0%be%d1%81%d1%81%d0%b8%d1%8f%d0%bd%d0%b5-%d0%b1%d1%8c%d1%8e%d1%82-%d1%80%d0%b5%d0%ba%d0%be%d1%80%d0%b4%d1%8b-%d0%bf%d0%be-%d0%b7%d0%b0%d0%bf%d1%80%d0%be%d1%81%d0%b0%d0%bc-%d0%bd%d0%b0-%d0%bf.html</link>
+		
+		<dc:creator><![CDATA[Биволъ]]></dc:creator>
+		<pubDate>Fri, 06 Oct 2017 05:27:25 +0000</pubDate>
+				<category><![CDATA[В прицеле]]></category>
+		<category><![CDATA[На первой]]></category>
+		<category><![CDATA[Болгария]]></category>
+		<category><![CDATA[Вид на жителство]]></category>
+		<category><![CDATA[Золотые визы]]></category>
+		<category><![CDATA[ПМЖ]]></category>
+		<category><![CDATA[Россияне в Болгарии]]></category>
+		<guid isPermaLink="false">https://bivol.bg?p=37558</guid>
+
+					<description><![CDATA[<div>Пятница 6 октября 2017</div><BR><div><img width="1024" height="683" src="https://bivol.bg/wp-content/uploads/2017/10/malaya-rossiya-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2017/10/malaya-rossiya-1024x683.jpg 1024w, https://bivol.bg/wp-content/uploads/2017/10/malaya-rossiya-300x200.jpg 300w, https://bivol.bg/wp-content/uploads/2017/10/malaya-rossiya-768x512.jpg 768w, https://bivol.bg/wp-content/uploads/2017/10/malaya-rossiya-1440x960.jpg 1440w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="37561" data-permalink="https://bivol.bg/ru/%d1%80%d0%be%d1%81%d1%81%d0%b8%d1%8f%d0%bd%d0%b5-%d0%b1%d1%8c%d1%8e%d1%82-%d1%80%d0%b5%d0%ba%d0%be%d1%80%d0%b4%d1%8b-%d0%bf%d0%be-%d0%b7%d0%b0%d0%bf%d1%80%d0%be%d1%81%d0%b0%d0%bc-%d0%bd%d0%b0-%d0%bf.html/malaya-rossiya" data-orig-file="https://bivol.bg/wp-content/uploads/2017/10/malaya-rossiya.jpg" data-orig-size="2760,1840" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D800&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1447938470&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;24&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.000125&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="malaya-rossiya" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2017/10/malaya-rossiya-300x200.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2017/10/malaya-rossiya-1024x683.jpg" /></div>В настоящее момент около 70 000 российских граждан могут находиться в Болгарии без виз, при этом почти 30 000 из них имеют право на постоянное проживание, а остальные имеют вид&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2017/10/malaya-rossiya-1024x683.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">37558</post-id>	</item>
+	</channel>
+</rss>

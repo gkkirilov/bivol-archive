@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Екип на Биволъ &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/fr/author/bivol/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg/fr</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Sat, 07 Nov 2020 10:40:50 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Екип на Биволъ &#8211; Bivol.bg</title>
+	<link>https://bivol.bg/fr</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Qui sommes nous ?</title>
+		<link>https://bivol.bg/fr/about-bivol.html</link>
+		
+		<dc:creator><![CDATA[par Bivol]]></dc:creator>
+		<pubDate>Sun, 07 Nov 2010 17:21:53 +0000</pubDate>
+				<category><![CDATA[Non classifié(e)]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=50971</guid>
+
+					<description><![CDATA[<div>dimanche 7 novembre 2010</div><BR><div><img width="1" height="1" src="https://bivol.bg/wp-content/uploads/2010/11/assen-leipzig.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="50984" data-permalink="https://bivol.bg/fr/about-bivol.html/assen-leipzig-2" data-orig-file="https://bivol.bg/wp-content/uploads/2010/11/assen-leipzig.jpg" data-orig-size="" data-comments-opened="1" data-image-meta="[]" data-image-title="assen-leipzig" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2010/11/assen-leipzig.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2010/11/assen-leipzig.jpg" /></div>Nous avons créé ce site indépendant pour permettre la publication et la diffusion d’enquêtes journalistiques de qualité ainsi que d’avis objectifs de spécialistes et de commentateurs sur des questions d’actualité.&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2010/11/assen-leipzig.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">50971</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Коментари на: Някой изненадан има ли?	</title>
+	<atom:link href="https://bivol.bg/%d0%bd%d1%8f%d0%ba%d0%be%d0%b9-%d0%b8%d0%b7%d0%bd%d0%b5%d0%bd%d0%b0%d0%b4%d0%b0%d0%bd-%d0%b8%d0%bc%d0%b0-%d0%bb%d0%b8.html/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg/%d0%bd%d1%8f%d0%ba%d0%be%d0%b9-%d0%b8%d0%b7%d0%bd%d0%b5%d0%bd%d0%b0%d0%b4%d0%b0%d0%bd-%d0%b8%d0%bc%d0%b0-%d0%bb%d0%b8.html</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Sun, 18 Apr 2021 11:10:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+</channel>
+</rss>

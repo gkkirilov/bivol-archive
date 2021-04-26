@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Глаз буйвола &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/ru/category/analysis-ru/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg/ru</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Sat, 02 May 2020 19:18:36 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Глаз буйвола &#8211; Bivol.bg</title>
+	<link>https://bivol.bg/ru</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Размышления на тему коронавируса</title>
+		<link>https://bivol.bg/ru/some-coronavirus-considerations.html</link>
+		
+		<dc:creator><![CDATA[Георги Маринов]]></dc:creator>
+		<pubDate>Sat, 18 Apr 2020 22:15:01 +0000</pubDate>
+				<category><![CDATA[Глаз буйвола]]></category>
+		<category><![CDATA[На первой]]></category>
+		<category><![CDATA[COVID-19]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[Ковид-19]]></category>
+		<category><![CDATA[Коронавирус]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=54899</guid>
+
+					<description><![CDATA[<div>Воскресенье 19 апреля 2020</div><BR><div><img width="1024" height="576" src="https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-1024x576.jpg 1024w, https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-300x169.jpg 300w, https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-768x432.jpg 768w, https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-1170x659.jpg 1170w, https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-585x329.jpg 585w, https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval.jpg 1240w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="54367" data-permalink="https://bivol.bg/ru/some-coronavirus-considerations.html/corona-carnaval-2" data-orig-file="https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval.jpg" data-orig-size="1240,698" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="corona-carnaval" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-300x169.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-1024x576.jpg" /></div>Автор: Георги К. Маринов, Department of Genetics, Stanford University, Stanford, California 94305, USA С началом второго месяца коронавирусного карантина, когда и жизнь, и прежде всего экономика ещё способны вернуться в&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2020/04/corona-carnaval-1024x576.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">54899</post-id>	</item>
+		<item>
+		<title>Наши расследователи задержаны, спасая доказательства по афере #GPGate</title>
+		<link>https://bivol.bg/ru/gp2.html</link>
+		
+		<dc:creator><![CDATA[Биволъ]]></dc:creator>
+		<pubDate>Fri, 14 Sep 2018 09:44:08 +0000</pubDate>
+				<category><![CDATA[Глаз буйвола]]></category>
+		<category><![CDATA[На первой]]></category>
+		<category><![CDATA[#GPGate]]></category>
+		<category><![CDATA[#ДжиПиГейт]]></category>
+		<category><![CDATA[OCCRP]]></category>
+		<category><![CDATA[Rise Romania]]></category>
+		<category><![CDATA[Аттила Биро]]></category>
+		<category><![CDATA[Биволъ]]></category>
+		<category><![CDATA[Джи Пи Груп]]></category>
+		<category><![CDATA[Димитр Стоянов]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=43233</guid>
+
+					<description><![CDATA[<div>Пятница 14 сентября 2018</div><BR><div><img width="1024" height="642" src="https://bivol.bg/wp-content/uploads/2018/09/gp-docs-1024x642.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2018/09/gp-docs-1024x642.jpg 1024w, https://bivol.bg/wp-content/uploads/2018/09/gp-docs-300x188.jpg 300w, https://bivol.bg/wp-content/uploads/2018/09/gp-docs-768x482.jpg 768w, https://bivol.bg/wp-content/uploads/2018/09/gp-docs-1440x903.jpg 1440w, https://bivol.bg/wp-content/uploads/2018/09/gp-docs.jpg 1722w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="42948" data-permalink="https://bivol.bg/ru/gp2.html/gp-docs-2" data-orig-file="https://bivol.bg/wp-content/uploads/2018/09/gp-docs.jpg" data-orig-size="1722,1080" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="gp-docs" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2018/09/gp-docs-300x188.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2018/09/gp-docs-1024x642.jpg" /></div>Двое журналистов Центра исследования коррупции и организованной преступности (Organised Crime and Corruption Reporting Project, OCCRP) Димитр Стоянов („Биволъ”) и Аттила Биро (Rise Project Romania) были задержаны полицией минувшей ночью в&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2018/09/gp-docs-1024x642.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">43233</post-id>	</item>
+		<item>
+		<title>Письмо в посольство США раскрывает схемы холдинга «Булгартабак» с участием Бойко Борисова, Деляна Пеевского и Ахмеда Догана</title>
+		<link>https://bivol.bg/ru/pismo-us-embassy-bulgartabac.html</link>
+		
+		<dc:creator><![CDATA[Биволъ]]></dc:creator>
+		<pubDate>Mon, 06 Jul 2015 22:32:31 +0000</pubDate>
+				<category><![CDATA[Булгартабак]]></category>
+		<category><![CDATA[Глаз буйвола]]></category>
+		<category><![CDATA[Досье Бъ]]></category>
+		<category><![CDATA[На первой]]></category>
+		<category><![CDATA[Пеевски]]></category>
+		<category><![CDATA[Бойко Борисов]]></category>
+		<category><![CDATA[Взятки]]></category>
+		<category><![CDATA[Делян Пеевский]]></category>
+		<category><![CDATA[ИГИЛ]]></category>
+		<category><![CDATA[Контрабанда]]></category>
+		<category><![CDATA[Сотир Цацаров]]></category>
+		<guid isPermaLink="false">https://bivol.bg?p=38655</guid>
+
+					<description><![CDATA[<div>Вторник 7 июля 2015</div><BR><div><img width="600" height="337" src="https://bivol.bg/wp-content/uploads/2015/07/f6b97a42-9770-4580-ae6c-a80a6d0aac3c_16x9_600x338.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2015/07/f6b97a42-9770-4580-ae6c-a80a6d0aac3c_16x9_600x338.jpg 600w, https://bivol.bg/wp-content/uploads/2015/07/f6b97a42-9770-4580-ae6c-a80a6d0aac3c_16x9_600x338-300x169.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="38678" data-permalink="https://bivol.bg/ru/pismo-us-embassy-bulgartabac.html/f6b97a42-9770-4580-ae6c-a80a6d0aac3c_16x9_600x338" data-orig-file="https://bivol.bg/wp-content/uploads/2015/07/f6b97a42-9770-4580-ae6c-a80a6d0aac3c_16x9_600x338.jpg" data-orig-size="600,337" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="f6b97a42-9770-4580-ae6c-a80a6d0aac3c_16x9_600x338" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2015/07/f6b97a42-9770-4580-ae6c-a80a6d0aac3c_16x9_600x338-300x169.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2015/07/f6b97a42-9770-4580-ae6c-a80a6d0aac3c_16x9_600x338.jpg" /></div>В распоряжение сервиса BalkanLeaks попала копия 15-страничного письма американскому послу Марси Рийс, в котором заявляется о раскрытии истинных связей между политиками и преступной сетью, действующей в Болгарии. Они раскрываются через&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2015/07/f6b97a42-9770-4580-ae6c-a80a6d0aac3c_16x9_600x338.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">38655</post-id>	</item>
+	</channel>
+</rss>

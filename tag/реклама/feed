@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Реклама &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/%d1%80%d0%b5%d0%ba%d0%bb%d0%b0%d0%bc%d0%b0/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Thu, 30 Nov 2017 16:51:39 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Реклама &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Рекламна оферта</title>
+		<link>https://bivol.bg/offer.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 23 Nov 2010 16:08:34 +0000</pubDate>
+				<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Бивол]]></category>
+		<category><![CDATA[Реклама]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/offer.html</guid>
+
+					<description><![CDATA[Всички рекламни материали се обозначават ясно като платени публикации – инфореклама и не се смесват с редакционното съдържание на сайта. „Биволъ” е против порочните практики на някои медии: да се&#8230;]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14386</post-id>	</item>
+	</channel>
+</rss>

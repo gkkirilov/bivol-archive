@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Асен Йорданов &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/author/alsussen/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Wed, 25 Jul 2018 23:54:55 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Асен Йорданов &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>СЛЕДАТА</title>
+		<link>https://bivol.bg/%d1%81%d0%bb%d0%b5%d0%b4%d0%b0%d1%82%d0%b0.html</link>
+		
+		<dc:creator><![CDATA[Асен Йорданов]]></dc:creator>
+		<pubDate>Wed, 25 Jul 2018 08:48:56 +0000</pubDate>
+				<category><![CDATA[Белият Биволъ]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Рогати мисли]]></category>
+		<category><![CDATA[избити животни]]></category>
+		<category><![CDATA[Пастирът]]></category>
+		<category><![CDATA[Странджа]]></category>
+		<category><![CDATA[съдба]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=42450</guid>
+
+					<description><![CDATA[<div>сряда 25 юли 2018</div><BR><div><img width="1024" height="576" src="https://bivol.bg/wp-content/uploads/2018/07/LonelyShepherd-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2018/07/LonelyShepherd-1024x576.jpg 1024w, https://bivol.bg/wp-content/uploads/2018/07/LonelyShepherd-300x169.jpg 300w, https://bivol.bg/wp-content/uploads/2018/07/LonelyShepherd-768x432.jpg 768w, https://bivol.bg/wp-content/uploads/2018/07/LonelyShepherd.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="42451" data-permalink="https://bivol.bg/%d1%81%d0%bb%d0%b5%d0%b4%d0%b0%d1%82%d0%b0.html/lonelyshepherd" data-orig-file="https://bivol.bg/wp-content/uploads/2018/07/LonelyShepherd.jpg" data-orig-size="1280,720" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="LonelyShepherd" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2018/07/LonelyShepherd-300x169.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2018/07/LonelyShepherd-1024x576.jpg" /></div>1 Истина, истина ви казвам, който не влиза през вратата на кошарата на овцете, но прескача от другаде, той е крадец и разбойник. 2 А който влиза през вратата, овчар&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2018/07/LonelyShepherd-1024x576.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">42450</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Летовище Св. Константин &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/%d0%bb%d0%b5%d1%82%d0%be%d0%b2%d0%b8%d1%89%d0%b5-%d1%81%d0%b2-%d0%ba%d0%be%d0%bd%d1%81%d1%82%d0%b0%d0%bd%d1%82%d0%b8%d0%bd/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Fri, 27 Dec 2019 10:00:03 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Летовище Св. Константин &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Апартаментгейт: #КОЙ да разследва сериен имотен симулатор Главен прокурор?   Цацаров придобил луксозна вила на половин цена</title>
+		<link>https://bivol.bg/cacarov-vila.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 21 May 2019 11:44:28 +0000</pubDate>
+				<category><![CDATA[Апартаментгейт]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Имотни магистрати]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[2019]]></category>
+		<category><![CDATA[Вила]]></category>
+		<category><![CDATA[Главен прокурор]]></category>
+		<category><![CDATA[Корупция]]></category>
+		<category><![CDATA[Летовище Св. Константин]]></category>
+		<category><![CDATA[Симулативна сделка]]></category>
+		<category><![CDATA[Цацаров]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=47346</guid>
+
+					<description><![CDATA[<div>вторник 21 май 2019</div><BR><div><img width="1024" height="640" src="https://bivol.bg/wp-content/uploads/2019/05/vila-cacarov-2-1024x640.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2019/05/vila-cacarov-2-1024x640.png 1024w, https://bivol.bg/wp-content/uploads/2019/05/vila-cacarov-2-300x188.png 300w, https://bivol.bg/wp-content/uploads/2019/05/vila-cacarov-2-768x480.png 768w, https://bivol.bg/wp-content/uploads/2019/05/vila-cacarov-2-1170x731.png 1170w, https://bivol.bg/wp-content/uploads/2019/05/vila-cacarov-2-585x366.png 585w, https://bivol.bg/wp-content/uploads/2019/05/vila-cacarov-2.png 1440w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="47370" data-permalink="https://bivol.bg/cacarov-vila.html/vila-cacarov" data-orig-file="https://bivol.bg/wp-content/uploads/2019/05/vila-cacarov-2.png" data-orig-size="1440,900" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="vila-cacarov" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2019/05/vila-cacarov-2-300x188.png" data-large-file="https://bivol.bg/wp-content/uploads/2019/05/vila-cacarov-2-1024x640.png" /></div>Главният прокурор Сотир Цацаров се е разписал в серията &#8220;Апартаментгейт&#8221; с евтините, но луксозни имоти на властта. В края на 2018 г. той и съпругата му придобиват вила в летовището&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2019/05/vila-cacarov-2-1024x640.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">47346</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Белый Буйволъ &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/ru/category/%d0%b1%d0%b5%d0%bb%d1%8b%d0%b9-%d0%b1%d1%83%d0%b9%d0%b2%d0%be%d0%bb%d1%8a/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg/ru</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Fri, 23 Apr 2021 18:23:58 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Белый Буйволъ &#8211; Bivol.bg</title>
+	<link>https://bivol.bg/ru</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site></channel>
+</rss>

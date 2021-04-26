@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Николай Марченко &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/ru/author/marchenko/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg/ru</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Fri, 11 Jan 2019 10:00:23 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>Николай Марченко &#8211; Bivol.bg</title>
+	<link>https://bivol.bg/ru</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Квартиры в Болгарии лишили Тимура Валиулина поста в МВД РФ</title>
+		<link>https://bivol.bg/ru/valiulin.html</link>
+		
+		<dc:creator><![CDATA[Николай Марченко]]></dc:creator>
+		<pubDate>Tue, 11 Dec 2018 20:12:22 +0000</pubDate>
+				<category><![CDATA[На первой]]></category>
+		<category><![CDATA[Погоня]]></category>
+		<category><![CDATA[Болгария]]></category>
+		<category><![CDATA[Валиулин]]></category>
+		<category><![CDATA[Квартира]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=43931</guid>
+
+					<description><![CDATA[<div>Вторник 11 декабря 2018</div><BR><div><img width="605" height="362" src="https://bivol.bg/wp-content/uploads/2018/12/valiulin.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2018/12/valiulin.jpg 605w, https://bivol.bg/wp-content/uploads/2018/12/valiulin-300x180.jpg 300w" sizes="(max-width: 605px) 100vw, 605px" data-attachment-id="43908" data-permalink="https://bivol.bg/ru/valiulin.html/valiulin-2" data-orig-file="https://bivol.bg/wp-content/uploads/2018/12/valiulin.jpg" data-orig-size="605,362" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="valiulin" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2018/12/valiulin-300x180.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2018/12/valiulin.jpg" /></div>Начальник Главного управления МВД Российской Федерации по противодействию экстремизму, генерал-майор полиции Тимур Валиулин, подал в отставку, сообщили во вторник, 11 декабря, российские СМИ. Согласно изданиям Lenta.ru и «Коммерсантъ», Тимур Валиулин покинул свой пост&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2018/12/valiulin.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">43931</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:media="http://search.yahoo.com/mrss/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>НЕК &#8211; Bivol.bg</title>
+	<atom:link href="https://bivol.bg/tag/%d0%bd%d0%b5%d0%ba/feed" rel="self" type="application/rss+xml" />
+	<link>https://bivol.bg</link>
+	<description>Съ рогата напрѣдъ!</description>
+	<lastBuildDate>Thu, 10 Dec 2020 04:46:20 +0000</lastBuildDate>
+	<language>bg-BG</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.4</generator>
+
+<image>
+	<url>https://bivol.bg/wp-content/uploads/2016/01/cropped-bivol-logo-512x512-32x32.png</url>
+	<title>НЕК &#8211; Bivol.bg</title>
+	<link>https://bivol.bg</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">137082647</site>	<item>
+		<title>Нови документи разкриват:  Анекс 12 за Белене &#8211; 8 нули отзад щета за България</title>
+		<link>https://bivol.bg/anexe-12-krasimir-parvanov.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Tue, 18 Jul 2017 14:22:22 +0000</pubDate>
+				<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Енергетика]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Руско влияние]]></category>
+		<category><![CDATA[Анекс 12]]></category>
+		<category><![CDATA[Арбитраж]]></category>
+		<category><![CDATA[АСЕ]]></category>
+		<category><![CDATA[БЕХ]]></category>
+		<category><![CDATA[Бойко Борисов]]></category>
+		<category><![CDATA[Допълнение 12]]></category>
+		<category><![CDATA[Красимир Първанов]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Русия]]></category>
+		<category><![CDATA[Симеон Дянков]]></category>
+		<category><![CDATA[Трайчо Трайков]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=34272</guid>
+
+					<description><![CDATA[<div>вторник 18 юли 2017</div><BR><div><img width="938" height="648" src="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png 938w, https://bivol.bg/wp-content/uploads/2017/04/belene-agregati-300x207.png 300w, https://bivol.bg/wp-content/uploads/2017/04/belene-agregati-768x531.png 768w" sizes="(max-width: 938px) 100vw, 938px" data-attachment-id="33656" data-permalink="https://bivol.bg/belene-tehnika.html/belene-agregati" data-orig-file="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png" data-orig-size="938,648" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="belene-agregati" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati-300x207.png" data-large-file="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png" /></div>Биволъ неведнъж е разследвал и публикувал материали за престъпни действия или бездействия свързани със строителството на АЕЦ Белене. В тази “черна дупка” до момента са потънали много милиарди лева държавни пари&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">34272</post-id>	</item>
+		<item>
+		<title>Докато прокуратурата кокошкарства в НЕК...  Оборудването за стотици милиони за Белене стои безпризорно</title>
+		<link>https://bivol.bg/belene-tehnika.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Thu, 27 Apr 2017 13:10:43 +0000</pubDate>
+				<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Агрегати]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Прокуратура]]></category>
+		<category><![CDATA[Реактори]]></category>
+		<category><![CDATA[Уайт енд Кейс]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=33631</guid>
+
+					<description><![CDATA[<div>четвъртък 27 април 2017</div><BR><div><img width="938" height="648" src="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png 938w, https://bivol.bg/wp-content/uploads/2017/04/belene-agregati-300x207.png 300w, https://bivol.bg/wp-content/uploads/2017/04/belene-agregati-768x531.png 768w" sizes="(max-width: 938px) 100vw, 938px" data-attachment-id="33656" data-permalink="https://bivol.bg/belene-tehnika.html/belene-agregati" data-orig-file="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png" data-orig-size="938,648" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="belene-agregati" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati-300x207.png" data-large-file="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png" /></div>Агрегатите за Белене, които&#160;НЕК плати с държавен заем след изгубения арбитраж срещу Атомстройекспорт, стоят на брега на Дунава без охрана. До тях може да стигне всеки на една ръка разстояние.&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2017/04/belene-agregati.png" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">33631</post-id>	</item>
+		<item>
+		<title>Интервю с инж. Илчо Костов, Част II  КОЙ скри негодния строеж на АЕЦ Белене, за да плати 1,2 милиарда на руснаците?</title>
+		<link>https://bivol.bg/belene-nec-ase-2.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sun, 12 Feb 2017 17:31:30 +0000</pubDate>
+				<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Атомстройекспорт]]></category>
+		<category><![CDATA[Илчо Костов]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Теменужка]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=33148</guid>
+
+					<description><![CDATA[<div>неделя 12 февруари 2017</div><BR><div><img width="1024" height="649" src="https://bivol.bg/wp-content/uploads/2014/11/belene-beton-1024x649.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2014/11/belene-beton-1024x649.jpg 1024w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-300x190.jpg 300w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-120x76.jpg 120w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-265x168.jpg 265w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-284x180.jpg 284w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-274x173.jpg 274w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-220x140.jpg 220w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-90x57.jpg 90w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-150x95.jpg 150w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton.jpg 1132w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="24615" data-permalink="https://bivol.bg/%d0%bd%d0%b5%d0%ba-%d0%ba%d1%80%d0%b8%d0%b5-%d0%ba%d0%bb%d1%8e%d1%87%d0%be%d0%b2%d0%b0-%d0%b5%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82%d0%b8%d0%b7%d0%b0-%d0%b7%d0%b0-%d0%b0%d0%b5%d1%86-%d0%b1%d0%b5%d0%bb.html/belene-beton" data-orig-file="https://bivol.bg/wp-content/uploads/2014/11/belene-beton.jpg" data-orig-size="1132,718" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="belene-beton" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2014/11/belene-beton-300x190.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2014/11/belene-beton-1024x649.jpg" /></div>Експертиза, доказваща негодността на Първи блок на АЕЦ &#8220;Белене&#8221; построен от Атомстройекспорт (АСЕ), е била&#160;предоставена на министъра на енергетиката в правителството на Бойко Борисов. Тя дава сериозен аргумент на българската&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2014/11/belene-beton-1024x649.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">33148</post-id>	</item>
+		<item>
+		<title>КОЙ скри негодния строеж на АЕЦ Белене, за да плати 1,2 милиарда на руснаците?</title>
+		<link>https://bivol.bg/belene-nec-ase-1.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 10 Feb 2017 10:43:58 +0000</pubDate>
+				<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Въ агъла (интервю)]]></category>
+		<category><![CDATA[Енергетика]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Арбитражно дело]]></category>
+		<category><![CDATA[Атомстройекспорт]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Борисов]]></category>
+		<category><![CDATA[Експертиза]]></category>
+		<category><![CDATA[Илчо Костов]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Русия]]></category>
+		<category><![CDATA[Уайт енд Кейс]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=33119</guid>
+
+					<description><![CDATA[Обследване на конструкциите на Първи блок на АЕЦ Белене е показало дълбоки пукнатини и пълна негодност за доизграждане. Това означава, че проектите, с които Атомстройекспорт е спечелила тръжната процедура за&#8230;]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">33119</post-id>	</item>
+		<item>
+		<title>Обследване доказва наличие на дълбоки пукнатини в бетона:  Руснаците са заблудили НЕК за АЕЦ Белене. Площадката е била негодна</title>
+		<link>https://bivol.bg/belene-obsledvane-puknatini.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 09 Dec 2016 14:48:17 +0000</pubDate>
+				<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[АСЕ]]></category>
+		<category><![CDATA[Илчо Костов]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Обследване]]></category>
+		<category><![CDATA[Пукнатини]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=32656</guid>
+
+					<description><![CDATA[<div>петък 9 декември 2016</div><BR><div><img width="1024" height="532" src="https://bivol.bg/wp-content/uploads/2016/12/puknatina-1024x532.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2016/12/puknatina-1024x532.jpg 1024w, https://bivol.bg/wp-content/uploads/2016/12/puknatina-300x156.jpg 300w, https://bivol.bg/wp-content/uploads/2016/12/puknatina-768x399.jpg 768w, https://bivol.bg/wp-content/uploads/2016/12/puknatina-1440x749.jpg 1440w, https://bivol.bg/wp-content/uploads/2016/12/puknatina.jpg 1666w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="32660" data-permalink="https://bivol.bg/belene-obsledvane-puknatini.html/puknatina" data-orig-file="https://bivol.bg/wp-content/uploads/2016/12/puknatina.jpg" data-orig-size="1666,866" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="puknatina" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2016/12/puknatina-300x156.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2016/12/puknatina-1024x532.jpg" /></div>Обследване на конструкциите на Първи блок на АЕЦ Белене е показало дълбоки пукнатини и пълна негодност за доизграждане. Това означава, че проектите, с които Атомстройекспорт е спечелила тръжната процедура за&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2016/12/puknatina-1024x532.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">32656</post-id>	</item>
+		<item>
+		<title>Конфликт на интереси?  Адвокатите на НЕК в делото за АЕЦ &#8220;Белене&#8221; са защитавали едновременно и Руската федерация срещу &#8220;Юкос&#8221;</title>
+		<link>https://bivol.bg/nec-white-case-russia.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sat, 01 Oct 2016 07:51:26 +0000</pubDate>
+				<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Руско влияние]]></category>
+		<category><![CDATA[White & Case]]></category>
+		<category><![CDATA[Арбитраж]]></category>
+		<category><![CDATA[Атомстройекспорт]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[конфликт на интереси]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Юкос]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=31994</guid>
+
+					<description><![CDATA[<div>събота 1 октомври 2016</div><BR><div><img width="960" height="638" src="https://bivol.bg/wp-content/uploads/2016/10/white-case.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2016/10/white-case.jpg 960w, https://bivol.bg/wp-content/uploads/2016/10/white-case-300x199.jpg 300w, https://bivol.bg/wp-content/uploads/2016/10/white-case-768x510.jpg 768w, https://bivol.bg/wp-content/uploads/2016/10/white-case-294x194.jpg 294w" sizes="(max-width: 960px) 100vw, 960px" data-attachment-id="31995" data-permalink="https://bivol.bg/nec-white-case-russia.html/white-case" data-orig-file="https://bivol.bg/wp-content/uploads/2016/10/white-case.jpg" data-orig-size="960,638" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="white-case" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2016/10/white-case-300x199.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2016/10/white-case.jpg" /></div>Международната адвокатска кантора White &#38; Case, за която се разбра, че е защитавала НЕК срещу &#8220;Атомекспортстрой&#8221; (АСЕ) в загубеното дело за 600 млн. евро в арбитражния съд в Женева, има договор да&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2016/10/white-case.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">31994</post-id>	</item>
+		<item>
+		<title>НЕК крие ключова експертиза за АЕЦ Белене</title>
+		<link>https://bivol.bg/%d0%bd%d0%b5%d0%ba-%d0%ba%d1%80%d0%b8%d0%b5-%d0%ba%d0%bb%d1%8e%d1%87%d0%be%d0%b2%d0%b0-%d0%b5%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82%d0%b8%d0%b7%d0%b0-%d0%b7%d0%b0-%d0%b0%d0%b5%d1%86-%d0%b1%d0%b5%d0%bb.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 14 Nov 2014 16:45:13 +0000</pubDate>
+				<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[Водещи]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Арбитражно дело]]></category>
+		<category><![CDATA[Атомекспортстрой]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Бетон]]></category>
+		<category><![CDATA[Борисов]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Орешарски]]></category>
+		<category><![CDATA[Станишев]]></category>
+		<guid isPermaLink="false">https://bivol.bg/?p=24614</guid>
+
+					<description><![CDATA[<div>петък 14 ноември 2014</div><BR><div><img width="1024" height="649" src="https://bivol.bg/wp-content/uploads/2014/11/belene-beton-1024x649.jpg" class="attachment-large size-large wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2014/11/belene-beton-1024x649.jpg 1024w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-300x190.jpg 300w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-120x76.jpg 120w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-265x168.jpg 265w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-284x180.jpg 284w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-274x173.jpg 274w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-220x140.jpg 220w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-90x57.jpg 90w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton-150x95.jpg 150w, https://bivol.bg/wp-content/uploads/2014/11/belene-beton.jpg 1132w" sizes="(max-width: 1024px) 100vw, 1024px" data-attachment-id="24615" data-permalink="https://bivol.bg/%d0%bd%d0%b5%d0%ba-%d0%ba%d1%80%d0%b8%d0%b5-%d0%ba%d0%bb%d1%8e%d1%87%d0%be%d0%b2%d0%b0-%d0%b5%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d1%82%d0%b8%d0%b7%d0%b0-%d0%b7%d0%b0-%d0%b0%d0%b5%d1%86-%d0%b1%d0%b5%d0%bb.html/belene-beton" data-orig-file="https://bivol.bg/wp-content/uploads/2014/11/belene-beton.jpg" data-orig-size="1132,718" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="belene-beton" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2014/11/belene-beton-300x190.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2014/11/belene-beton-1024x649.jpg" /></div>Арбитражното дело заведено от &#8220;Атомстройекспорт&#8221; срещу НЕК за Белене е към своя край и България рискува да загуби 1 млрд. евро. Знак, че нещата не се развиват добре е делото&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2014/11/belene-beton-1024x649.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">24614</post-id>	</item>
+		<item>
+		<title>Разследвани за ощетяване на НЕК с 90 милиона имат действащ договор за износ на ток</title>
+		<link>https://bivol.bg/efg-nek.html</link>
+					<comments>https://bivol.bg/efg-nek.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Fri, 12 Apr 2013 09:41:09 +0000</pubDate>
+				<category><![CDATA[Енергетика]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Андрей Кристоф]]></category>
+		<category><![CDATA[Богомил Манчев]]></category>
+		<category><![CDATA[ЕФТ]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Николай Вузев]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/efg-nek.html</guid>
+
+					<description><![CDATA[<div>петък 12 април 2013</div><BR><div><img width="750" height="542" src="https://bivol.bg/wp-content/uploads/2013/04/Capture-2013-04-12-at-12.07.59.jpg" class="attachment-large size-large wp-post-image" alt="Capture-2013-04-12-at-12.07.59" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2013/04/Capture-2013-04-12-at-12.07.59.jpg 750w, https://bivol.bg/wp-content/uploads/2013/04/Capture-2013-04-12-at-12.07.59-300x216.jpg 300w, https://bivol.bg/wp-content/uploads/2013/04/Capture-2013-04-12-at-12.07.59-720x520.jpg 720w" sizes="(max-width: 750px) 100vw, 750px" data-attachment-id="16140" data-permalink="https://bivol.bg/efg-nek.html/capture-2013-04-12-at-12-07-59" data-orig-file="https://bivol.bg/wp-content/uploads/2013/04/Capture-2013-04-12-at-12.07.59.jpg" data-orig-size="750,542" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Capture-2013-04-12-at-12.07.59" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2013/04/Capture-2013-04-12-at-12.07.59-300x216.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2013/04/Capture-2013-04-12-at-12.07.59.jpg" /></div>Енергийна финансова група, съсобственост на Николай Вузев и Богомил Манчев има действащ договор за износ на ток с НЕК, това стана ясно от разсекретените днес от МИЕТ договори в енергетиката.&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/efg-nek.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2013/04/Capture-2013-04-12-at-12.07.59.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">16141</post-id>	</item>
+		<item>
+		<title>Андрей Кристов: Поискаха ми 150 000 евро за да смачкат разследването срещу IPN</title>
+		<link>https://bivol.bg/nek-eft-ipn-2.html</link>
+					<comments>https://bivol.bg/nek-eft-ipn-2.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sat, 06 Apr 2013 05:37:09 +0000</pubDate>
+				<category><![CDATA[Енергетика]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[EFT]]></category>
+		<category><![CDATA[Енергийна мафия]]></category>
+		<category><![CDATA[Корупция]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Прокуратура]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/nek-eft-ipn-2.html</guid>
+
+					<description><![CDATA[<div>събота 6 април 2013</div><BR><div><img width="544" height="734" src="https://bivol.bg/wp-content/uploads/2013/03/faktura-nek.jpg" class="attachment-large size-large wp-post-image" alt="faktura-nek" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="16061" data-permalink="https://bivol.bg/nek-eft-ipn-2.html/faktura-nek" data-orig-file="https://bivol.bg/wp-content/uploads/2013/03/faktura-nek.jpg" data-orig-size="544,734" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="faktura-nek" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2013/03/faktura-nek-222x300.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2013/03/faktura-nek.jpg" /></div>&#8220;Ако сте ме записали на аудио, преведете ми думите грамотно. Защото преводът обичайно е неграмотен&#8221;. Без тези думи на Андрей Кристов, казани в края на разговора ни с него, този&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/nek-eft-ipn-2.html/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2013/03/faktura-nek.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">16117</post-id>	</item>
+		<item>
+		<title>Как се източват милиони с енергийни далавери</title>
+		<link>https://bivol.bg/nek-eft-ipn.html</link>
+					<comments>https://bivol.bg/nek-eft-ipn.html#comments</comments>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sat, 23 Mar 2013 17:01:16 +0000</pubDate>
+				<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[Богомил Манчев]]></category>
+		<category><![CDATA[Енергийна мафия]]></category>
+		<category><![CDATA[ЕФТ]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Петър Пенчев]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/nek-eft-ipn.html</guid>
+
+					<description><![CDATA[<div>събота 23 март 2013</div><BR><div><img width="544" height="734" src="https://bivol.bg/wp-content/uploads/2013/03/faktura-nek.jpg" class="attachment-large size-large wp-post-image" alt="faktura-nek" loading="lazy" style="margin-bottom: 15px;" data-attachment-id="16061" data-permalink="https://bivol.bg/nek-eft-ipn-2.html/faktura-nek" data-orig-file="https://bivol.bg/wp-content/uploads/2013/03/faktura-nek.jpg" data-orig-size="544,734" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="faktura-nek" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2013/03/faktura-nek-222x300.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2013/03/faktura-nek.jpg" /></div>Този документ за пръв път излиза в медийното пространство. Виждат се условията и цената, на която НЕК продава тока на кухата фирма IPN &#8211; инициалите на боса на Мултигруп: Илия&#8230;]]></description>
+		
+					<wfw:commentRss>https://bivol.bg/nek-eft-ipn.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2013/03/faktura-nek.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">16064</post-id>	</item>
+		<item>
+		<title>Американските дипломати за оттеглянето на RWE от Белене: проблемите са натрупани при Станишев, поводът е даден при Борисов</title>
+		<link>https://bivol.bg/wl-rwe-belene.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Wed, 03 Oct 2012 12:34:24 +0000</pubDate>
+				<category><![CDATA[WIKILEAKS]]></category>
+		<category><![CDATA[АЕЦ Белене]]></category>
+		<category><![CDATA[RWE]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Уикилийкс]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/wl-rwe-belene.html</guid>
+
+					<description><![CDATA[<div>сряда 3 октомври 2012</div><BR><div><img width="541" height="346" src="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-03_a_15.44.24.jpg" class="attachment-large size-large wp-post-image" alt="Capture_decran_2012-10-03_a_15.44.24" loading="lazy" style="margin-bottom: 15px;" srcset="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-03_a_15.44.24.jpg 541w, https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-03_a_15.44.24-300x191.jpg 300w" sizes="(max-width: 541px) 100vw, 541px" data-attachment-id="15633" data-permalink="https://bivol.bg/wl-rwe-belene.html/capture_decran_2012-10-03_a_15-44-24" data-orig-file="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-03_a_15.44.24.jpg" data-orig-size="541,346" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;}" data-image-title="Capture_decran_2012-10-03_a_15.44.24" data-image-description="" data-medium-file="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-03_a_15.44.24-300x191.jpg" data-large-file="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-03_a_15.44.24.jpg" /></div>Посланик Нанси Макълдауни, снимка Sofia Photo Agency &#8220;Деляне, свържи се с централата на RWE и поискай писмено да ти отговорят дали ГЕРБ или нашето правителство е изгонило RWE и дали&#8230;]]></description>
+		
+		
+		
+			<media:content url="https://bivol.bg/wp-content/uploads/2012/10/Capture_decran_2012-10-03_a_15.44.24.jpg" medium="image" />
+<post-id xmlns="com-wordpress:feed-additions:1">15634</post-id>	</item>
+		<item>
+		<title>&#8220;Сделката на века&#8221; на НЕК със сръбските олигарси</title>
+		<link>https://bivol.bg/eft.html</link>
+		
+		<dc:creator><![CDATA[Екип на Биволъ]]></dc:creator>
+		<pubDate>Sat, 27 Mar 2010 12:09:59 +0000</pubDate>
+				<category><![CDATA[Енергетика]]></category>
+		<category><![CDATA[Потеря]]></category>
+		<category><![CDATA[EFT]]></category>
+		<category><![CDATA[АЕЦ]]></category>
+		<category><![CDATA[Андрей Кристоф]]></category>
+		<category><![CDATA[Белене]]></category>
+		<category><![CDATA[Богомил Манчев]]></category>
+		<category><![CDATA[Вук Хамович]]></category>
+		<category><![CDATA[Димитър Калчев]]></category>
+		<category><![CDATA[Енергийна мафия]]></category>
+		<category><![CDATA[ЕФТ]]></category>
+		<category><![CDATA[Износ на ток]]></category>
+		<category><![CDATA[Милко Ковачев]]></category>
+		<category><![CDATA[Младен Стийович]]></category>
+		<category><![CDATA[НЕК]]></category>
+		<category><![CDATA[Николай Вузев]]></category>
+		<category><![CDATA[Румен Овчаров]]></category>
+		<category><![CDATA[Сделка на века]]></category>
+		<guid isPermaLink="false">http://new.bivol.bg/eft.html</guid>
+
+					<description><![CDATA[<p>В късната есен на 2002 г. Николай Вузев, бивш зам-министър на търговията в правителството на Беров оглавява закъсалия торов завод "Химко" - Враца. "Навигаторът-философ", както го характеризира публикация във в-к Стандарт, има пъстра трудова биография. Бил е капитан на риболовен кораб, завършил философия в СУ-Климент Охридски, кмет на софийската община "Триадица", началник на "Печатни произведения", член на борда на "Нефтохим" и търговец с химически продукти. Пред вестника Вузев заявил, че е привърженик на философската теория "аз мога и ще го направя".<br /> <br /> Година по-късно оптимистичната теория на Вузев е опровергана от действителността. "Химко" има 35 млн. лева дългове и прекратява производството. Вузев се преориентира към търговията с ток. В края на 2004 Николай Вузов като представител на "Енергийна Финансова Група" АД на Богомил Манчев, чиято фирма "Риск Инженеринг" строи АЕЦ Белене, става съосновател на "ЕФТ-България". Съдружник е датската фирма EFT Holdings представлявана от сърбина Младен Стийович. В управителния съвет влиза и Андрей Кристов. "ЕФТ - България" подава документи за лиценз за търговец на ток в ДКЕВР и след първоначален отказ, през 2005 г. става първата компания получила такива права.</p>
+]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">14341</post-id>	</item>
+	</channel>
+</rss>
